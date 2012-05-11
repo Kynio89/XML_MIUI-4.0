@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_settings">Ustawienia Samsung</string>
+    <string name="screen_mode_setting">Tryb wyświetlania</string>
+    <string name="screen_mode_summary">Wybierz tryb wyświetlania</string>
+    <string name="touch_key_light">Przyciski dotykowe</string>
+    <string name="touch_key_light_summary">Dostosuj opóźnienie wyłączenia podświetlenia przycisków dotykowych</string>
+    <string name="display_saving">Dynamiczna jasność LCD</string>
+    <string name="display_saving_mode_summary">Wpływa na oszczędzanie energii przez dostosowanie jasności LCD do typu wyświetlanego obrazu</string>
+    <string name="a_sensor_title">Pozioma kalibracja</string>
+    <string name="a_sensor_summary">Kalibracja czujnika przyspieszenia w poziomie</string>
+    <string name="g_sensor_title">Kalibracja żyroskopu</string>
+    <string name="g_sensor_summary">Kalibracja ruchu z użyciem żyroskopu</string>
+</resources>
