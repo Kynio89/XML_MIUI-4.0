@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="APKTOOL_DUMMY_0614">false</string>
-    <string name="APKTOOL_DUMMY_0615">false</string>
-    <string name="APKTOOL_DUMMY_0616">false</string>
-    <string name="APKTOOL_DUMMY_0617">false</string>
     <string name="about_settings">Informacje o telefonie</string>
     <string name="about_settings_summary">Informacje prawne, status telefonu, wersja oprogramowania</string>
     <string name="ac_enable_title">Ograniczenia dostępu</string>
@@ -210,9 +206,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="battery_desc_standby">Użycie baterii przy nieaktywnym telefonie</string>
     <string name="battery_desc_voice">Użycie baterii przez połączenia głosowe</string>
     <string name="battery_desc_wifi">Użycie baterii przez Wi-Fi</string>
-    <string name="battery_history_days" formatted="false">%1$dd %2$dh %3$dm %4$ds</string>
-    <string name="battery_history_hours" formatted="false">%1$dh %2$dm %3$ds</string>
-    <string name="battery_history_minutes" formatted="false">%1$dm %2$ds</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
     <string name="battery_history_seconds">%1$ds</string>
     <string name="battery_indicator_style">Styl wskaźnika baterii</string>
     <string name="battery_info_awake_battery">Czas działania na baterii:</string>
@@ -336,11 +332,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="bluetooth_enter_pin_msg">Aby sparować z urządzeniem &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, wpisz wymagany kod PIN urządzenia:</string>
     <string name="bluetooth_enter_pin_msg_hs">Aby sparować z urządzeniem \"%1$s\". [Zwiększone bezpieczeństwo: wpisz 16 znakowy klucz]</string>
     <string name="bluetooth_enter_pin_other_device">Może być również konieczne wpisanie tego kodu PIN na drugim urządzeniu.</string>
-    <string name="bluetooth_error_title"/>
-    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
-    <string name="bluetooth_ftp_connection_permission_request">Ftp connection request</string>
-    <string name="bluetooth_ftp_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_ftp_request">Ftp request</string>
     <string name="bluetooth_headset_profile_summary_connected">Połączono z funkcją audio telefonu</string>
     <string name="bluetooth_headset_profile_summary_use_for">Użyj dla funkcji audio telefonu</string>
     <string name="bluetooth_hid_profile_summary_connected">Podłączono do urządzenia wejściowego</string>
@@ -350,10 +341,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="bluetooth_is_discoverable_always">Widoczne dla wszystkich urządzeń Bluetooth</string>
     <string name="bluetooth_lock_voice_dialing">Zablokuj wybieranie głosowe</string>
     <string name="bluetooth_lock_voice_dialing_summary">Zapobiegaj używaniu wybierania Bluetooth, gdy ekran jest zablokowany</string>
-    <string name="bluetooth_map_connection_permission_request">Map connection request</string>
-    <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
-    <string name="bluetooth_mas_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_mas_request">Message Access request</string>
     <string name="bluetooth_menu_advanced">Zaawansowane</string>
     <string name="bluetooth_name_not_set">Nie ustawiono nazwy, wykorzystywana jest nazwa konta</string>
     <string name="bluetooth_no_devices_found">Brak urządzeń Bluetooth w pobliżu</string>
@@ -394,18 +381,10 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="bluetooth_profile_opp">Przesyłanie pliku</string>
     <string name="bluetooth_profile_pan">Dostęp do internetu</string>
     <string name="bluetooth_profile_pan_nap">Udostępnianie połączenia internetowego</string>
-    <string name="bluetooth_profile_sap">Dostęp do SIM</string>
     <string name="bluetooth_quick_toggle_summary">Włącz Bluetooth</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_rename_button">Zmień nazwę</string>
     <string name="bluetooth_rename_device">Zmień nazwę telefonu</string>
-    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
-    <string name="bluetooth_sap_connection_permission_request">Sap connection request</string>
-    <string name="bluetooth_sap_profile_summary_connected">Connected to SIM Access Server</string>
-    <string name="bluetooth_sap_profile_summary_not_connected">Not connected to SIM Access Server</string>
-    <string name="bluetooth_sap_profile_summary_use_for">Use for SIM Access</string>
-    <string name="bluetooth_sap_remember_choice">"Don't ask again"</string>
-    <string name="bluetooth_sap_request">SAP request</string>
     <string name="bluetooth_scan_for_devices">Wyszukaj urządzenia</string>
     <string name="bluetooth_search_for_devices">Szukaj urządzeń</string>
     <string name="bluetooth_searching_for_devices">Wyszukiwanie…</string>
@@ -922,8 +901,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="move_app_to_internal">Przenieś do telefonu</string>
     <string name="move_app_to_sdcard">Przenieś na kartę SD</string>
     <string name="moving">Przenoszenie</string>
-    <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
-    <string name="multi_sim_settings_title">Multi Sim Settings</string>
     <string name="multi_touch_points_category_title">Punkty Multi-touch</string>
     <string name="multi_touch_points_preference">Uruchom ponownie by aktywować</string>
     <string name="musicfx_title">Efekty muzyczne</string>
@@ -987,6 +964,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="power_usage_summary">Bateria</string>
     <string name="power_usage_summary_title">Bateria</string>
     <string name="power_wifi">Wi-Fi</string>
+    <string name="pref_button_light">Podświetlenie przycisków</string>
+    <string name="pref_button_light_summary">Podświetlenie przycisków Menu, Home i Back</string>
+    <string name="pref_operational_key">Przyciski nawigacyjne</string>
     <string name="pref_volume_category_title">Przycisk głośności</string>
     <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
     <string name="pref_volume_wake_title">Wybudzenie</string>
@@ -1164,18 +1144,45 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="sdcard_settings_unmounted_status">Można teraz wyjąć nośnik USB.</string>
     <string name="sdcard_settings_used_bytes_label">Wykorzystanych bajtów:</string>
     <string name="sdcard_unmount">Odłącz nośnik USB</string>
+    <string name="search_about">Informacje</string>
+    <string name="search_accelerometer">Akcelerometr</string>
+    <string name="search_access_control">Kontrola dostępu</string>
+    <string name="search_airplane">Samolot</string>
+    <string name="search_android_beam">Beam</string>
+    <string name="search_battery_indicator">Wskaźnik baterii</string>
+    <string name="search_bluetooth">Blutooth</string>
+    <string name="search_brightness">Jasność</string>
+    <string name="search_date_time">Data</string>
+    <string name="search_description">Ustawienia wyszukiwania</string>
+    <string name="search_gps">GPS</string>
+    <string name="search_hint">Ustawienia wyszukiwania</string>
+    <string name="search_key">key</string>
+    <string name="search_label">Ustawienia</string>
+    <string name="search_language">Language</string>
+    <string name="search_launcher">Launcher</string>
+    <string name="search_led">LED</string>
+    <string name="search_network">Network</string>
+    <string name="search_ring_volume">Ring Volume</string>
+    <string name="search_ringtone">Ringtone</string>
+    <string name="search_screen_timeout">Screen Timeout</string>
     <string name="search_settings">Wyszukiwanie</string>
     <string name="search_settings_summary">Zarządzaj ustawieniami i historią wyszukiwania</string>
+    <string name="search_silent">Silent</string>
+    <string name="search_sms_received">SMS received</string>
+    <string name="search_status_bar">status bar</string>
+    <string name="search_sync">Sync</string>
+    <string name="search_tether">Tether</string>
+    <string name="search_unlock_set">Unlock set</string>
+    <string name="search_vpn">VPN</string>
+    <string name="search_wallpaper">wallpaper</string>
+    <string name="search_wifi">WiFi</string>
     <string name="security_passwords_title">Hasła</string>
     <string name="security_privacy_settings_title">Bezpieczeństwo i prywatność</string>
     <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
     <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
     <string name="security_settings_title">Zabezpieczenia</string>
-    <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
-    <string name="sel_sub_title">Configure Subscriptions</string>
     <string name="select_all">Wybierz wszystkie</string>
     <string name="select_device_admin_msg">Administratorzy urządzenia</string>
-    <string name="select_subscription">Select Subscription</string>
     <string name="service_background_processes">Wolne: %1$s</string>
     <string name="service_busy">Usługa jest zajęta. Spróbuj ponownie.</string>
     <string name="service_client_name">%1$s</string>
@@ -1187,9 +1194,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="service_started_by_app">Uruchomione przez aplikację: dotknij by zatrzymać</string>
     <string name="service_stop">Zatrzymaj</string>
     <string name="service_stop_description">Usługa została uruchomiona przez odpowiednią aplikację. Jej zatrzymanie może spowodować awarię tej aplikacji.</string>
-    <string name="set_data_subscription_progress">Set data subscription in progress</string>
-    <string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
-    <string name="set_dds_success">Set data subscription success</string>
     <string name="settings_backup">Ustawienia kopii zapasowej</string>
     <string name="settings_backup_summary">Utwórz kopię zapasową moich ustawień</string>
     <string name="settings_button">Ustawienia</string>
@@ -1220,7 +1224,6 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="show_touches">Pokaż dotknięcia</string>
     <string name="show_touches_summary">Potwierdzenia wizualne po dotknięciu</string>
     <string name="silent_mode_title">Tryb cichy</string>
-    <string name="sim_absent">Brak SIM</string>
     <string name="sim_bad_pin">Błędny kod PIN</string>
     <string name="sim_change_failed">"Nie można zmienić kodu PIN. Wpisany kod PIN może być błędny."</string>
     <string name="sim_change_failed_enable_sim_lock">Nie udało się zmienić SIM/RUIM PIN. Enable SIM/RUIM LOCK.</string>
@@ -1242,8 +1245,6 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="sim_lock_settings_title">Blokada karty SIM</string>
     <string name="sim_pin_attempts">Pozostało prób :</string>
     <string name="sim_pin_change">Zmień PIN do karty SIM</string>
-    <string name="sim_pin_disabled">PIN1 Disabled!</string>
-    <string name="sim_pin_enabled">PIN1 Enabled!</string>
     <string name="sim_pin_toggle">Zablokuj kartę SIM</string>
     <string name="sim_pins_dont_match">Kody PIN nie są identyczne.</string>
     <string name="sim_reenter_new">Wpisz ponownie nowy kod PIN</string>
@@ -1256,8 +1257,6 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="sms_over_ims_on">Włącz SMS przez IMS</string>
     <string name="sms_received_sound_dialog_title">Wybierz dźwięk otrzymania SMS</string>
     <string name="sms_received_sound_title">Dźwięk otrzymania SMS</string>
-    <string name="sms_summary">Select the Subscription for Sending SMS</string>
-    <string name="sms_title">SMS</string>
     <string name="sort_order_alpha">Sortuj alfabetycznie</string>
     <string name="sort_order_size">Sortuj według rozmiaru</string>
     <string name="sound_category_calls_and_notification_title">Dzwonki i powiadomienia</string>
@@ -1274,7 +1273,6 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="status_bar_settings">Pasek statusu</string>
     <string name="status_bt_address">Adres Bluetooth</string>
     <string name="status_data_state">Stan sieci komórkowej</string>
-    <string name="status_esn_number">ESN</string>
     <string name="status_icc_id">ICCID</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
@@ -1303,11 +1301,7 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="storageuse_settings_title">Użycie pamięci</string>
     <string name="strict_mode">Tryb ścisły włączony</string>
     <string name="strict_mode_summary">Miganie ekranu podczas długich operacji w wątku głównym</string>
-    <string name="subscription_01_summary">Set options for SUB1 network settings</string>
-    <string name="subscription_01_title">SUB 1</string>
-    <string name="subscription_02_summary">Set options for SUB2 network settings</string>
-    <string name="subscription_02_title">SUB 2</string>
-    <string name="sum_carrier_select">Wybierz operatora sieci.</string>
+   <string name="sum_carrier_select">Wybierz operatora sieci</string>
     <string name="summary_font_size">%1$s</string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="sync_automatically">Autosynchronizuj dane aplikacji</string>
@@ -1493,8 +1487,6 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="voice_input_output_settings">Ustawienia głosowe</string>
     <string name="voice_input_output_settings_title">Ustawienia funkcji głosowych</string>
     <string name="voice_search_settings_title">Wyszukiwanie głosowe</string>
-    <string name="voice_summary">Select Subscription for Voice Call</string>
-    <string name="voice_title">Voice/USSD/MMI</string>
     <string name="volume_alarm_description">Alarmy</string>
     <string name="volume_category_title">Głośności</string>
     <string name="volume_media_description">Muzyka, filmy, gry i inne multimedia</string>

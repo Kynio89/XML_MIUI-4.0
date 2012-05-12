@@ -54,10 +54,11 @@
         <item>46001</item>
         <item>46000</item>
         <item>46003</item>
+        <item>46003</item>
+        <item>46001</item>
         <item>46000</item>
         <item>46003</item>
     </string-array>
     <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
-    <item type="array" name="android_config_statusBarIcons">@android:array/config_statusBarIcons</item>
 </resources>

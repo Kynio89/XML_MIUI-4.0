@@ -21,8 +21,21 @@
     <item type="id" name="seekbar" />
     <item type="id" name="timeDisplayBackground" />
     <item type="id" name="timeDisplayForeground" />
-    <item type="id" name="boot_msg_animation">false</item>
-    <item type="id" name="boot_msg_title">false</item>
+    <item type="id" name="buttonCopy" />
+    <item type="id" name="buttonCut" />
+    <item type="id" name="buttonPaste" />
+    <item type="id" name="buttonPasteList" />
+    <item type="id" name="buttonSelect" />
+    <item type="id" name="buttonSelectAll" />
+    <item type="id" name="panel" />
+    <item type="id" name="separator1" />
+    <item type="id" name="separator2" />
+    <item type="id" name="separator3" />
+    <item type="id" name="arrow_up" />
+    <item type="id" name="arrow_down" />
+    <item type="id" name="boot_msg_title" />
+    <item type="id" name="boot_msg_animation" />
+    <item type="id" name="android_placeholder">@android:id/placeholder</item>
     <item type="id" name="banner">false</item>
     <item type="id" name="photo">false</item>
     <item type="id" name="image_star">false</item>
@@ -49,9 +62,6 @@
     <item type="id" name="ok_menu_item">false</item>
     <item type="id" name="ok_menu_item_icon">false</item>
     <item type="id" name="ok_menu_item_text">false</item>
-    <item type="id" name="top_flag">false</item>
-    <item type="id" name="center_flag">false</item>
-    <item type="id" name="bottom_flag">false</item>
     <item type="id" name="icon">false</item>
     <item type="id" name="message">false</item>
     <item type="id" name="option1">false</item>
@@ -65,30 +75,16 @@
     <item type="id" name="carrier">false</item>
     <item type="id" name="screenLocked">false</item>
     <item type="id" name="unlock_sim_via_puk">false</item>
-    <item type="id" name="thumbnail_1">false</item>
-    <item type="id" name="thumbnail_2">false</item>
-    <item type="id" name="thumbnail_3">false</item>
-    <item type="id" name="title_1">false</item>
-    <item type="id" name="title_2">false</item>
-    <item type="id" name="title_3">false</item>
-    <item type="id" name="row_item">false</item>
-    <item type="id" name="title">false</item>
-    <item type="id" name="author">false</item>
-    <item type="id" name="arrow">false</item>
-    <item type="id" name="mark">false</item>
-    <item type="id" name="subtitle">false</item>
-    <item type="id" name="duration">false</item>
-    <item type="id" name="root">false</item>
-    <item type="id" name="resourcelist">false</item>
-    <item type="id" name="loadingprogressbar">false</item>
     <item type="id" name="lock_screen_battery_info">false</item>
     <item type="id" name="lock_screen_call_preview_list">false</item>
     <item type="id" name="line1">false</item>
     <item type="id" name="number">false</item>
+    <item type="id" name="duration">false</item>
     <item type="id" name="album_wrapper">false</item>
     <item type="id" name="lock_screen_music_album">false</item>
     <item type="id" name="lock_screen_music_temp_album">false</item>
     <item type="id" name="lock_screen_music_battery_indicator">false</item>
+    <item type="id" name="title">false</item>
     <item type="id" name="lockscreen_music_command">false</item>
     <item type="id" name="previous">false</item>
     <item type="id" name="play_pause">false</item>
@@ -103,15 +99,7 @@
     <item type="id" name="third_digital">false</item>
     <item type="id" name="fouth_digital">false</item>
     <item type="id" name="current_date">false</item>
-    <item type="id" name="tablayout">false</item>
-    <item type="id" name="tab_bar">false</item>
-    <item type="id" name="categorylist">false</item>
-    <item type="id" name="hottest_button">false</item>
-    <item type="id" name="latest_button">false</item>
-    <item type="id" name="search_bar">false</item>
-    <item type="id" name="search_input">false</item>
-    <item type="id" name="search_action">false</item>
-    <item type="id" name="search_toggle">false</item>
+    <item type="id" name="root">false</item>
     <item type="id" name="previews">false</item>
     <item type="id" name="imageView1">false</item>
     <item type="id" name="textView1">false</item>
@@ -131,6 +119,27 @@
     <item type="id" name="ringtoneimage">false</item>
     <item type="id" name="ringtonename">false</item>
     <item type="id" name="ringtonebutton">false</item>
+    <item type="id" name="top_flag">false</item>
+    <item type="id" name="center_flag">false</item>
+    <item type="id" name="bottom_flag">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="mark">false</item>
+    <item type="id" name="subtitle">false</item>
+    <item type="id" name="thumbnail_1">false</item>
+    <item type="id" name="thumbnail_2">false</item>
+    <item type="id" name="thumbnail_3">false</item>
+    <item type="id" name="author">false</item>
+    <item type="id" name="resourcelist">false</item>
+    <item type="id" name="loadingprogressbar">false</item>
+    <item type="id" name="tablayout">false</item>
+    <item type="id" name="tab_bar">false</item>
+    <item type="id" name="categorylist">false</item>
+    <item type="id" name="hottest_button">false</item>
+    <item type="id" name="latest_button">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_input">false</item>
+    <item type="id" name="search_action">false</item>
+    <item type="id" name="search_toggle">false</item>
     <item type="id" name="operationBar">false</item>
     <item type="id" name="downloadProgress">false</item>
     <item type="id" name="operationView">false</item>
@@ -140,14 +149,4 @@
     <item type="id" name="deleteButton">false</item>
     <item type="id" name="action_select_all">false</item>
     <item type="id" name="delete">false</item>
-    <item type="id" name="flag">false</item>
-    <item type="id" name="titleContent">false</item>
-    <item type="id" name="titlePrevious">false</item>
-    <item type="id" name="titleNext">false</item>
-    <item type="id" name="detaillayout">false</item>
-    <item type="id" name="scrollview">false</item>
-    <item type="id" name="parentlayout">false</item>
-    <item type="id" name="componentGrid">false</item>
-    <item type="id" name="resourcefile">false</item>
-    <item type="id" name="componentTitle">false</item>
 </resources>

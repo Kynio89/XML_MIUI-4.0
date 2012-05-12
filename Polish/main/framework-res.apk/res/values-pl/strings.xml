@@ -250,7 +250,7 @@ dla numeru %s"</string>
 	<string name="defaultVoiceMailAlphaTag">Poczta głosowa</string>
 	<string name="default_permission_group">Domyślne</string>
 	<string name="default_text_encoding">Latin-1</string>
-	<string name="default_wallpaper_component">com.android.phasebeam/.PhaseBeamWallpaper</string>
+	<string name="default_wallpaper_component">@null</string>
 	 <string name="delete">Usuń</string>
     <string name="deleteText">usuń</string>
     <string name="deny">Odmów</string>

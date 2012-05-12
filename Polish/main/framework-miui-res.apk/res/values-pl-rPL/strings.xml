@@ -9,6 +9,7 @@
     <string name="android_ellipsis">@android:string/ellipsis</string>
     <string name="android_factorytest_reboot">@android:string/factorytest_reboot</string>
     <string name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</string>
+    <string name="android_find_on_page">@android:string/find_on_page</string>
     <string name="android_gigabyteShort">@android:string/gigabyteShort</string>
     <string name="android_global_action_power_off">@android:string/global_action_power_off</string>
     <string name="android_global_actions_airplane_mode_off_status">@android:string/global_actions_airplane_mode_off_status</string>
@@ -26,6 +27,7 @@
     <string name="android_lockscreen_sim_locked_message">@android:string/lockscreen_sim_locked_message</string>
     <string name="android_lockscreen_sim_puk_locked_instructions">@android:string/lockscreen_sim_puk_locked_instructions</string>
     <string name="android_lockscreen_sim_puk_locked_message">@android:string/lockscreen_sim_puk_locked_message</string>
+    <string name="android_megabyteShort">@android:string/megabyteShort</string>
     <string name="android_phoneTypeMms">@android:string/phoneTypeMms</string>
     <string name="android_power_off">@android:string/power_off</string>
     <string name="android_report">@android:string/report</string>
@@ -33,10 +35,13 @@
     <string name="android_ringtone_silent">@android:string/ringtone_silent</string>
     <string name="android_ringtone_unknown">@android:string/ringtone_unknown</string>
     <string name="android_shutdown_confirm">@android:string/shutdown_confirm</string>
+    <string name="android_shutdown_progress">@android:string/shutdown_progress</string>
     <string name="android_silent_mode_ring">@android:string/silent_mode_ring</string>
     <string name="android_silent_mode_silent">@android:string/silent_mode_silent</string>
     <string name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</string>
     <string name="android_ssl_certificate">@android:string/ssl_certificate</string>
+    <string name="android_ssl_certificate_is_valid">@android:string/ssl_certificate_is_valid</string>
+    <string name="android_tomorrow">@android:string/tomorrow</string>
     <string name="android_twelve_hour_time_format">@android:string/twelve_hour_time_format</string>
     <string name="android_twenty_four_hour_time_format">@android:string/twenty_four_hour_time_format</string>
     <string name="android_volume_alarm">@android:string/volume_alarm</string>
@@ -46,6 +51,7 @@
     <string name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</string>
     <string name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</string>
     <string name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</string>
+    <string name="android_yesterday">@android:string/yesterday</string>
     <string name="arbor_day"/>
     <string name="autumn_begins"/>
     <string name="autumn_equinox"/>
@@ -398,7 +404,9 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="sd_not_available_use_internal_storage">Kara SD niedostępna, zapisano do pamięci wewnętrznej</string>
     <string name="sdcard_status_changed_dialog_message">"Kończenie działania. Otwórz ponownie aplikację, aby odświeżyć zasoby."</string>
     <string name="sdcard_status_changed_dialog_title">Zmiana statusu karty SD</string>
+    <string name="select">Zaznacz</string>
     <string name="select_all">Zaznacz wszystko</string>
+    <string name="sim_account_name">SIM</string>
     <string name="slight_cold"/>
     <string name="slight_heat"/>
     <string name="spring_begins"/>
@@ -406,6 +414,7 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="summer_begins"/>
     <string name="summer_solstice"/>
     <string name="teachers_day"/>
+    <string name="text_pastelist">Schowek</string>
     <string name="the_armys_day"/>
     <string name="the_double_ninth_festival"/>
     <string name="the_dragon_boat_festival"/>

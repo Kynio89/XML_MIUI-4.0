@@ -691,6 +691,8 @@ Spróbuj ponownie lub zadzwoń do działu obsługi klienta, aby uzyskać więcej
     <string name="phone_numbers">Wpisz numery telefonów</string>    
     <string name="pick_outgoing_call_phone_type">Zadzwoń</string>
     <string name="pick_outgoing_sip_phone">Użyj konta do dzwonienia przez internet:</string>
+    <string name="pin2_attempts">"
+Pozostało prób :"</string>
     <string name="pin2_changed">Kod PIN2 został pomyślnie zmieniony</string>
     <string name="pin2_changed_miui">Kod PIN2 został pomyślnie zmieniony</string>
     <string name="pin2_invalid">Nie zaktualizowano usługi FDN: wprowadzono nieprawidłowy kod PIN.</string>
@@ -727,6 +729,7 @@ Please notice that PIN2 related functionality will be locked if failed again!"</
     <string name="preferred_network_mode_gsm_only_summary">Preferowany tryb sieciowy: tylko GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Preferowany tryb sieciowy: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferowany tryb sieciowy: LTE/EVDO</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Preferowany tryb sieciowy: LTE / CDMA</string>
     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferowany tryb sieciowy: GSM/WCDMA/LTE</string>
     <string name="preferred_network_mode_lte_summary">Preferowany tryb sieciowy: LTE</string>
     <string name="preferred_network_mode_lte_wcdma_summary">Preferowany tryb sieciowy: LTE / CDMA</string>
@@ -797,6 +800,7 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="requesting_ruim_unlock">Requesting UIM UIM unlock…</string>
     <string name="requesting_sim_unlock">Requesting SIM SIM unlock…</string>
     <string name="requesting_sp_unlock">Requesting SIM service provider unlock…</string>
+    <string name="requesting_unlock">Requesting Network unlock...</string>
     <string name="reset_my_choice_hint">W Ustawieniach połączeń możesz zmienić konto połączeń przez internet, które będzie domyślnie używane przy nawiązywaniu połączeń, wybierając inne konto w sekcji Ustawienia połączeń przez internet</string>
     <string name="respond_via_sms_canned_response_1">"Nie mogę rozmawiać. Co słychać?"</string>
     <string name="respond_via_sms_canned_response_1_miui">"Nie mogę rozmawiać. Zadzwonię później.""</string>
@@ -819,6 +823,7 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="retail_directory_enable">Katalog sprzedaży detalicznej włączony</string>
     <string name="retry">Ponów próbę</string>
     <string name="reverting_settings">Cofanie ustawień…</string>
+    <string name="rhrpd_unlock_failed">UIM Hrpd unlock request unsuccessful.</string>
     <string name="rhrpd_unlock_success">UIM Hrpd unlock successful.</string>
     <string name="rnw1_unlock_failed">UIM Network1 unlock request unsuccessful.</string>
     <string name="rnw1_unlock_success">UIM Network1 unlock successful.</string>
@@ -884,6 +889,7 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="sim_unlock_dismiss_text">Odrzuć</string>
     <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
     <string name="sim_unlock_status_text">Authenticating PIN…</string>
+    <string name="sim_unlock_success">SIM SIM unlock successful.</string>
     <string name="sim_unlock_unlock_unlock_unlock_text">Odblokuj</string>
     <string name="sip_account_list">Konta SIP</string>
     <string name="sip_accounts">Konta SIP</string>
@@ -999,6 +1005,8 @@ Szybkość transmisji zmniejszona do %2$d Kb/s"</string>
     <string name="tty_mode_title">TTY mode</string>
     <string name="turnover_mute_title_miui">Odwróć by wyciszyć</string>
     <string name="unknown">Nieznany</string>
+    <string name="unlock_failed">Network unlock request unsuccessful.</string>
+    <string name="unlock_success">Network unlock successful.</string>
     <string name="updating_fdn_contact">Trwa aktualizowanie ustalonego numeru…</string>
     <string name="updating_settings">Aktualizowanie ustawień...</string>
     <string name="updating_title">Ustawienia połączeń</string>

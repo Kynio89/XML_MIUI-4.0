@@ -34,6 +34,7 @@
     <string name="file_info_location">Ścieżka:</string>
     <string name="file_info_modified">Zmodyfikowany:</string>
     <string name="file_info_size">Rozmiar:</string>
+    <string name="file_loading">Ładowanie...</string>
     <string name="file_size">%d Bajtów</string>
     <string name="install_failed">Instalacja nieudana</string>
     <string name="install_successful">Instalacja udana</string>
