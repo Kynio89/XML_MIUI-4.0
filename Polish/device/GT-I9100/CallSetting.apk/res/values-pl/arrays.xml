@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calldiverting_list">
+        <item>Tak, zawsze</item>
+        <item>Jeśli zajęty</item>
+        <item>Jeśli nie odpowiada</item>
+        <item>Gdy poza zasięgiem</item>
+        <item>Anuluj wszystkie</item>
+    </string-array>
+    <string-array name="callbarring_list">
+        <item>Wszystkie poł. wychodzące</item>
+        <item>Wychodzące poł. międzynarodowe</item>
+        <item>Poł. międzynarodowe z wyjątkiem krajowych</item>
+        <item>Wszystkie poł. przychodzące</item>
+        <item>Przychodzące w roamingu</item>
+        <item>Anuluj wszystkie</item>
+    </string-array>
+    <string-array name="waiting_time">
+        <item>5 sek.</item>
+        <item>10 sek.</item>
+        <item>15 sek.</item>
+        <item>20 sek.</item>
+        <item>25 sek.</item>
+        <item>30 sek.</item>
+    </string-array>
+    <string-array name="automatic_time">
+        <item>1 sek.</item>
+        <item>2 sek.</item>
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+    </string-array>
+    <string-array name="autoreject_alert">
+        <item>Spis poł.</item>
+        <item>Kontakty</item>
+    </string-array>
+    <string-array name="fakecallerimage_alert">
+        <item>Obraz</item>
+        <item>Zrób zdjęcie</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_default">
+        <item>Obrazy</item>
+        <item>Filmy</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_changed">
+        <item>Domyślny obraz</item>
+        <item>Obrazy</item>
+        <item>Filmy</item>
+    </string-array>
+    <string-array name="callerimage_alert_default">
+        <item>Obrazy</item>
+        <item>Filmy</item>
+        <item>Zrób zdjęcie</item>
+        <item>Nagraj film</item>
+    </string-array>
+    <string-array name="callerimage_alert_changed">
+        <item>Domyślny obraz</item>
+        <item>Obrazy</item>
+        <item>Filmy</item>
+        <item>Zrób zdjęcie</item>
+        <item>Nagraj film</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>Wył.</item>
+        <item>Po 1 sekundzie</item>
+        <item>Po 2 sekundach</item>
+        <item>Po 3 sekundach</item>
+        <item>Po 4 sekundach</item>
+        <item>Po 5 sekundach</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="match_criteria_entries">
+        <item>Dokładnie takie same, jak</item>
+        <item>Zacznij od</item>
+        <item>Kończy się</item>
+        <item>Zawiera</item>
+    </string-array>
+    <string-array name="match_criteria_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="auto_reject_mode">
+        <item>Wył.</item>
+        <item>Wszystkie numery</item>
+        <item>Autom. odrzucanie numerów</item>
+    </string-array>
+    <string-array name="auto_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

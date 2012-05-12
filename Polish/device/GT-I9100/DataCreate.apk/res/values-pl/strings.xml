@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataCreate</string>
+    <string name="current_data_state_call_log">Spis połączeń</string>
+    <string name="current_data_state_incoming_call">Połączenie</string>
+    <string name="current_data_state_outgoing_call">Połączenie wychodzące</string>
+    <string name="current_data_state_missed_call">Połączenie nieodebrane</string>
+    <string name="current_data_state_photo">Zdjęcie</string>
+    <string name="current_data_state_video">Film</string>
+    <string name="current_data_state_mp3">MP3</string>
+    <string name="current_data_state_voice_memo">Notatka głosowa</string>
+    <string name="current_data_state_phone_book">Phone Book</string>
+    <string name="current_data_state_schedule">Terminarz</string>
+    <string name="current_data_state_tasks">Zadania</string>
+    <string name="current_data_state_memo">Not.</string>
+    <string name="current_data_state_message">Wiadomość</string>
+    <string name="current_data_state_mmsinbox">Skrzynka odbiorcza MMS</string>
+    <string name="current_data_state_mmsoutbox">Skrzynka nadawcza MMS</string>
+    <string name="current_data_state_ring_tone">Dzwonek</string>
+    <string name="current_data_state_screen">Ekran</string>
+    <string name="current_data_state_not_available">Brak</string>
+    <string name="current_data_state_calculating">Obliczanie...</string>
+    <string name="data_copy_inbox">Skrz. odb.</string>
+    <string name="data_copy_outbox">Skrz. nadaw.</string>
+    <string name="data_copy_sentbox">Elementy wysłane</string>
+    <string name="data_copy_draftbox">Wersje robocze</string>
+    <string name="data_copy_phonebook">Kontakty</string>
+    <string name="data_copy_calllog">Spis połączeń</string>
+    <string name="data_copy_incoming_call">Połączenie</string>
+    <string name="data_copy_outgoing_call">Połączenie wychodzące</string>
+    <string name="data_copy_missed_call">Połączenie nieodebrane</string>
+    <string name="data_copy_etc">Inne</string>
+    <string name="data_copy_schedule">Terminarz</string>
+    <string name="data_copy_memo">Not.</string>
+    <string name="file_copy_photo">Obraz</string>
+    <string name="file_copy_mp3">MP3</string>
+    <string name="file_copy_video">Film</string>
+    <string name="file_copy_voice_memo">Notatka głosowa</string>
+    <string name="file_copy_reset">Ust.fabryczne</string>
+    <string name="ver_version_name">Wersja</string>
+    <string name="ver_label_FTA">Tryb testowy</string>
+    <string name="ver_version">Wersja</string>
+</resources>
