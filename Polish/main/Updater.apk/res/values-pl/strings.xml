@@ -16,7 +16,7 @@
     <string name="apply_upload_info_message_manually">Wyłącz telefon i ręcznie uruchom w Recovery by zastosować aktualizację z SD w %s.</string>
     <string name="applying_rom_message">Instalacja ROMu</string>
     <string name="applying_update">Aktualizowanie...%s</string>
-    <string name="boot_recovery">Recovery</string>
+    <string name="boot_recovery">Uruchom w Recovery</string>
     <string name="cancel_download_buton_text">Anuluj pobieranie</string>
     <string name="check_update_policy">Sprawdzanie aktualizacji</string>
     <string name="check_update_when_wifi_available">Szukaj aktualizacji tylko przy Wi-Fi</string>

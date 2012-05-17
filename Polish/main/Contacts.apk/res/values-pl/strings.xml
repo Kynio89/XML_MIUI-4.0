@@ -219,6 +219,8 @@
     <string name="editContactDescription">Edytuj kontakt</string>
     <string name="edit_contact">Edytuj kontakt</string>
     <string name="edit_contact_card_title">Edytuj kartę kontaktu</string>
+	<string name="edit_hint">Edytuj</string>
+	<string name="edit_photo">Edytuj zdjęcie</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
     <string name="email_custom">E-mail – %s</string>
@@ -356,6 +358,7 @@ Przyczyna: \"%s\""</string>
     <string name="messageShortcutActivityTitle">Wybierz numer, aby wysłać wiadomość</string>
     <string name="missing_name">(Bez nazwy)</string>
     <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie informacji z wielu kont.</string>
+    <string name="move_and_resize">Przesuń i zmień rozmiar</string>
     <string name="nameLabelsGroup">Nazwa</string>
     <string name="name_family">Nazwisko</string>
     <string name="name_given">Imię</string>
@@ -466,6 +469,7 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
     <string name="removePhoto">Usuń zdjęcie</string>
     <string name="ringLabelsGroup">Dzwonek</string>
+	<string name="save_photo_progress">Zapisywanie zdjęcia...</string>
     <string name="savingContact">Trwa zapisywanie kontaktu...</string>
     <string name="savingDisplayGroups">Trwa zapisywanie opcji wyświetlania...</string>
     <string name="scan_duplicate">"Wyszukiwanie zduplikowanych kontaktów, proszę czekać... "</string>
