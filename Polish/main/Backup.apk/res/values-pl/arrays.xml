@@ -5,18 +5,17 @@
         <item>Wszystkie aplikacje</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Galeria</item>
-        <item>Muzyka</item>
-        <item>Nagrywanie</item>
         <item>Przeglądarka</item>
+        <item>Menadżer Plików</item>
+        <item>Galeria</item>
+        <item>Uprawnienia</item>
         <item>Aparat</item>
-        <item>Menadżer plików</item>
+        <item>Nagrywanie</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakty</item>
         <item>Rejestr połączeń</item>
 		<item>Wiadomości tekstowe</item>
-		<item>Wiadomości MMS</item>
         <item>Ustawienia systemowe</item>
         <item>Ustawienia Wi-Fi</item>
         <item>Układ pulpitu</item>

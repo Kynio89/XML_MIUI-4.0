@@ -675,6 +675,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="force_stop_dlg_text">Aplikacja zostanie uruchomiona ponownie. Czy na pewno chcesz wymusić zatrzymanie?</string>
     <string name="force_stop_dlg_title">Wymuś zatrzymanie</string>
     <string name="forget_wifi_message">Zapomnieć tą sieć Wi-Fi? Przy ponownym połączeniu konieczne będzie wprowadzenie hasła</string>  
+    <string name="frequently_fragment_tempty">Najczęściej używane funkcje będą wypisane poniżej</string>
     <string name="gadget_picker_title">Wybierz widżet</string>
     <string name="gadget_title">Sterowanie zasilaniem</string>
     <string name="gadget_toggle_bluetooth">Aktualizacja ustawień Bluetooth</string>
@@ -1079,6 +1080,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
         Twoich danych osobistych) w sekcji Ustawienia > Kopia i kasowanie danych.</string>
     <string name="remove_account_label">Usuń konto</string>
     <string name="remove_device_admin">Dezaktywuj</string>
+    <string name="remove_from_frequently_fragment">Usunąć \"%s\" z popularnych ustawień?</string>
     <string name="restore_default_apn">Przywracanie domyślnych ustawień APN</string>
     <string name="restore_default_apn_completed">Przywracanie domyślnych ustawień APN zostało ukończone.</string>
     <string name="ring_volume_title">Głośność dzwonka</string>

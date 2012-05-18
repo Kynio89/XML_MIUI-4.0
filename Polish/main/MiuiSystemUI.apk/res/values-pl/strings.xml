@@ -149,6 +149,7 @@
     <string name="screenshot_saving_text">Zrzut ekranu zapisywany.</string>
     <string name="screenshot_saving_ticker">Zapisywanie zrzutu…</string>
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
+    <string name="settings_auto_dismiss_screenshot_notification">Ukryj inf. o zrzucie ekranu</string>
     <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
     <string name="settings_expandable_under_fullscreen_summary">Możliwość wysunięcia paska powiadomień w aplikacjach na pełnym ekranie</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>

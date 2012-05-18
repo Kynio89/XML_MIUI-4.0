@@ -346,6 +346,11 @@
     <string name="search_label">Przeglądarka</string>
     <string name="search_settings_description">Zakładki i historia przeglądanych zasobów sieciowych</string>
     <string name="search_the_web">Szukaj w internecie</string>
+    <string name="search_cancel">Anuluj</string>
+    <string name="search_baidu">Baidu</string>
+    <string name="search_google">Google</string>
+    <string name="search_yahoo">Yahoo</string>
+    <string name="search_bing">Bing</string>
     <string name="security_warning">Ostrzeżenie zabezpieczeń</string>
     <string name="select_dot">Zaznacz tekst</string>
     <string name="set_as_homepage">Ustaw jako stronę główną</string>

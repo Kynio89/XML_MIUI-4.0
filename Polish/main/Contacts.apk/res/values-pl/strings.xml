@@ -154,6 +154,7 @@
     <string name="date_time_set">Ustaw</string>
     <string name="date_year_toggle">Podaj rok</string>
     <string name="default_ringtone">Domyślny dzwonek</string>
+    <string name="delete">Usuń</string>
     <string name="deleteConfirmation">Ten kontakt zostanie usunięty.</string>
     <string name="deleteConfirmation_title">Usunąć kontakt?</string>
     <string name="delete_call_log_title">Usunąć rejestr połączeń?</string>
@@ -507,7 +508,7 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
     <string name="sim_contacts_invisiable">Ukryte</string>
     <string name="sim_contacts_visiable">Widoczne</string>
-    <string name="sim_indexed_contact_not_exist" formatted="false">Pozycja %1$d na karcie SIM jest nieprawidłowa, powinna się być między %2$d a %3$d</string>
+    <string name="sim_indexed_contact_not_exist">Pozycja %1$d na karcie SIM jest nieprawidłowa, powinna się być między %2$d a %3$d</string>
     <string name="sim_no_contact">Brak kontaktów na karcie SIM</string>
     <string name="sms">SMS</string>
     <string name="sms_assistant">SMS – %s</string>

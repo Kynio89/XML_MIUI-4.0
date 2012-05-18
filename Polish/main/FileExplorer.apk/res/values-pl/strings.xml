@@ -6,6 +6,7 @@
     <string name="category_all">Wszystkie</string>
     <string name="category_apk">APKs</string>
     <string name="category_document">Dokumenty</string>
+    <string name="category_default_number_text">(0)</string>
     <string name="category_favorite">Ulubione</string>
     <string name="category_music">Muzyka</string>
     <string name="category_other">Inne</string>
