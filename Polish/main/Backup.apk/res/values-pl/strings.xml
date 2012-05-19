@@ -111,10 +111,10 @@ Sprawdź połączenie z siecią i spróbuj ponownie"</string>
 	<string name="restore_contacts_hit">(Uwaga: Należy ręcznie dokonać przywrócenia Kontaktów utworzonych przed utworzeniem ich na koncie)</string>
 	<string name="restore_counts">Recovery:</string>
 	<string name="restore_finished">Przywracanie zakończone</string>
-	<string name="restore_launcher_layout_hit">(Uwaga: Tylko ustawienia pulpitu</string>
+	<string name="restore_launcher_layout_hit">(Uwaga: Tylko ustawienia pulpitu)</string>
 	<string name="restore_progress">Przywracanie...</string>
 	<string name="restore_report">Raport przywracania</string>
-	<string name="restore_telephony_hit">(Uwaga: Proces przywracania kopii zrestartuje aplikację Telefon</string>
+	<string name="restore_telephony_hit">(Uwaga: Proces przywracania kopii zrestartuje aplikację Telefon)</string>
 	<string name="retry">Ponów</string>
 	<string name="reverse_all">Wyczyść wszystko</string>
 	<string name="sc_bad_request">Nieprawidłowe zapytanie</string>
@@ -163,7 +163,7 @@ anulowane przywracanie może uszkodzić dane"</string>
 	<string name="task_service_not_launched">Usługa Kopii nieuruchomiona, proszę czekać!</string>
 	<string name="task_stopped_exception">Operacja wstrzymana</string>
 	<string name="total_num">%d rekordów</string>
-	<string name="unit_byte">"B"</string>
+	<string name="unit_byte">" B"</string>
 	<string name="unit_piece">" Szt."</string>
 	<string name="unknown_hint">Nieznany</string>
 	<string name="wifi_title">Ustawienia Wi-Fi</string>
