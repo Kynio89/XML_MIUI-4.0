@@ -148,7 +148,6 @@
     <string name="geolocation_settings_page_title">Anuluj dostęp do lokalizacji</string>
     <string name="go_home">Strona główna</string>
     <string name="goto_dot">OK</string>
-    <string name="help_page">Pomoc</string>
     <string name="history">Historia</string>
     <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string> 
     <string name="homepage_set">Strona główna została ustawiona.</string>
@@ -187,10 +186,6 @@
     <string name="miui_yellowpage_category">Kategoria</string>
     <string name="miui_yellowpage_site">Strona</string>
     <string name="name">Etykieta</string>
-    <string name="navigator_permissions_prompt_dont_share">Odmów</string>
-    <string name="navigator_permissions_prompt_message" formatted="false">%s prosi o dostęp do %s</string>
-    <string name="navigator_permissions_prompt_remember">Pamiętaj ustawienie</string>
-    <string name="navigator_permissions_prompt_share">Zezwól</string>
     <string name="new_folder">Nowy folder</string>
     <string name="new_incognito_tab">Nowa karta incognito</string>
     <string name="new_tab">Nowa karta</string>
@@ -255,7 +250,6 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Użyj szerokiego widoku</string>
     <string name="pref_development_visual_indicator">Włącz wskaźnik wizualny</string>
-    <string name="pref_development_woff">Włącz WOFF</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">Zaznacz, aby wyłączać przeglądarkę po zamknięciu ostatniej karty na ekranie nawigacyjnym. Odznacz by wyświetlić stronę domową</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Zakończ po zamknięciu ostatniej karty</string>
     <string name="pref_extras_reset_default">Przywróć wartości domyślne</string>
@@ -279,7 +273,7 @@
     <string name="pref_lab_fullscreen_summary">Użyj trybu pełnoekranowego, aby ukryć pasek stanu</string>
     <string name="pref_lab_quick_controls">Szybkie sterowanie</string>
     <string name="pref_lab_quick_controls_summary">Przesuń palcem od bocznej krawędzi, by wyświetlić ukryte opcje sterowania i pasek adresu</string>
-    <string name="pref_lab_slide_tab_transitions">Przejścia zakłądek</string>
+    <string name="pref_lab_slide_tab_transitions">Przejścia zakładek</string>
     <string name="pref_lab_slide_tab_transitions_summary">Przesuń od krawędzi ekranu by wybrać karty z listy</string>
     <string name="pref_lab_title">Laboratorium</string>
     <string name="pref_min_font_size">Minimalny rozmiar czcionki</string>
