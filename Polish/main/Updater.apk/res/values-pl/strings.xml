@@ -24,7 +24,7 @@
     <string name="confirm_download_cancelation_dialog_message">Na pewno chcesz anulować pobieranie?</string>
     <string name="copy_install_log">Kopiuj do schowka</string>
     <string name="current_version_text">"Aktualna wersja: "</string>
-    <string name="daily_build">Dzienna kompilacja</string>
+    <string name="daily_build">Dzienna</string>
     <string name="dialog_no">Nie</string>
     <string name="dialog_ok">Ok</string>
     <string name="dialog_yes">Tak</string>
@@ -106,7 +106,7 @@
     <string name="view_details">Szczegóły</string>
     <string name="view_install_log">Rejestr</string>
     <string name="view_upgrade_tutorial">Zobacz pomoc</string>
-    <string name="weekly_build">Tygodniowa kompilacja</string>
+    <string name="weekly_build">Tygodniowa</string>
     <string name="wifi_not_available_body">Pliki romów są znacznych rozmiarów, zalecane jest użycie Wi-Fi. Nie masz otwartego połączenia Wi-Fi, czy kontynuować?</string>
     <string name="wifi_not_available_title">Wi-Fi niedostępne</string>
 </resources>
