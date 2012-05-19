@@ -40,9 +40,9 @@
     <string name="crop">Przytnij</string>
     <string name="crop_action">Przytnij</string>
     <string name="crop_label">Przytnij zdjęcie</string>
-    <string name="crop_not_saved">"Ucięte zdjęcie nie zostało zapisane."</string>
-    <string name="crop_save_text">Utnij</string>
-    <string name="crop_saved">Ucięte zdjęcie zapisano w Downloads.</string>
+    <string name="crop_not_saved">"Przycięte zdjęcie nie zostało zapisane."</string>
+    <string name="crop_save_text">Przytnij</string>
+    <string name="crop_saved">Przycięte zdjęcie zapisano w Downloads.</string>
     <string name="crop_tooltip">Przesuń znaczniki by uciąć zdjęcie</string>
     <string name="crossprocess">Przeplatanie</string>
     <string name="cut">Wycinanie</string>
