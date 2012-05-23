@@ -6,6 +6,7 @@
     <string name="apply_font_tip">Motyw zawiera czcionkę. Wymagane jest ponowne uruchomienie systemu.</string>
     <string name="apply_font_btn_reboot">Zastosuj</string>
     <string name="apply_font_btn_exclude">Zastosuj bez czcionki</string>
+	<string name="backup_theme_name">Moja kopia</string>	
 	<string name="backup_preference_title">Zapisz zmodyfikowany motyw</string>
 	<string name="backup_theme_dialog_message">Lokalizacja motywu: Karta SD\n Ścieżka: \\MIUI\\theme\\backup\n Nazwa: backup.mtz</string>
 	<string name="backup_theme_dialog_ok">OK</string>

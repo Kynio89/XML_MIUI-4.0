@@ -34,7 +34,8 @@
     <string name="clear_thumbnail_cache_confirm">Pamięć podręczna zostanie usunięta. Galeria ponownie przeskanuje pliki multimedialne i odtworzy miniaturki.</string>
     <string name="click_import">Dotknij tutaj aby importować</string>
     <string name="close">Zamknij</string>
-    <string name="confirm_delete">Usunąć?</string>
+    <string name="cloud_albums">Albumy online</string>
+    <string name="confirm_delete">Usunąć %s elementów?</string>
     <string name="confirm_know">OK</string>
     <string name="contact_photo">Zdjęcie kontaktu</string>
     <string name="crop">Przytnij</string>
@@ -102,7 +103,6 @@
     <string name="height">Wysokość</string>
     <string name="highlight">Prześwietlenie</string>
     <string name="home_my_captured_items">wszystkich zdjęć</string>
-    <string name="home_recent_albums">najnowszych albumów</string>
     <string name="how_many_pics">%d Zdjęć</string>
     <string name="how_many_sub_folders">%d Katalogów</string>
     <string name="how_many_videos">%d Filmów</string>
@@ -159,7 +159,6 @@
     <string name="open_single_image_failure">Nie można otworzyć pliku obrazu!</string>
     <string name="operation_cancel">Anuluj</string>
     <string name="operation_delete">Usuń</string>
-    <string name="operation_delete_confirm_message">Zaznaczone pliki multimedialne lub w zaznaczonych katalogach zostaną usunięte z karty SD</string>
     <string name="operation_info">Szczegóły</string>
     <string name="operation_refresh">Odśwież</string>
     <string name="operation_rename">Zmień nazwę</string>
@@ -206,11 +205,11 @@
     <string name="sd_folder">Katalog karty SD</string>
     <string name="sd_not_available">Karta SD odmontowana</string>
     <string name="seconds">sekund</string>
-    <string name="select_album">Zaznacz albumy</string>
+    <string name="select_album">Edycja</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="select_group">Zaznacz grupy</string>
     <string name="select_image">Zaznacz zdjęcie</string>
-    <string name="select_item">Zaznacz</string>
+    <string name="select_item">Edycja</string>
     <string name="select_video">Zaznacz film</string>
     <string name="send">Wyślij</string>
     <string name="send_multiple_files_hint_format">Wyślij wiele plików (%s)</string>

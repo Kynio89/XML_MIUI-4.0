@@ -4,7 +4,6 @@
     <string name="account_phone">Tylko telefon, brak synchronizacji</string>
     <string name="account_sim">Tylko SIM, niesynchronizowany</string>
     <string name="account_type_format">Kontakt %1$s</string>
-    <string name="activity_title_confirm_add_detail">Dodaj do kontaktu</string>
     <string name="activity_title_contacts_filter">Kontakty do wyświetlenia</string>
     <string name="activity_title_settings">Ustawienia</string>
     <string name="add_account">Dodaj konto</string>
@@ -24,7 +23,6 @@
     <string name="attach_photo_dialog_title">Zdjęcie kontaktu</string>
     <string name="audio_chat">Czat głosowy</string>
     <string name="blurbJoinContactDataWith">Wybierz kontakt, który chcesz połączyć z %s:</string>
-    <string name="btn_finished">Gotowe</string>
     <string name="caching_vcard_message">Trwa buforowanie plików vCard w lokalnym obszarze tymczasowym. Właściwy import rozpocznie się za chwilę.</string>
     <string name="caching_vcard_title">Buforowanie</string>
     <string name="callBack">Oddzwoń</string>
@@ -59,7 +57,6 @@
     <string name="call_work_mobile">Połącz – służbowa komórka</string>
     <string name="call_work_pager">Połącz – pager służbowy</string>
     <string name="calllog_menu_blacklist">Dodaj do czarnej listy</string>
-    <string name="calllog_menu_call_ip_number">Wybierz połączenie IP (%s)</string>
     <string name="calllog_menu_edit_before_call">Edytuj przed połączeniem</string>
     <string name="calllog_menu_send_sms">Wyślij SMS</string>
     <string name="callrecordview_item_newcontact">Nowy kontakt</string>
@@ -151,6 +148,7 @@
     <string name="create_group_item_label">[Utwórz nową grupę]</string>
     <string name="customLabelPickerTitle">Nazwa etykiety niestandardowej</string>
     <string name="custom_list_filter">Zdefiniuj widok niestandardowy</string>
+    <string name="date_picker_label">Przypomnij na 3 dni wcześniej i w dniu urodzin</string>
     <string name="date_time_set">Ustaw</string>
     <string name="date_year_toggle">Podaj rok</string>
     <string name="default_ringtone">Domyślny dzwonek</string>
@@ -291,7 +289,6 @@ Przyczyna: \"%s\""</string>
     <string name="invalidContactMessage">Kontakt nie istnieje.</string>
     <string name="keep_local">Przechowuj lokalnie</string>
     <string name="label_duplicate_count">(%1$d)</string>
-    <string name="label_merge">Połączone</string>
     <string name="label_no_duplicate_contacts">Brak zduplikowanych kontaktów</string>
     <string name="label_notes">Notatki</string>
     <string name="label_sip_address">Rozmowa internetowa</string>
@@ -359,7 +356,7 @@ Przyczyna: \"%s\""</string>
     <string name="messageShortcutActivityTitle">Wybierz numer, aby wysłać wiadomość</string>
     <string name="missing_name">(Bez nazwy)</string>
     <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie informacji z wielu kont.</string>
-    <string name="move_and_resize">Przesuń i zmień rozmiar</string>
+    <string name="move_and_resize">Zmień pozycję lub rozmiar</string>
     <string name="nameLabelsGroup">Nazwa</string>
     <string name="name_family">Nazwisko</string>
     <string name="name_given">Imię</string>
@@ -380,23 +377,65 @@ Przyczyna: \"%s\""</string>
     <string name="noContacts">Brak kontaktów</string>
     <string name="noContactsHelpText">"Nie masz kontaktów do wyświetlenia.
 
-By dodać kontakty naciśnij "</string>
+Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
+"</li></font></b>"
+"</string>
     <string name="noContactsHelpTextForCreateShortcut">"Nie masz kontaktów do wyświetlenia."</string>
     <string name="noContactsHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. 
 
-By dodać kontakty naciśnij "</string>
+Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
+"</li></font></b>"
+"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nie masz kontaktów do wyświetlenia. (Jeśli dodałeś właśnie konto może to chwilę potrwać zanim kontakty się zsynchronizują.)"</string>
     <string name="noContactsNoSimHelpText">"Nie masz kontaktów do wyświetlenia. 
 
-By dodać kontakty naciśnij "</string>
+Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
+"</li></font></b>"
+"</string>
     <string name="noContactsNoSimHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. 
 
-By dodać kontakty naciśnij "</string>
+Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
+"</li></font></b>"
+"</string>
     <string name="noContactsWithPhoneNumbers">Brak kontaktów z numerami telefonów.</string>
     <string name="noFavoritesHelpText">"Nie masz żadnych ulubionych. 
 
-By dodać kontakt z do listy ulubionych:
+Aby dodać kontakt do listy ulubionych:
 
+"<li>Naciśnij <b>Kontakty</b>"
+"</li>" 
+"<li>"Wybierz kontakt, który ma być dodany do Ulubionych
+"</li>" 
+"<li>"Wybierz gwiazdkę przy nazwie kontaktu
+"</li>"
 "</string>
     <string name="noGroups">Brak grup.</string>
     <string name="noMatchingContacts">Nie znaleziono pasujących kontaktów.</string>
@@ -466,17 +505,14 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="recent_updates">Ostatnie aktualizacje</string>
     <string name="relationLabelsGroup">Relacja</string>
     <string name="remind_btn_ignore">Ignoruj</string>
-    <string name="remind_btn_not_remind">Nie przypominaj</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
     <string name="removePhoto">Usuń zdjęcie</string>
     <string name="ringLabelsGroup">Dzwonek</string>
 	<string name="save_photo_progress">Zapisywanie zdjęcia...</string>
-    <string name="savingContact">Trwa zapisywanie kontaktu...</string>
     <string name="savingDisplayGroups">Trwa zapisywanie opcji wyświetlania...</string>
     <string name="scan_duplicate">"Wyszukiwanie zduplikowanych kontaktów, proszę czekać... "</string>
     <string name="scan_duplicate_message">Całkowicie zduplikowane kontakty: %1$d</string>
     <string name="scan_merge">Wyszukiwanie zduplikowanych kontaktów, proszę czekać...</string>
-    <string name="scan_merge_message">Częściowo zduplikowane kontakty: %1$d</string>
     <string name="scanning_sdcard_failed_message">"Nie można przejrzeć nośnika. (Przyczyna: \"%s\")"</string>
     <string name="scanning_sdcard_failed_title">"Nie można przeskanować pamięci"</string>
     <string name="searchHint">Przeszukuj kontakty</string>

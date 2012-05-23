@@ -14,7 +14,7 @@
 	<string name="add_slide_hint">Wybierz, aby utworzyć nowy slajd.</string>
 	<string name="add_smiley">Emotki</string>
 	<string name="add_subject">Dodaj temat</string>
-<string name="add_timing">Czas</string>
+	<string name="add_timing">Czas</string>
 	<string name="add_video">Dodaj film wideo</string>
 	<string name="adding_attachments">Poczekaj na zakończenie dodawania elementów do pokazu slajdów.</string>
 	<string name="adding_attachments_title">Dodawanie załączników</string>
@@ -28,7 +28,7 @@
 	<string name="attach_sound">Dźwięki</string>
 	<string name="attach_subject">Temat</string>
 	<string name="attach_take_photo">Zrób zdjęcie</string>
-<string name="attach_video">Filmy wideo</string>
+	<string name="attach_video">Filmy wideo</string>
 	<string name="batch_delete_confirm_dialog_message">Usuń %1$s wybranych wiadomości</string>
 	<string name="batch_delete_thread_confirm_dialog_message">Usuwanie %1$s wiadomości</string>
 	<string name="batch_deleting_message_progress_message">Usuwanie wybranych wiadomości</string>
@@ -51,14 +51,12 @@
 	<string name="check_nothing">Odznacz wszystko</string>
 	<string name="chenghu_disable_mms">Nieprawidłowy adres MMS</string>
 	<string name="class_0_message_activity">Wiadomość klasy 0</string>
-<string name="close">Zamknij</string>
+	<string name="close">Zamknij</string>
 	<string name="compressing">Obraz jest zbyt duży. Trwa kompresowanie...</string>
 	<string name="confirm">Potwierdź</string>
 	<string name="confirm_clear_search_text">Historia wyszukiwania zostanie wyczyszczona.</string>
 	<string name="confirm_clear_search_title">Wyczyść</string>
-	<string name="confirm_delete_RUIM_message">This message on the RUIM will be deleted.</string>
 	<string name="confirm_delete_SIM_message">Wiadomość na karcie SIM zostanie usunięta.</string>
-	<string name="confirm_delete_all_RUIM_messages">All messages on the RUIM will be deleted.</string>
 	<string name="confirm_delete_all_SIM_messages">Wszystkie wiadomości na karcie SIM zostaną usunięte.</string>
 	<string name="confirm_delete_all_conversations">Wszystkie wątki zostaną usunięte.</string>
 	<string name="confirm_delete_conversation">Cały wątek zostanie usunięty.</string>
@@ -124,7 +122,7 @@
 	<string name="enter_edit_mode">Usuwanie</string>
 	<string name="error_code_label">"Kod błędu: "</string>
 	<string name="error_state">Niekompletny stan</string>
-<string name="error_state_text">Stan wątków i odbiorców jest niekompletny. Wyślij raport o błędzie na android-sms-bugs@google.com</string>
+	<string name="error_state_text">Stan wątków i odbiorców jest niekompletny. Wyślij raport o błędzie na android-sms-bugs@google.com</string>
 	<string name="error_timed_msg">Nie można zaplanować czasu wysyłania wcześniej niż teraz</string>
 	<string name="exceed_message_size_limitation">Osiągnięto maksymalny rozmiar wiadomości.</string>
 	<string name="exit_edit_mode">Wyjdź</string>
@@ -140,7 +138,7 @@
 	<string name="fetion_prefix">[Otwórz]</string>
 	<string name="flatshow_page_no">Strona %1$d</string>
 	<string name="forward_prefix">"Fwd: "</string>
-<string name="from_label">"Od: "</string>
+	<string name="from_label">"Od: "</string>
 	<string name="full_phrase">Limit 50 zwrotów osiągnięty</string>
 	<string name="group_message">Wiadomość grupowa</string>
 	<string name="group_message_failed_title">Wysłanie %d wiadomości nieudane. Ponowić?</string>
@@ -311,8 +309,8 @@
 	<string name="pref_title_sms_delivery_reports">Raporty doręczeń</string>
     <string name="pref_title_system_mms_priority">Priorytet aplikacji MMS</string>
     <string name="pref_title_wake_up_screen">Podświetlenie ekranu</string>
-<string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
-<string name="pref_summary_hide_festival">Ukrywa zakładkę polecane dla języków innych niż Chiński</string>  
+	<string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
+	<string name="pref_summary_hide_festival">Ukrywa zakładkę polecane dla języków innych niż Chiński</string>  
 	<string name="preferences_title">Ustawienia</string>
 	<string name="prepare_send">Wysyłanie...</string>
 	<string name="preview">Podgląd</string>
@@ -342,13 +340,9 @@
 	<string name="resent_message">Wysł. ponownie</string>
 	<string name="resize_image_error_information">Niestety, nawet po zmianie rozmiaru zdjęcie jest zbyt duże, aby je wysłać.</string>
 	<string name="restore_default">Przywróć ustawienia domyślne</string>
-	<string name="ruim_empty">No messages on the RUIM card.</string>
-	<string name="ruim_full_title">RUIM card full</string>
-	<string name="ruim_manage_messages_title">Text messages on RUIM card</string>
 	<string name="save">Zapisz</string>
 	<string name="save_ringtone">Zapisz jako dzwonek</string>
-	<string name="save_to_ruim">Zapisz na RUIM card</string>
-    <string name="save_to_sim">Zapisz na SIM</string>
+	<string name="save_to_sim">Zapisz na SIM</string>
 	<string name="saved_label">"Zapisany: "</string>
 	<string name="saved_ringtone">Dzwonek został zapisany</string>
 	<string name="saved_ringtone_fail">Zapisanie dzwonka nie powiodło się</string>

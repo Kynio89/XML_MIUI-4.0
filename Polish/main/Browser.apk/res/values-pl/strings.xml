@@ -28,6 +28,7 @@
     <string name="add_to_bookmarks_menu_option">Zakładki</string>
     <string name="add_to_homescreen_menu_option">Ekran główny</string>
     <string name="add_to_other_folder_menu_option">Inny folder</string>
+    <string name="add_xiaomi_account_warning">Zaloguj się najpierw do konta Xiaomi</string>
     <string name="added_to_bookmarks">Dodano do zakładek.</string>
     <string name="allow">Zezwól</string>
     <string name="application_name">Internet</string>
@@ -109,7 +110,7 @@
     <string name="do_not_save">Anuluj</string>
     <string name="download_no_sdcard_dlg_msg">Do pobrania pliku %s wymagany jest nośnik USB.</string>
     <string name="download_no_sdcard_dlg_title">Nośnik USB niedostępny</string>
-    <string name="download_pending">Rozpoczynanie pobierania...</string>
+    <string name="download_pending">Rozpoczynanie pobierania…</string>
     <string name="download_sdcard_busy_dlg_msg">Nośnik USB jest zajęty. Aby umożliwić pobieranie, w powiadomieniu dotknij Wyłącz nośnik USB.</string>
     <string name="download_sdcard_busy_dlg_title">Nośnik USB niedostępny</string>
     <string name="dump_counters">Dump V8 counters</string>
@@ -237,6 +238,8 @@
     <string name="pref_default_text_encoding_dialogtitle">Kodowanie tekstu</string>
     <string name="pref_default_zoom">Powiększenie domyślne</string>
     <string name="pref_default_zoom_dialogtitle">Powiększenie domyślne</string>
+    <string name="pref_developer_options">Opcje programistyczne</string>
+    <string name="pref_developer_options_summary">Opcje dla debugowania i zgłaszania błędów</string>
     <string name="pref_development_cpu_upload_path">Włącz Cpu Upload Path</string>
     <string name="pref_development_error_console">Pokaż konsolę JavaScript</string>
     <string name="pref_development_hardware_accel">Włącz renderowanie OpenGL</string>
@@ -332,11 +335,12 @@
     <string name="remove_snapshot">Usuń zapisaną stronę</string>
     <string name="removed_from_bookmarks">Usunięto z zakładek.</string>
     <string name="replace">Zastąp adres</string>
+    <string name="report_reading_mode_issue">Zgłoś błąd o Trybie Czytania do MIUI</string>
     <string name="rlz_access_point">Y1</string>
     <string name="save">OK</string>
     <string name="save_to_bookmarks">Zapisz w zakładkach</string>
     <string name="search_button_text">Otwórz</string>
-    <string name="search_hint">Wyszukaj lub wpisz URL</string>
+    <string name="search_hint">Wyszukaj</string>
     <string name="search_label">Przeglądarka</string>
     <string name="search_settings_description">Zakładki i historia przeglądanych zasobów sieciowych</string>
     <string name="search_the_web">Szukaj w internecie</string>
@@ -384,6 +388,7 @@
     <string name="url_hint">Wyszukaj lub wpisz URL</string>
     <string name="username">Nazwa</string>
     <string name="view_certificate">Wyświetl certyfikat</string>
+    <string name="warning">Ostrzeżenie</string>
     <string name="website_settings_clear_all">Wyczyść wszystko</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Anuluj</string>
     <string name="website_settings_clear_all_dialog_message">Usunąć wszystkie dane witryn i uprawnienia dotyczące lokalizacji?</string>
