@@ -34,6 +34,8 @@
 	<string name="title_local">Lokalnie</string>
     <string name="title_online">W sieci</string>
     <string name="title_component">Własne</string>
+    <string name="title_system_resource">Zasoby systemowe</string>
+	<string name="title_download_resource">Pobrane zasoby</string>
     <string name="theme_activity_lable">Motywy</string>
 	<string name="theme_changed_failed_message">Ustawianie motywu: nieudane</string>
 	<string name="theme_changed_message">Motyw zastosowany!</string>
@@ -41,8 +43,8 @@
 	<string name="theme_component_title_alarm">Alarm</string>
 	<string name="theme_component_title_all">Motywy</string>
 	<string name="theme_component_title_audio_effect">Efekt dźwiękowy</string>
-	<string name="theme_component_title_boot_animation">Animacja uruchamiania</string>
-	<string name="theme_component_title_boot_audio">Dźwięk uruchamiania</string>
+	<string name="theme_component_title_boot_animation">Animacja startowa</string>
+	<string name="theme_component_title_boot_audio">Dźwięk startowy</string>
 	<string name="theme_component_title_contact">Motyw Dialera</string>
 	<string name="theme_component_title_font">Czcionki</string>
 	<string name="theme_component_title_framework">Motyw pulpitu</string>
@@ -51,7 +53,7 @@
 	<string name="theme_component_title_lockstyle">Ekran blokady</string>
 	<string name="theme_component_title_lockwallpaper">Tapeta blokady</string>
 	<string name="theme_component_title_mms">Motyw SMS</string>
-	<string name="theme_component_title_notification">Powiadomienia</string>
+	<string name="theme_component_title_notification">Powiadom.</string>
     <string name="theme_component_title_clock">Zegar</string>
     <string name="theme_component_title_photo_frame">Ramka na zdjęcia</string>
 	<string name="theme_component_title_others">Inne</string>

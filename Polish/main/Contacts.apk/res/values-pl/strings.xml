@@ -229,7 +229,7 @@
     <string name="email_work">E-mail – służbowy</string>
     <string name="empty_divider_title">Możesz</string>
     <string name="enter_contact_name">Wpisz imię osoby</string>
-    <string name="eventLabelsGroup">Wydarzenia</string>
+    <string name="eventLabelsGroup">Urodziny</string>
     <string name="event_edit_field_hint_text">Data</string>
     <string name="export_to_sdcard">Eksportuj na nośnik</string>
     <string name="exporting_contact_failed_message">"Dane kontaktów nie zostały wyeksportowane.
@@ -311,6 +311,7 @@ Przyczyna: \"%s\""</string>
     <string name="local_profile_title">Mój profil lokalny</string>
     <string name="local_search_label">Wszystkie kontakty</string>
     <string name="locale_change_in_progress">Lista kontaktów jest aktualizowana, aby odzwierciedlić zmianę języka.</string>
+	<string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
     <string name="make_primary">Zapamiętaj ten wybór</string>
     <string name="map_custom">Wyświetl adres: %s</string>
     <string name="map_home">Wyświetl adres domowy</string>

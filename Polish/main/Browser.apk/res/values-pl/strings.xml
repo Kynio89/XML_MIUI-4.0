@@ -179,7 +179,9 @@
     <string name="local_bookmarks">Lokalne</string>
     <string name="location">Adres</string>
     <string name="max_tabs_warning">Brak dostępnych kart</string>
+    <string name="menu_enable_night_mode">Włącz tryb nocny</string>
     <string name="menu_exit">Zakończ</string>
+    <string name="menu_disable_night_mode">Wyłącz tryb nocny</string>
     <string name="menu_preferences">Ustawienia</string>
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>
     <string name="menu_share_url">Udostępnij</string>

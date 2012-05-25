@@ -676,6 +676,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="force_stop_dlg_title">Wymuś zatrzymanie</string>
     <string name="forget_wifi_message">Zapomnieć tą sieć Wi-Fi? Przy ponownym połączeniu konieczne będzie wprowadzenie hasła</string>  
     <string name="frequently_fragment_tempty">Najczęściej używane funkcje będą wypisane poniżej</string>
+    <string name="frequently_fragment_delete">Usuń</string>
     <string name="gadget_picker_title">Wybierz widżet</string>
     <string name="gadget_title">Sterowanie zasilaniem</string>
     <string name="gadget_toggle_bluetooth">Aktualizacja ustawień Bluetooth</string>
@@ -771,9 +772,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
     <string name="lock_intro_message">"Chroń swój telefon przed nieautoryzowanym użyciem, tworząc osobisty wzór odblokowania ekranu. Na następnym ekranie połącz palcem co najmniej cztery kropki w
         dowolnej kolejności. Wszystko gotowe? Wybierz Dalej."</string>
-    <string name="lock_screen_unlock_show">Display screen password interface directly</string>
-    <string name="lock_screen_unlock_show_summary">"Don't use other lockscreens after enabling, just go to screen unlock interface"</string>
-    <string name="lock_settings_picker_settings">Set lockscreen</string>
+    <string name="lock_screen_unlock_show">Wyświetl ekran z hasłem bezpośrednio</string>
+    <string name="lock_screen_unlock_show_summary">"Nie używa innych ekranów blokady po włączeniu tej funkcji"</string>
+    <string name="lock_settings_picker_settings">Ustaw ekran blokady</string>
     <string name="lock_settings_picker_title">Wybierz blokadę ekranu</string>
     <string name="lock_settings_title">Zabezpieczenie ekranu</string>
     <string name="lock_setup">Konfiguracja ukończona</string>
