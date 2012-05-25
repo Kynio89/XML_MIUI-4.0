@@ -26,6 +26,13 @@
     <string name="alert_title">Powiadomienia kalendarza</string>
     <string name="app_label">Kalendarz</string>
     <string name="attendees_label">Goście</string>
+    <string name="birthday_calendar_display_name">Przypomnienia o urodzinach</string>
+    <string name="birthday_notification_title_today">Urodziny: %1$s</string>
+    <string name="birthday_notification_text_today">Dzisiaj są urodziny!</string>
+    <string name="birthday_notification_title_three_days_later">Zbliżają się urodziny: %1$s</string>
+    <string name="birthday_notification_text_three_days_later">Pozostały 3 dni do urodzin!</string>
+    <string name="birthday_notification_age_term"></string>
+    <string name="birthday_notification_type_term_lunar"></string>
     <string name="calendar_refresh">Odśwież</string>
     <string name="change_response_title">Zmień odpowiedź</string>
     <string name="chips_waiting_for_directory_result">Oczekiwanie na więcej kontaktów</string>
