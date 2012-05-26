@@ -148,13 +148,13 @@
     <string name="screenshot_saving_text">Zrzut ekranu zapisywany.</string>
     <string name="screenshot_saving_ticker">Zapisywanie zrzutu…</string>
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
-    <string name="settings_auto_dismiss_screenshot_notification">Ukryj inf. o zrzucie ekranu</string>
     <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
     <string name="settings_expandable_under_fullscreen_summary">Możliwość wysunięcia paska powiadomień w aplikacjach na pełnym ekranie</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
     <string name="settings_expandable_under_keyguard_summary">Możliwość wysunięcia paska powiadomień na zablokowanym ekranie</string>
     <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
     <string name="settings_notification_icon">Powiadomienia na pasku statusu</string>
+    <string name="settings_screenshot_notification_disabled">Ukryj inf. o zrzucie ekranu</string>
     <string name="settings_separator">,</string>
     <string name="settings_toggle">Przełączniki</string>
     <string name="settings_toggle_collapse_after_clicked">Zwiń po przełączeniu</string>
