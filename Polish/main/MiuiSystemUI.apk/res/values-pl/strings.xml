@@ -239,7 +239,7 @@ Dostępne: %2$s."</string>
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
     <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
     <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
-    <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
+    <string name="usb_device_confirm_prompt">Otworzyć %1$s gdy to urządzenie USB jest połączone?</string>
     <string name="usb_device_permission_prompt">Zezwolić aplikacji %1$s na dostęp do urządzenia USB?</string>
     <string name="usb_mode_dont_ask">"Nie pytaj ponownie"</string>
     <string name="usb_mode_mount_storage_title">Otworzyć nośnik USB？</string>

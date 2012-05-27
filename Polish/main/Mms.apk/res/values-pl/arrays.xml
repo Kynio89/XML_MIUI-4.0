@@ -1,52 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources><!-- Tlumaczenie PL by ACID .:forum.android.com.pl:..-->
-    <string-array name="default_smiley_texts">
-        <item>:-)</item>
-        <item>:-(</item>
-        <item>;-)</item>
-        <item>:-P</item>
-        <item>=-O</item>
-        <item>:-*</item>
-        <item>:O</item>
-        <item>B-)</item>
-        <item>:-$</item>
-        <item>:-!</item>
-        <item>:-[</item>
-        <item>O:-)</item>
-        <item>:-\\</item>
-        <item>":'("</item>
-        <item>:-X</item>
-        <item>:-D</item>
-        <item>o_O</item>
-        <item>&amp;lt;3</item>
-        <item>x-(</item>
-        <item>:-/</item>
-        <item>:-I</item>
-    </string-array>
-    <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
-        <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
-    </string-array>
-   <string-array name="prefEntries_ringtone_repeat">
+    <string-array name="prefEntries_ringtone_repeat">
         <item>1 raz</item>
         <item>2 razy</item>
         <item>3 razy</item>
@@ -73,22 +27,9 @@
         <item>Adres</item>
         <item>Uwagi</item>
     </string-array>
-    <string-array name="contact_values">
-        <item>vnd.android.cursor.item/name</item>
-        <item>vnd.android.cursor.item/nickname</item>
-        <item>vnd.android.cursor.item/phone_v2</item>
-        <item>vnd.android.cursor.item/email_v2</item>
-        <item>vnd.android.cursor.item/organization</item>
-        <item>vnd.android.cursor.item/im</item>
-        <item>vnd.android.cursor.item/sip_address</item>
-        <item>vnd.android.cursor.item/contact_event</item>
-        <item>vnd.android.cursor.item/website</item>
-        <item>vnd.android.cursor.item/postal-address_v2</item>
-        <item>vnd.android.cursor.item/note</item>
-    </string-array>
     <string-array name="select_dialog_items">
         <item>1 sekunda</item>
-        <item>2 sekund</item>
+        <item>2 sekundy</item>
         <item>3 sekundy</item>
         <item>4 sekundy</item>
         <item>5 sekund</item>
