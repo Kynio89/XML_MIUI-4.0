@@ -302,7 +302,7 @@
 	<string name="pref_title_notification_body_enabled">Podgląd wiadomości</string>
 	<string name="pref_title_notification_enabled">Powiadomienia</string>
 	<string name="pref_title_notification_ringtone">Wybierz dzwonek</string>
-	<string name="pref_title_notification_vibrateWhen">Vibrate</string>
+	<string name="pref_title_notification_vibrateWhen">Wibracja</string>
 	<string name="pref_title_ringtone_repeat">Powtarzanie dzwonka</string>
 	<string name="pref_title_show_recent_contacts">Ostatnie kontakty</string>
     <string name="pref_title_sms_delete">Limit wiadomości SMS</string>
@@ -310,7 +310,7 @@
     <string name="pref_title_system_mms_priority">Priorytet aplikacji MMS</string>
     <string name="pref_title_wake_up_screen">Podświetlenie ekranu</string>
 	<string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
-	<string name="pref_summary_hide_festival">Ukrywa zakładkę polecane dla języków innych niż Chiński</string>  
+	<string name="pref_summary_hide_festival">Ukrywa zakładkę Polecane dla języków innych niż Chiński</string>  
 	<string name="preferences_title">Ustawienia</string>
 	<string name="prepare_send">Wysyłanie...</string>
 	<string name="preview">Podgląd</string>
@@ -324,7 +324,7 @@
 	<string name="rate_limit_surpassed">Potwierdź</string>
     <string name="received_label">"Otrzymano: "</string>
     <string name="recent_contact_list_title">Ostatnie</string>
-	<string name="recipient_editor_count_format">Liczba odbiorców %d</string>
+	<string name="recipient_editor_count_format">"%d"</string>
 	<string name="recipient_label">"Odbiorca: "</string>
 	<string name="refresh">Odźwież</string>
 	<string name="refresh_failed">Odźwieżanie nieudane</string>
