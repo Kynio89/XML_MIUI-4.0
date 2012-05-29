@@ -1211,16 +1211,18 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
 Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputerze połączonym z internetem."</string>
     <string name="settings_safetylegal_title">Informacje o bezpieczeństwie</string>
     <string name="settings_shortcut">Skrót do ustawień</string>
-    <string name="show_all_anrs">Pokaż wszystkie ANR</string>
-    <string name="show_all_anrs_summary">Pokaż okno Aplikacja Nie Odpowiada dla aplikacji w tle.</string>
+    <string name="show_all_anrs">Pokaż wszystkie ANO</string>
+    <string name="show_all_anrs_summary">Pokaż okno Aplikacja Nie Odpowiada dla aplikacji w tle</string>
     <string name="show_background_processes">Pokaż buforowane procesy</string>
     <string name="show_cpu_usage">Pokaż użycie procesora</string>
     <string name="show_cpu_usage_summary">Nakładka na ekranie pokazująca użycie procesora</string>
+    <string name="show_fc">Pokaż okno FC</string>
+	<string name="show_fc_summary">Pokaż okno Aplilacja Została Zatrzymana (Force Close)</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="show_password">Pokaż hasło</string>
     <string name="show_password_summary"/>
     <string name="show_rounded_corners">Pokaż zaokrąglone rogi</string>
-    <string name="show_rounded_corners_summary">Wymagane jest ponowne uruchomienie by zastosować efekt</string>
+    <string name="show_rounded_corners_summary">Wymagane jest ponowne uruchomienie aby zastosować efekt</string>
     <string name="show_running_services">Pokaż uruchomione usługi</string>
     <string name="show_screen_updates">Pokaż aktualizacje ekranu</string>
     <string name="show_screen_updates_summary">Miganie aktualizowanych obszarów ekranu</string>
