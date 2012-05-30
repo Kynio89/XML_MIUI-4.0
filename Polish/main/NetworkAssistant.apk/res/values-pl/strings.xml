@@ -18,6 +18,7 @@
     <string name="apply_rules_failed_known">Zapamiętaj</string>
     <string name="batch_connect_control">Aplikacje</string>
     <string name="cancel_txt">Anuluj</string>
+    <string name="cannot_find_sms_cmd">"Can't find SMS command"</string>
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
     <string name="carrier_none_cmcc">%1$s, %2$s</string>
     <string name="carrier_query_number_brand">Service brand</string>
@@ -79,6 +80,7 @@
     <string name="settings_page_adjust_summary_no_carrier">Operator not set，Auto adjustment off</string>
     <string name="settings_page_traffic_summary">Available: %1$s, Warning: %2$s, Charge since %3$d</string>
     <string name="settings_page_traffic_summary_no_settings">Package not set, Charge since %d</string>
+    <string name="sms_template_match_fail">Match SMS template fail</string>
     <string name="sort_dialog_title">Sortowanie</string>
     <string name="sorted_flux">Traffic Stats</string>
     <string name="stop_app_button">Zamknij</string>
@@ -95,6 +97,7 @@
     <string name="traffic_none">N/A</string>
     <string name="traffic_package_widget_name">Widżet Monitora (1x4)</string>
     <string name="traffic_remain">Pozostało</string>
+    <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
     <string name="traffic_suffix">Dane</string>
     <string name="traffic_suffix_with_uint">Użycie danych (MB)</string>
     <string name="traffic_total">Razem: %s</string>
@@ -103,7 +106,7 @@
     <string name="unknown_free_traffic_hint">"If you don't know your traffic allowance, please speak to your mobile operator for assistance"</string>
     <string name="unknown_free_traffic_text">"I don't know my traffic allowance?"</string>
     <string name="unknown_free_traffic_title">Unknown free traffic</string>
-    <string name="unknown_location">Unknown location</string>
+    <string name="unknown_location">Nieznana lokalizacja</string>
     <string name="unknown_traffic_hint">Unknown traffic allowance, would you like to set it up now?</string>
     <string name="unknown_version">Unknown version</string>
     <string name="used_flux">Użycie danych</string>

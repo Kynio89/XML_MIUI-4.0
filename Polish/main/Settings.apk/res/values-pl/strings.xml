@@ -455,6 +455,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="computing_size">Przetwarzanie...</string>
     <string name="config_list_label">Skonfigurowane sieci</string>
     <string name="configure_input_method">Konfiguruj metody wprowadzania</string>
+    <string name="confirm_erase">Podwierdź</string>
     <string name="confirm_new_backup_pw_prompt">Ponownie wpisz tutaj nowe hasło pełnych kopii zapasowych.</string>
     <string name="contributors_title">Współautorzy</string>
     <string name="controls_label">Elementy sterujące</string>
@@ -649,6 +650,12 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="enable_back_long_press">Zamykanie aplikacji</string>
     <string name="enable_compatibility">Skaluj aplikację</string>
     <string name="enable_text">Włącz</string>
+    <string name="erase_application">Usuń aplikacje</string>
+	<string name="erase_application_description">Wymaż wszystkie zainstalowane aplikacje</string>
+	<string name="erase_optional">Opcjonalne</string>
+	<string name="erase_personal_data">Dane osobiste</string>
+	<string name="erase_personal_data_description">W tym konta, kontakty, rejestr połączeń i inne</string>
+	<string name="erase_sure">Potwierdzić usuwanie?</string>
     <string name="enter_password">Wpisz hasło, aby odszyfrować pamięć masową.</string>
     <string name="erase_external_storage">Wyczyść nośnik USB</string>
     <string name="erase_external_storage_description">Wymaż wszystkie dane z wewnętrznego nośnika USB, np. pliki muzyczne i zdjęcia.</string>
@@ -659,6 +666,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="error_title"/>
     <string name="external_code_size_label">Aplikacja w pamięci USB</string>
     <string name="external_data_size_label">Dane w pamięci USB</string>
+    <string name="factory_reset_summary">Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format karty SD by przywrócić ustawienia fabryczne</string>
     <string name="filter">Filtr</string>
     <string name="filter_apps_all">Wszystkie</string>
     <string name="filter_apps_onsdcard">Karta SD</string>
@@ -861,6 +869,11 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="master_clear_gesture_prompt">Narysuj wzór odblokowania</string>
     <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
     <string name="master_clear_title">Ustawienia fabryczne</string>
+    <string name="master_clear_all">"Wymazać wszystkie dane i przywrócić ustawienia fabryczne? Tej czynności nie można cofnąć"</string>
+	<string name="master_clear_erase_application_progress">Usuwanie aplikacji...</string>
+	<string name="master_clear_personal_data">"Wymazać wszystkie Twoje informacje osobiste? Tej czynności nie można cofnąć"</string>
+	<string name="master_clear_personal_data_application">"Wymazać wszystkie Twoje informacje osobiste i pobrane aplikacje? Tej czynności nie można cofnąć."</string>
+	<string name="master_clear_personal_data_sdcard">"Wymazać wszystkie Twoje informacje osobiste i sformatować kartę SD? Tej czynności nie można cofnąć"</string>
     <string name="media_button">Przycisk multimedialny</string>
     <string name="media_format_button_text">Wyczyść nośnik USB</string>
     <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz <b>wszystkie</b> zapisane dane.</string>

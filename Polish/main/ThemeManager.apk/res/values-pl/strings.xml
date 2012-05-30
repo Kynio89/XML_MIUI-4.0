@@ -62,8 +62,10 @@
 	<string name="theme_component_title_wallpaper">Tapeta pulpitu</string>
 	<string name="theme_description_title_customized">Zmień</string>
 	<string name="theme_description_title_default">Domyślnie</string>
+	<string name="theme_format_wrong_content">Format motywu jest nieprawidłowy</string>
 	<string name="theme_import">Wczytaj motyw z karty SD</string>
 	<string name="theme_select_others">Inne</string>
 	<string name="third_party_pickers_activity_title">Ustaw %1$s</string>
 	<string name="wallpaper_settings">Tapety</string>
+	<string name="wrong_title">Błąd</string>
 </resources>
