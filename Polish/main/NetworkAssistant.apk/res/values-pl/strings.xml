@@ -25,7 +25,7 @@
     <string name="carrier_query_number_location">Kierunkowy</string>
     <string name="carrier_query_number_title">Ustaw operatorów</string>
     <string name="close_txt">Zamknij</string>
-    <string name="control_app_internet">Control application networking</string>
+    <string name="control_app_internet">Kontrola aplikacji</string>
     <string name="current_warning_value">Ostrzeżenie: %s</string>
     <string name="daily_limit_dialog_disconnect_hint">Wyłącz Internet gdy przekroczono limit danych</string>
     <string name="daily_limit_dialog_hint">Dzienny limit danych (Pusto lub 0 oznacza brak limitu)</string>
@@ -34,8 +34,8 @@
     <string name="daily_limit_result_no_limit">Przypomnij jeśli dzienny limit zostanie przekroczony</string>
     <string name="detail_app_button">Informacje</string>
     <string name="dialog_button_adjust">Dostosuj</string>
-    <string name="disable_background_connect_warning">Ograniczając dane w tle, niektóre aplikacje lub usługi nie będą mogły łączyć się przez 2G/3G. Na pewno ograniczyć?</string>
-    <string name="disable_background_mobile_connect">Wyłącz dane w tle</string>
+    <string name="disable_background_connect_warning">Ta funkcja może zakłócić działanie aplikacji korzystających z przesyłania danych w tle, jeśli sieć Wi-Fi będzie niedostępna. Ograniczyć dane w tle?</string>
+    <string name="disable_background_mobile_connect">Ogranicz transmisję danych w tle</string>
     <string name="edit_frame_free_traffic_title">Edytuj dopuszczalny limit danych</string>
     <string name="edit_frame_month_start_title">Data początkowa</string>
     <string name="edit_frame_warning_title">Ostrzeżenie</string>
@@ -64,7 +64,7 @@
     <string name="month_traffic_settings_title">Ustawienia miesięcznego przesyłu</string>
     <string name="powered_by">Technical support provided by MIUI.com</string>
     <string name="pref_category_adjust_traffic">Adjust Traffic Settings</string>
-    <string name="pref_connect_settings_enable_backgroung">Enable background services</string>
+    <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Allow auto connecting to Network when app is running in the background</string>
     <string name="pref_connect_settings_exceed_limit">Wyłącz dane</string>
     <string name="pref_connect_settings_exceed_limit_hint">Powiadom i odłącz Internet jeśli przekroczono limit danych</string>
@@ -94,7 +94,7 @@
     <string name="traffic_exceed">Przekroczone</string>
     <string name="traffic_none">N/A</string>
     <string name="traffic_package_widget_name">Widżet Monitora (1x4)</string>
-    <string name="traffic_remain">Pozostałe</string>
+    <string name="traffic_remain">Pozostało</string>
     <string name="traffic_suffix">Dane</string>
     <string name="traffic_suffix_with_uint">Użycie danych (MB)</string>
     <string name="traffic_total">Razem: %s</string>
