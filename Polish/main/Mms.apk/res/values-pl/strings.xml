@@ -240,7 +240,7 @@
 	<string name="pref_conversation_show_avatar">Zdjęcia kontaktów</string>
 	<string name="pref_edit_smsc_address">Numer centrum SMS</string>
 	<string name="pref_key_append_signature_summary">Na końcu wiadomości zostanie automatycznie dodany podpis</string>
-	<string name="pref_key_append_signature_title">Podpis</string>
+	<string name="pref_key_append_signature_title">Podpis w wiadomości</string>
 	<string name="pref_key_edit_signature_title">Edytuj podpis</string>
 	<string name="pref_key_signature_hint">Utwórz podpis</string>
 	<string name="pref_key_signature_summary">Brak podpisu</string>
@@ -252,7 +252,7 @@
 	<string name="pref_mms_clear_search_history_title">Wyczyść historię wyszukiwania</string>
 	<string name="pref_mms_settings_title">Ustawienia wiadomości MMS</string>
 	<string name="pref_notification_settings_title">Ustawienia powiadomień</string>
-	<string name="pref_other_title">Inne</string>
+	<string name="pref_other_title">Pozostałe</string>
 	<string name="pref_sms_settings_title">Ustawienia wiadomości tekstowej (SMS)</string>
 	<string name="pref_sms_storage_title">Ustawienia pamięci</string>
 	<string name="pref_sms_theme_title">Ustawienia wyglądu</string>
@@ -406,7 +406,7 @@
 	<string name="timed_message_expired_title_2">Wysłać teraz?</string>
 	<string name="timed_message_in_total">... (%d razem)</string>
 	<string name="timed_message_to">do</string>
-	<string name="title_timed_message_dialog">Ustaw godzinę, o której ma zostać wysłana wiadomość</string>
+	<string name="title_timed_message_dialog">Ustaw czas wysłania wiadomości</string>
 	<string name="to_address_label">"Do: "</string>
 	<string name="to_count">%d ludzi</string>
 	<string name="to_hint">Do</string>
