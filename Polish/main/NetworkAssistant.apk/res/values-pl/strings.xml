@@ -103,9 +103,9 @@
     <string name="traffic_total">Razem: %s</string>
     <string name="traffic_used_status">Użyte: %s</string>
     <string name="traffic_widget_name">Widżet Monitora (1x2)</string>
-    <string name="unknown_free_traffic_hint">"If you don't know your traffic allowance, please speak to your mobile operator for assistance"</string>
-    <string name="unknown_free_traffic_text">"I don't know my traffic allowance?"</string>
-    <string name="unknown_free_traffic_title">Unknown free traffic</string>
+    <string name="unknown_free_traffic_hint">"Jeśli nie znasz swojego limitu transmisji danych skontaktuj się w tym celu ze swoim operatorem"</string>
+    <string name="unknown_free_traffic_text">"Nie wiem jaki mam limit danych?"</string>
+    <string name="unknown_free_traffic_title">Nieznany limit transmisji</string>
     <string name="unknown_location">Nieznana lokalizacja</string>
     <string name="unknown_traffic_hint">Nieznany limit transmisji danych, czy chcesz go teraz ustawić?</string>
     <string name="unknown_version">Unknown version</string>
