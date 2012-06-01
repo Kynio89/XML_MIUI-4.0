@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_sort_type">
+        <item>Sortuj po nazwie</item>
+        <item>Sortuj po użyciu 2G/3G</item>
+        <item>Sortuj po całkowitym ruchu</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Transmisja danych od wczoraj</item>
+        <item>Transmisja danych dzisiaj</item>
+        <item>Transmisja danych w miesiącu</item>
+    </string-array>
+    <string-array name="carriers">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="brands_cmcc">
+        <item>GSM</item>
+        <item>M-Zone</item>
+        <item>Easyown</item>
+    </string-array>
+    <string-array name="brands_unicom">
+        <item>Unicom 2G</item>
+        <item>Unicom 3G</item>
+    </string-array>
+</resources>

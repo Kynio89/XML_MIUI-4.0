@@ -1232,7 +1232,7 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="show_cpu_usage">Pokaż użycie procesora</string>
     <string name="show_cpu_usage_summary">Nakładka na ekranie pokazująca użycie procesora</string>
     <string name="show_fc">Pokaż okno FC</string>
-	<string name="show_fc_summary">Pokaż okno Aplilacja Została Zatrzymana (Force Close)</string>
+	<string name="show_fc_summary">Pokaż okno Aplikacja Została Zatrzymana (Force Close)</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="show_password">Pokaż hasło</string>
     <string name="show_password_summary"/>

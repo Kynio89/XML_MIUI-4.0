@@ -307,7 +307,7 @@
 	<string name="pref_title_show_recent_contacts">Ostatnie kontakty</string>
     <string name="pref_title_sms_delete">Limit wiadomości SMS</string>
 	<string name="pref_title_sms_delivery_reports">Raporty doręczeń</string>
-    <string name="pref_title_system_mms_priority">Priorytet aplikacji SMS-MMS</string>
+    <string name="pref_title_system_mms_priority">Priorytet aplikacji SMS</string>
     <string name="pref_title_wake_up_screen">Podświetlenie ekranu</string>
 	<string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
 	<string name="pref_summary_hide_festival">Ukrywa zakładkę Polecane dla języków innych niż Chiński</string>  

@@ -24,11 +24,6 @@
 	<string name="desktop_wallpaper">Tapeta pulpitu</string>
 	<string name="live_wallpaper">Animowana tapeta</string>
 	<string name="lockscreen_wallpaper">Tapeta blokady ekranu</string>
-	<string name="new_format_convert">Konwertowanie %1$s do nowego formatu</string>
-	<string name="old_format_convert_tip1">Ten motyw nie może zostać zastosowany, ponieważ nie został utworzony w nowym formacie. Konwertowanie na nowy format zajmie dużo czasu. Kontynuować?</string>
-	<string name="old_format_convert_tip2">Możesz także usunąć motywy i pobrać ponownie w nowym formacie.</string>
-	<string name="old_format_fail">Konwertowanie nieudane, spróbuj ponownie lub kliknij Zastosuj by pobrać ponownie motyw w nowym formacie!</string>
-	<string name="old_format_title">Stary format</string>
 	<string name="play_all_audio_effect">odtwórz efekt dźwiękowy (wszystkich: %1$s)</string>
 	<string name="resource_fail_to_show">Motyw nie zawiera odpowiednich zasobów</string>
 	<string name="title_local">Lokalnie</string>
