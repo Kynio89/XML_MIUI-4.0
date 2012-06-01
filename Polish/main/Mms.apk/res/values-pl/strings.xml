@@ -239,7 +239,7 @@
 	<string name="pref_advanced_settings_title">Ustawienia zaawansowane</string>
 	<string name="pref_conversation_show_avatar">Zdjęcia kontaktów</string>
 	<string name="pref_edit_smsc_address">Numer centrum SMS</string>
-	<string name="pref_key_append_signature_summary">Na końcu wiadomości zostanie dodany automatycznie podpis</string>
+	<string name="pref_key_append_signature_summary">Na końcu wiadomości zostanie automatycznie dodany podpis</string>
 	<string name="pref_key_append_signature_title">Podpis</string>
 	<string name="pref_key_edit_signature_title">Edytuj podpis</string>
 	<string name="pref_key_signature_hint">Utwórz podpis</string>
@@ -280,7 +280,7 @@
 	<string name="pref_summary_show_recent_contacts">Pokazuj listę ostatnich kontaktów podczas tworzenia wiadomości</string>
     <string name="pref_summary_sms_delivery_reports">Wymagaj raportu dostarczenia dla każdej wysłanej wiadomości</string>
 	<string name="pref_summary_wake_up_screen">Włącza ekran przy otrzymaniu wiadomości</string>
-	<string name="pref_theme_modify">Motywy</string>
+	<string name="pref_theme_modify">Motyw aplikacji</string>
 	<string name="pref_time_all_summary">Pokazuje czas dla każdej wiadomości</string>
 	<string name="pref_time_all_title">Szczegółowy</string>
 	<string name="pref_time_auto_group_summary">Grupuje wiadomości po czasie</string>
@@ -307,7 +307,7 @@
 	<string name="pref_title_show_recent_contacts">Ostatnie kontakty</string>
     <string name="pref_title_sms_delete">Limit wiadomości SMS</string>
 	<string name="pref_title_sms_delivery_reports">Raporty doręczeń</string>
-    <string name="pref_title_system_mms_priority">Priorytet aplikacji MMS</string>
+    <string name="pref_title_system_mms_priority">Priorytet aplikacji SMS-MMS</string>
     <string name="pref_title_wake_up_screen">Podświetlenie ekranu</string>
 	<string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
 	<string name="pref_summary_hide_festival">Ukrywa zakładkę Polecane dla języków innych niż Chiński</string>  
