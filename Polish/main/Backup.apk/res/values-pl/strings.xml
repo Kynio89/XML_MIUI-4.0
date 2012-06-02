@@ -165,7 +165,7 @@ anulowane przywracanie może uszkodzić dane"</string>
 	<string name="task_service_not_launched">Usługa Kopii nieuruchomiona, proszę czekać!</string>
 	<string name="task_stopped_exception">Operacja wstrzymana</string>
 	<string name="total_num">%d rekordów</string>
-	<string name="unit_byte">" B"</string>
+	<string name="unit_byte">"B"</string>
 	<string name="unit_piece">" Szt."</string>
 	<string name="unknown_hint">Nieznany</string>
 	<string name="wifi_title">Ustawienia Wi-Fi</string>

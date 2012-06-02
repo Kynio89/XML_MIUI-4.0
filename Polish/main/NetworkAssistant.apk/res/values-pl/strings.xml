@@ -38,8 +38,8 @@
     <string name="disable_background_connect_warning">Ta funkcja może zakłócić działanie aplikacji korzystających z przesyłania danych w tle, jeśli sieć Wi-Fi będzie niedostępna. Ograniczyć dane w tle?</string>
     <string name="disable_background_mobile_connect">Ogranicz transmisję danych w tle</string>
     <string name="edit_frame_free_traffic_title">Limit transmisji danych</string>
-    <string name="edit_frame_month_start_title">Data początkowa</string>
-    <string name="edit_frame_warning_title">Ostrzeżenie</string>
+    <string name="edit_frame_month_start_title">Data resetowania cyklu</string>
+    <string name="edit_frame_warning_title">Ostrzeżenie o transmisji</string>
     <string name="empty"/>
     <string name="finish_traffic_settings_hint">Ustawienia zapisane!</string>
     <string name="finish_traffic_settings_message">"Wykorzystane dane: %s. Czy te dane są prawidłowe? Jeśli nie, możesz je zmienić."</string>
@@ -58,11 +58,11 @@
     <string name="menu_refresh">Odśwież</string>
     <string name="menu_settings">Ustawienia</string>
     <string name="menu_sort">Sortowanie</string>
-    <string name="menu_traffic_adjust">Użycie danych</string>
-    <string name="menu_traffic_settings">Ustawienia transmisji danych</string>
+    <string name="menu_traffic_adjust">Korekta transmisji danych</string>
+    <string name="menu_traffic_settings">Ustawienia miesięcznej transmisji</string>
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="mobile_type">2G/3G</string>
-    <string name="month_traffic_settings_title">Ustawienia miesięcznego przesyłu</string>
+    <string name="month_traffic_settings_title">Miesięczna transmisja danych</string>
     <string name="powered_by">Pomoc techniczą zapewnia MIUI.com</string>
     <string name="pref_category_adjust_traffic">Ustawienia transmisji danych</string>
     <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>
@@ -70,8 +70,8 @@
     <string name="pref_connect_settings_exceed_limit">Wyłącz transmisję danych</string>
     <string name="pref_connect_settings_exceed_limit_hint">Powiadom i wyłącz transmisję danych jeśli przekroczono limit przesyłu</string>
     <string name="pref_connect_settings_notify_in_statusbar">Wyświetl na pasku statusu</string>
-    <string name="pref_connect_settings_title">Ustawienia</string>
-    <string name="pref_traffic_adjust_title">Użycie danych</string>
+    <string name="pref_connect_settings_title">Połączenia z siecią</string>
+    <string name="pref_traffic_adjust_title">Korekta transmisji danych</string>
     <string name="pref_traffic_daily_limit_settings">Dzienne limity</string>
     <string name="pref_traffic_settings">Ustawienia</string>
     <string name="process_kernel_label">Android OS</string>
@@ -82,7 +82,7 @@
     <string name="settings_page_traffic_summary_no_settings">Pakiet niezdefiniowany, użycie od %d dnia</string>
     <string name="sms_template_match_fail">Match SMS template fail</string>
     <string name="sort_dialog_title">Sortowanie</string>
-    <string name="sorted_flux">Statystyki</string>
+    <string name="sorted_flux">Aplikacje</string>
     <string name="stop_app_button">Zamknij</string>
     <string name="sync_fail_notify_detail">Brak informacji zwrotnej od operatora, spróbuj ponownie</string>
     <string name="sync_fail_notify_title">Synchronizacja nieudana</string>
@@ -109,7 +109,7 @@
     <string name="unknown_location">Nieznana lokalizacja</string>
     <string name="unknown_traffic_hint">Nieznany limit transmisji danych, czy chcesz go teraz ustawić?</string>
     <string name="unknown_version">Nieznana wersja</string>
-    <string name="used_flux">Aktualne użycie danych</string>
+    <string name="used_flux">Użycie danych</string>
     <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
     <string name="warning_title">Ostrzeżenie</string>
     <string name="widget_color_exceed_warn">\#F9882C</string>
