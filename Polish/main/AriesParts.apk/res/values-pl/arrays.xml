@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mdnie_entries">
-        <item>Disabled</item>
+        <item>Wyłączone</item>
         <item>UI Mode</item>
-        <item>Video Mode</item>
-        <item>Video Warm Mode</item>
-        <item>Video Cold Mode</item>
-        <item>Camera Mode</item>
+        <item>Tryb wideo</item>
+        <item>Tryb wideo - ciepły</item>
+        <item>Tryb wideo - chłodny</item>
+        <item>Tryb kamery</item>
     </string-array>
     <string-array name="mdnie_entries_values">
         <item>6</item>
