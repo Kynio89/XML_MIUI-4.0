@@ -105,6 +105,7 @@
     <string name="clearCallLogConfirmation_title">Usunąć rejestr połączeń?</string>
     <string name="clearCallLogProgress_title">Czyszczenie rejestru połączeń…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
+    <string name="close">Zamknij</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do eksportu. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">Obiekt tworzenia danych vCard nie został uruchomiony poprawnie.</string>
@@ -212,7 +213,7 @@
     <string name="display_options_view_family_name_first">Najpierw nazwisko</string>
     <string name="display_options_view_given_name_first">Najpierw imię</string>
     <string name="display_options_view_names_as">Wyświetl nazwy kontaktów jako</string>
-    <string name="display_sim_contacts">Kontakty SIM</string>
+    <string name="display_sim_contacts">Pokaż kontakty SIM</string>
     <string name="display_ungrouped">Wszystkie inne kontakty</string>
     <string name="display_warn_remove_ungrouped">"Usunięcie grupy \"%s\" z ustawień synchronizacji spowoduje również usunięcie wszelkich rozgrupowanych kontaktów z tych ustawień."</string>
     <string name="editContactDescription">Edytuj kontakt</string>
@@ -470,6 +471,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="pick_photo">Wybierz zdjęcie z galerii</string>
     <string name="pick_recent_list_title">Całkowita liczba ostatnich kontaktów %1$d</string>
     <string name="pickerNewContactHeader">Utwórz nowy kontakt</string>
+    <string name="pkgLabel">Kontakty i Dialer</string>
     <string name="postalLabelsGroup">Adres</string>
     <string name="postal_address">Adres</string>
     <string name="postal_city">Miasto</string>

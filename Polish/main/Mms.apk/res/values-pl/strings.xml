@@ -274,8 +274,8 @@
 	<string name="pref_summary_notification_body_enabled_when_secure">Podgląd wiadomości wyłączony gdy telefon jest blokowany hasłem</string>
 	<string name="pref_summary_notification_enabled">Wyświetl powiadomienie o wiadomości na pasku statusu</string>
 	<string name="pref_summary_notification_vibrateWhen">Wibruj przy powiadomieniu</string>
-	<string name="pref_summary_on_system_mms_priority">Aplikacja systemowa MMS będzie otrzymywać wiadomość w pierwszej kolejności</string>
-    <string name="pref_summary_off_system_mms_priority">Inna aplikacja MMS będzie otrzymywać wiadomość w pierwszej kolejności</string>
+	<string name="pref_summary_on_system_mms_priority">Aplikacja systemowa SMS będzie otrzymywać wiadomość i powiadomienie w pierwszej kolejności</string>
+    <string name="pref_summary_off_system_mms_priority">Inna aplikacja SMS będzie otrzymywać wiadomość i powiadomienie w pierwszej kolejności</string>
     <string name="pref_summary_ringtone_repeat">Powiadomienie powtarzane co 5 minut od nadejścia wiadomości</string>
 	<string name="pref_summary_show_recent_contacts">Pokazuj listę ostatnich kontaktów podczas tworzenia wiadomości</string>
     <string name="pref_summary_sms_delivery_reports">Wymagaj raportu dostarczenia dla każdej wysłanej wiadomości</string>
@@ -284,7 +284,7 @@
 	<string name="pref_time_all_summary">Pokazuje czas dla każdej wiadomości</string>
 	<string name="pref_time_all_title">Szczegółowy</string>
 	<string name="pref_time_auto_group_summary">Grupuje wiadomości po czasie</string>
-	<string name="pref_time_auto_group_title">Grupa</string>
+	<string name="pref_time_auto_group_title">Grupowy</string>
 	<string name="pref_title_allow_3rd_mms">Inne aplikacje SMS</string>
 	<string name="pref_title_allow_si_sl_push">WAP push</string>
 	<string name="pref_title_auto_delete">Usuń stare wiadomości</string>
@@ -320,6 +320,7 @@
 	<string name="priority_low">Niski</string>
 	<string name="priority_normal">Normalny</string>
 	<string name="privacy_mode_hint">Nie można wysłać wiadomości w trybie chronionym</string>
+	<string name="processing">Przetwarzanie...</string>
 	<string name="random_pick">Wybieranie losowe</string>
 	<string name="rate_limit_surpassed">Potwierdź</string>
     <string name="received_label">"Otrzymano: "</string>

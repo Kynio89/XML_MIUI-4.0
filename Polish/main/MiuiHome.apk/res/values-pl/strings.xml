@@ -10,6 +10,7 @@
     <string name="cant_remove_system_app">Nie można usunąć aplikacji systemowych</string>
     <string name="chooser_wallpaper">Wybierz tapetę z</string>
     <string name="confirm_btn_label">OK</string>
+    <string name="default_folder_title_game">Gry</string>
     <string name="default_folder_title_recommend">Polecane</string>
     <string name="default_folder_title_tools">Narzędzia</string>
     <string name="durationformatlong" formatted="false">%1$d:%3$02d:%5$02d</string>
@@ -67,7 +68,7 @@
     <string name="pref_enable_drawing_cache_title">Cache grafiki</string>
     <string name="pref_icon_shadow_summary">Włącz lub wyłącz cienie pod ikonami.</string>
     <string name="pref_icon_shadow_title">Cienie ikon</string>
-    <string name="pref_keep_in_memory_summary">Aplikacja nie zostanie zamknięta gdy mało pamięci.</string>
+    <string name="pref_keep_in_memory_summary">Aplikacja nie zostanie zamknięta w przypadku braku wolnej pamięci RAM.</string>
     <string name="pref_keep_in_memory_title">Pozostaw w pamięci</string>
     <string name="pref_render_in_truecolor_summary">Włącz, aby polepszyć rendering grafiki.</string>
     <string name="pref_render_in_truecolor_title">Wysoka jakość grafiki</string>

@@ -64,6 +64,7 @@ Usunąć zaznaczone kopie?"</string>
 	<string name="current_account">Zalogowany jako: %s</string>
 	<string name="current_sim">Karta SIM</string>
 	<string name="data_no_enough_space">Brak miejsca, zwolnij dostępną pamięć i spróbuj ponownie</string>
+	<string name="data_no_enough_space_message">Brak miejsca, zwolnij dostępną pamięć i spróbuj ponownie</string>
 	<string name="data_no_enough_space_warning">Pozostało ok. 30Mb miejsca na karcie SD. Przywracanie może się nie udać. Kontynuować?</string>
 	<string name="date_format">yyyy-MM-dd HH:mm:ss</string>
 	<string name="delete">Usuń</string>
@@ -129,6 +130,7 @@ Sprawdź połączenie z siecią i spróbuj ponownie"</string>
 	<string name="sc_unaccess_password_file">"Nie zapisuj szczegółowych danych o hasłach Wi-Fi"</string>
 	<string name="sc_unauthorized">Certyfikat nieprawidłowy</string>
 	<string name="sdcard_no_enough_space">Brak wystarczającego miejsca na karcie SD, zwolnij miejsce i spróbuj ponownie</string>
+	<string name="sdcard_no_enough_space_message">Brak wystarczającego miejsca na karcie SD, zwolnij miejsce i spróbuj ponownie</string>
 	<string name="sdcard_no_enough_space_warning">Pozostało ok. 50MB miejsca na SD. Kopia może się nie udać. Kontynuowac?</string>
 	<string name="sdcard_unmounted">Karta SD nieznaleziona lub odmontowana!</string>
 	<string name="select_all">Zaznacz wszystko</string>
