@@ -5,11 +5,6 @@
         <item>Na życzenie</item>
         <item>Wyłączone</item>
     </string-array>
-    <string-array name="pref_content_plugins_values">
-        <item>ON</item>
-        <item>ON_DEMAND</item>
-        <item>OFF</item>
-    </string-array>
     <string-array name="pref_homepage_choices">
         <item>Bieżąca strona</item>
         <item>Strona MIUI</item>
@@ -17,14 +12,6 @@
         <item>Strona domyślna</item>
         <item>Najczęstsze strony</item>
         <item>Inna</item>
-    </string-array>
-    <string-array name="pref_homepage_values">
-        <item>current</item>
-        <item>miui_home</item>
-        <item>blank</item>
-        <item>default</item>
-        <item>most_visited</item>
-        <item>other</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Bardzo mały</item>
@@ -37,11 +24,6 @@
         <item>Małe</item>
         <item>Średnie</item>
         <item>Duże</item>
-    </string-array>
-    <string-array name="pref_default_zoom_values">
-        <item>FAR</item>
-        <item>MEDIUM</item>
-        <item>CLOSE</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Nigdy</item>
