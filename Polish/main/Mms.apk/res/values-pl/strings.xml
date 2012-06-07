@@ -382,6 +382,7 @@
 	<string name="slide_number">Slajd nr %s</string>
 	<string name="slide_show_part">Część %1$s/%2$s</string>
 	<string name="slideshow_activity">Pokaz slajdów</string>
+	<string name="sms_match_fail">Failed to match SMS</string>
 	<string name="sms_full_body">Przychodząca wiadomość została odrzucona z powodu zapełnienia pamięci. Usuń stare wiadomości.</string>
 	<string name="sms_full_title">Pamięć wiadomości tekstowych jest pełna</string>
 	<string name="sms_rejected_body">Przychodząca wiadomość została odrzucona z nieznanego powodu.</string>
