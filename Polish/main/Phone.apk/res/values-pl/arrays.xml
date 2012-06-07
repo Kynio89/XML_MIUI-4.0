@@ -5,11 +5,6 @@
         <item>Ukryj numer</item>
         <item>Pokaż numer</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE</item>
         <item>Tylko EvDo</item>
@@ -20,16 +15,6 @@
         <item>Tylko GSM</item>
         <item>Preferowany GSM/WCDMA</item>
     </string-array>
-    <string-array name="preferred_network_mode_values">
-        <item>7</item>
-        <item>6</item>
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Angielski</item>
         <item>francuski</item>
@@ -39,54 +24,25 @@
         <item>chiński</item>
         <item>hebrajski</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (tryb automatyczny)</item>
         <item>Tylko WCDMA</item>
         <item>Tylko GSM</item>
         <item>GSM/WCDA (preferowany WCDMA)</item>
     </string-array>
-    <string-array name="gsm_umts_network_preferences_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Tylko główne</item>
         <item>Automatycznie</item>
-    </string-array>
-    <string-array name="cdma_system_select_values">
-        <item>0</item>
-        <item>2</item>
     </string-array>
     <string-array name="cdma_roaming_mode_choices">
         <item>Tylko sieci domowe</item>
         <item>Sieci stowarzyszone</item>
         <item>Dowolna sieć</item>
     </string-array>
-    <string-array name="cdma_roaming_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="cdma_network_preferences_choices">
         <item>CDMA/EvDo</item>
         <item>Tylko CDMA</item>
         <item>Tylko EvDo</item>
-    </string-array>
-    <string-array name="cdma_network_preferences_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY wyłączony</item>
@@ -94,28 +50,13 @@
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
-    <string-array name="tty_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Normalne</item>
         <item>Długie</item>
-    </string-array>
-    <string-array name="dtmf_tone_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
         <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Zawsze</item>
         <item>Tylko w trybie cichym</item>
         <item>Nigdy</item>
-    </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
 </resources>

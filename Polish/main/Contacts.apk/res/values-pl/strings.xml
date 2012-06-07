@@ -369,6 +369,7 @@ Przyczyna: \"%s\""</string>
     <string name="name_phonetic_middle">Drugie imię (fonetycznie)</string>
     <string name="name_prefix">Przedrostek nazwiska</string>
     <string name="name_suffix">Przyrostek nazwiska</string>
+    <string name="next_birthday">Następne urodziny: %s</string>
     <string name="nfc_vcard_file_name">Odebrane przez NFC</string>
     <string name="nicknameLabelsGroup">Pseudonim</string>
     <string name="nickname_picker_name_column">Nazwa kontaktu</string>

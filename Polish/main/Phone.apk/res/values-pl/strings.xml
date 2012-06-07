@@ -148,6 +148,11 @@
     <string name="call_settings_miui">Ustawienia połączeń</string>
     <string name="call_title_redialing_with_times_miui">Ponowne wybieranie %d razy</string>
     <string name="call_waiting_sum_miui">Powiadom mnie o nowym połączeniu podczas rozmowy</string>
+    <string name="call_waiting_tone_continuously_miui">Odtwórz ciągły ton</string>
+	<string name="call_waiting_tone_summary_miui">Odtwórz ton przy oczekującym połączeniu (naciśnij głośność+ by wyciszyć)</string>
+	<string name="call_waiting_tone_title_miui">Ton połączenia oczekującego</string>
+	<string name="call_waiting_tone_twice_and_vibrate_miui">Wibruj i odtwórz ton</string>
+	<string name="call_waiting_tone_twice_only_miui">Odtwórz ton dwa razy</string>
     <string name="caller_id_sum_miui">Ukryj/pokaż numer dla połączeń wychodzących (jeśli wspierane przez operatora)</string>
     <string name="caller_id_title_miui">ID rozmówcy</string>
     <string name="caller_manage_header">Połączenie konferencyjne %s</string>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="adjust_traffic_auto_adjust_hint">System wykorzystuje informacje od operatora do korekcji użycia danych. Konieczne jest ustawienie informacji o operatorze</string>
-    <string name="adjust_traffic_auto_adjust_open_hint">Automatyczna korekta użycia danych</string>
+    <string name="adjust_traffic_auto_adjust_open_hint">Automatyczna korekta transmisji danych</string>
     <string name="adjust_traffic_auto_adjust_title">Automatyczna korekta</string>
     <string name="adjust_traffic_carrier_adjust">Pobierz od operatora</string>
     <string name="adjust_traffic_carrier_settings_title">Operator mobilny</string>
     <string name="adjust_traffic_manual_adjust">Wprowadzanie ręczne</string>
     <string name="adjust_traffic_relate_settings">Inne ustawienia</string>
-    <string name="adjust_traffic_title">Korekta użycia danych</string>
+    <string name="adjust_traffic_title">Korekta transmisji danych</string>
     <string name="app_detail_internet_background">Łączność w tle</string>
     <string name="app_detail_internet_background_traffic">"Pierwszy plan: %1$s W tle: %2$s"</string>
     <string name="app_detail_internet_control_category">Kontrola sieci</string>
@@ -64,6 +64,9 @@
     <string name="mobile_traffic">2G/3G: %s</string>
     <string name="mobile_type">2G/3G</string>
     <string name="month_traffic_settings_title">Miesięczna transmisja danych</string>
+    <string name="plate_traffic_already_used">Użyte (%s)</string>
+	<string name="plate_traffic_exceed">Przekroczone (%s)</string>
+	<string name="plate_traffic_remain">Pozostało (%s)</string>
     <string name="powered_by">Pomoc techniczą zapewnia MIUI.com</string>
     <string name="pref_category_adjust_traffic">Ustawienia transmisji danych</string>
     <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>

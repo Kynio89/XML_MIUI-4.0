@@ -34,30 +34,30 @@
         <item>Plus GSM</item>
         <item>T-Mobile</item>
         <item>Orange</item>
+        <item>Tele2</item>
         <item>PTK</item>
         <item>Play</item>
-        <item>Aero2</item>
-        <item>China Telecom</item>
-        <item>China Telecom</item>
+        <item>Aero2</item>      
+        <item>CyfrowyPolsat</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>26001</item>
         <item>26002</item>
         <item>26003</item>
+        <item>26004</item>
         <item>26005</item>
         <item>26006</item>
-        <item>26017</item>
-        <item>46000</item>
-        <item>46003</item>
+        <item>26017</item>   
+        <item>26012</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>26001</item>
         <item>26002</item>
         <item>26003</item>
+        <item>26004</item>
         <item>26005</item>
         <item>26006</item>
         <item>26017</item>
-        <item>46000</item>
-        <item>46003</item>
+        <item>26012</item>
     </string-array>
 </resources>
