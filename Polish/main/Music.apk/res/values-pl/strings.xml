@@ -11,7 +11,7 @@
 	<string name="albums_title">Albumy</string>
     <string name="albumsongseparator">"
 "</string>
-    <string name="all_tracks">Wszystkie utwory</string>
+    <string name="all_tracks">Wszystkie</string>
     <string name="android_album_settings">Album Android</string>
     <string name="android_album_summary">System automatycznie pobierze album i informacje o utworze</string>
 	<string name="artist_details_format" formatted="false">%1$s, %2$s</string>
@@ -66,20 +66,20 @@
 	<string name="fade_effect_settings">Zanikanie dźwięku</string>
 	<string name="fade_effect_summary">Zanikanie dźwięku przy przełączaniu z aktualnego utworu na następny</string>
 	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="filter_by_duration">Filtruj po czasie trwania</string>
+    <string name="filter_by_duration">Czas trwania</string>
 	<string name="filter_by_duration_format">%2$d:%5$02d</string>
 	<string name="filter_by_duration_max">5 min</string>
 	<string name="filter_by_duration_min">0 sek</string>
-	<string name="filter_by_duration_prefix">"Max czas trwania (w godzinach):"</string>
-	<string name="filter_by_duration_summary">Czas trwania jest zbyt mały dla plików audio</string>
-    <string name="filter_by_folder">Filtruj katalogi</string>
-	<string name="filter_by_folder_summary_off">Nieotwarte, kliknij folder a następnie filtrowanie</string>
-	<string name="filter_by_folder_summary_on">Już otwarte, kliknij edycję filtrowania folderu</string>
-	<string name="filter_by_size">Filtruj po rozmiarze</string>
+	<string name="filter_by_duration_prefix">"Min czas trwania (godz.):"</string>
+	<string name="filter_by_duration_summary">Ustaw minimalny czas trwania utworów do pokazania</string>
+    <string name="filter_by_folder">Katalogi z muzyką</string>
+	<string name="filter_by_folder_summary_off">Zaznaczone wszytkie znalezione foldery</string>
+	<string name="filter_by_folder_summary_on">Kliknij i zaznacz foldery z muzyką</string>
+	<string name="filter_by_size">Rozmiar plików audio</string>
 	<string name="filter_by_size_max">2MB</string>
 	<string name="filter_by_size_min">0KB</string>
 	<string name="filter_by_size_prefix">"Min. rozmiar:"</string>
-	<string name="filter_by_size_summary">Filtr jest zbyt mały dla plików audio</string>
+	<string name="filter_by_size_summary">Ustaw minimalny rozmiar plików do pokazania</string>
     <string name="filter_max">2MB</string>
     <string name="filter_min">0K</string>
     <string name="filter_notification">Plik został odfiltrowany, zmień ustawienia by odtworzyć!</string>
@@ -120,7 +120,7 @@
     <string name="modify_id3_for_selected">Zaznaczone dane ID3 będą edytowane</string>
     <string name="modify_meta">Edytuj informacje o utworze</string>
     <string name="modify_tracks_id3_background">Modyfikuj informacje ID3 wybranych utworów w tle</string>
-    <string name="music_filter">Filtr rozmiaru plików</string>
+    <string name="music_filter">Filtrowanie plików</string>
     <string name="music_filter_helper">W celu ukrycia plików, które nie są plikami muzyki zastosowano filtr rozmiaru 800KB.</string>
     <string name="music_picker_title">Wybierz utwór</string>
     <string name="music_settings">Ustawienia</string>
