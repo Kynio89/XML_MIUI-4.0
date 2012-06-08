@@ -169,7 +169,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="available_size">Dostępne: %s</string>
     <string name="awake">Czas pracy urządzenia</string>
     <string name="back_long_press">Przycisk powrotu</string>
-    <string name="back_long_press_timeout">"Czas %1$.1f sek"</string>
+    <string name="back_long_press_timeout">Czas naciśnięcia</string>
     <string name="background_data">Dane w tle</string>
     <string name="background_data_dialog_message">Wyłączenie obsługi danych w tle wydłuża czas pracy baterii i ogranicza transmisję danych. Niektóre aplikacje mogą nadal używać połączenia transmisji
         danych w tle.</string>

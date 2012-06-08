@@ -318,9 +318,9 @@
         <item>Sapphire</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-		<item>0.5 sek.</item>
-		<item>1 sek.</item>
-		<item>1.5 sek.</item>
-		<item>2 sek.</item>
-	</string-array>
+		<item>0.5 sekundy</item>
+		<item>1 sekunda</item>
+		<item>1.5 sekundy</item>
+		<item>2 sekundy</item>
+    </string-array>
  </resources>
