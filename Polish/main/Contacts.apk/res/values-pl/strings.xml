@@ -105,6 +105,7 @@
     <string name="clearCallLogConfirmation_title">Usunąć rejestr połączeń?</string>
     <string name="clearCallLogProgress_title">Czyszczenie rejestru połączeń…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
+    <string name="click_close">Kliknij by zamknąć</string>
     <string name="close">Zamknij</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do eksportu. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
