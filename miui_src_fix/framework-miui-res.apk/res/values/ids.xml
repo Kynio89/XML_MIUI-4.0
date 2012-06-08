@@ -119,6 +119,7 @@
     <item type="id" name="ringtoneimage">false</item>
     <item type="id" name="ringtonename">false</item>
     <item type="id" name="ringtonebutton">false</item>
+    <item type="id" name="root_flag">false</item>
     <item type="id" name="top_flag">false</item>
     <item type="id" name="center_flag">false</item>
     <item type="id" name="bottom_flag">false</item>
@@ -129,6 +130,11 @@
     <item type="id" name="thumbnail_2">false</item>
     <item type="id" name="thumbnail_3">false</item>
     <item type="id" name="author">false</item>
+    <item type="id" name="playProgress">false</item>
+    <item type="id" name="textArea">false</item>
+    <item type="id" name="subTitle">false</item>
+    <item type="id" name="downloadProgress">false</item>
+    <item type="id" name="operator">false</item>
     <item type="id" name="resourcelist">false</item>
     <item type="id" name="loadingprogressbar">false</item>
     <item type="id" name="tablayout">false</item>
@@ -141,7 +147,6 @@
     <item type="id" name="search_action">false</item>
     <item type="id" name="search_toggle">false</item>
     <item type="id" name="operationBar">false</item>
-    <item type="id" name="downloadProgress">false</item>
     <item type="id" name="operationView">false</item>
     <item type="id" name="magicButton">false</item>
     <item type="id" name="downloadButton">false</item>
