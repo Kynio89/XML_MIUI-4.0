@@ -21,7 +21,7 @@
     <string name="auto_create_recent_album_over_ten_times">Utwórz ulubione albumy po ich otwarciu więcej niż 10 razy</string>    
     <string name="auto_create_recent_album_confirm">Po wyłączeniu tej funkcji Galeria wyczyści dane o ulubionych albumach. Ulubione albumy ustawione przez użytkownika nie zostaną usunięte.</string>
     <string name="autofix">Auto-fix</string>
-    <string name="caching_label">Caching...</string>
+    <string name="caching_label">Ładowanie...</string>
     <string name="camera_connected">Aparat podłączony.</string>
     <string name="camera_disconnected">Aparat rozłączony.</string>
     <string name="camera_folder_display_name">Zdjęcia aparatu</string>
