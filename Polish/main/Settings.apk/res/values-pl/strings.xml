@@ -169,7 +169,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="available_size">Dostępne: %s</string>
     <string name="awake">Czas pracy urządzenia</string>
     <string name="back_long_press">Przycisk powrotu</string>
-    <string name="back_long_press_timeout">Czas naciśnięcia</string>
+    <string name="back_long_press_timeout">Czas przytrzymania</string>
     <string name="background_data">Dane w tle</string>
     <string name="background_data_dialog_message">Wyłączenie obsługi danych w tle wydłuża czas pracy baterii i ogranicza transmisję danych. Niektóre aplikacje mogą nadal używać połączenia transmisji
         danych w tle.</string>
@@ -612,7 +612,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
     <string name="dialog_title_font_size">Romiar czcionki</string>
     <string name="disableNetwork">disableNetwork</string>
-    <string name="disable_power_key_long_press_under_keyguard">Zablokuj na ekranie blokady</string>
+    <string name="disable_power_key_long_press_under_keyguard">Wyłącz na ekranie blokady</string>
     <string name="disable_text">Wyłączone</string>
     <string name="disabled">Wyłączone</string>
     <string name="disconnect">Rozłącz</string>
@@ -982,7 +982,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="power_usage_summary_title">Bateria</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pref_button_light">Podświetlenie przycisków</string>
-    <string name="pref_button_light_summary">Podświetlenie przycisków Menu, Home i Back</string>
+    <string name="pref_button_light_summary">Podświetlenie przycisków nawigacyjnych pod ekranem telefonu.</string>
     <string name="pref_operational_key">Przyciski nawigacyjne</string>
     <string name="pref_volume_category_title">Przycisk głośności</string>
     <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
@@ -1231,7 +1231,7 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="show_background_processes">Pokaż buforowane procesy</string>
     <string name="show_cpu_usage">Pokaż użycie procesora</string>
     <string name="show_cpu_usage_summary">Nakładka na ekranie pokazująca użycie procesora</string>
-    <string name="show_fc">Pokaż okno FC</string>
+    <string name="show_fc">Pokaż wszystkie FC</string>
 	<string name="show_fc_summary">Pokaż okno Aplikacja Została Zatrzymana (Force Close)</string>
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="show_password">Pokaż hasło</string>
