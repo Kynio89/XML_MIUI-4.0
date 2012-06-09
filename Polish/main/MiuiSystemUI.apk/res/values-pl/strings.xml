@@ -158,9 +158,9 @@
     <string name="settings_separator">,</string>
     <string name="settings_toggle">Przełączniki</string>
     <string name="settings_toggle_collapse_after_clicked">Zwiń po przełączeniu</string>
-    <string name="settings_toggle_layout_style">Styl paska powiadomień</string>
+    <string name="settings_toggle_layout_style">Styl przełączników</string>
     <string name="settings_toggle_layout_style_applying">Zmiana stylu...</string>
-    <string name="settings_toggle_layout_style_compact">Przewijany</string>
+    <string name="settings_toggle_layout_style_compact">Przewijane</string>
     <string name="settings_toggle_layout_style_single_page">Siatka</string>
     <string name="settings_toggle_position">"Kolejność przełączników"</string>
     <string name="settings_toggle_position_divider_list">Przełączników powyżej jest aktywnych</string>
