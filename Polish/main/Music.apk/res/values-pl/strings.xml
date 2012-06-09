@@ -70,7 +70,7 @@
 	<string name="filter_by_duration_format">%2$d:%5$02d</string>
 	<string name="filter_by_duration_max">5 min</string>
 	<string name="filter_by_duration_min">0 sek</string>
-	<string name="filter_by_duration_prefix">"Min. czas trwania (godz.):"</string>
+	<string name="filter_by_duration_prefix">"Minimalny czas trwania (min.):"</string>
 	<string name="filter_by_duration_summary">Ustaw minimalny czas trwania utworów do pokazania</string>
     <string name="filter_by_folder">Katalogi z muzyką</string>
 	<string name="filter_by_folder_summary_off">Zaznaczone wszytkie znalezione foldery</string>
@@ -78,7 +78,7 @@
 	<string name="filter_by_size">Rozmiar plików audio</string>
 	<string name="filter_by_size_max">2MB</string>
 	<string name="filter_by_size_min">0KB</string>
-	<string name="filter_by_size_prefix">"Min. rozmiar:"</string>
+	<string name="filter_by_size_prefix">"Minimalny rozmiar:"</string>
 	<string name="filter_by_size_summary">Ustaw minimalny rozmiar plików do pokazania</string>
     <string name="filter_max">2MB</string>
     <string name="filter_min">0K</string>
