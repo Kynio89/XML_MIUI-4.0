@@ -11,7 +11,7 @@
 	<string name="albums_title">Albumy</string>
     <string name="albumsongseparator">"
 "</string>
-    <string name="all_tracks">Wszystkie</string>
+    <string name="all_tracks">Utwory</string>
     <string name="android_album_settings">Album Android</string>
     <string name="android_album_summary">System automatycznie pobierze album i informacje o utworze</string>
 	<string name="artist_details_format" formatted="false">%1$s, %2$s</string>
@@ -70,7 +70,7 @@
 	<string name="filter_by_duration_format">%2$d:%5$02d</string>
 	<string name="filter_by_duration_max">5 min</string>
 	<string name="filter_by_duration_min">0 sek</string>
-	<string name="filter_by_duration_prefix">"Min czas trwania (godz.):"</string>
+	<string name="filter_by_duration_prefix">"Min. czas trwania (godz.):"</string>
 	<string name="filter_by_duration_summary">Ustaw minimalny czas trwania utworów do pokazania</string>
     <string name="filter_by_folder">Katalogi z muzyką</string>
 	<string name="filter_by_folder_summary_off">Zaznaczone wszytkie znalezione foldery</string>
@@ -224,7 +224,7 @@
     <string name="streamloadingtext">Łączenie z %s</string>
     <string name="track_edit">Utwór</string>
     <string name="track_num_format">(%s)</string>
-    <string name="tracks_title">Wszystkie utwory</string>
+    <string name="tracks_title">Utwory</string>
     <string name="unknown_album_name">Nieznany album</string>
     <string name="unknown_artist_name">Nieznany wykonawca</string>
     <string name="use_local_album">Użyj zapisanych okładek</string>

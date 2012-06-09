@@ -25,7 +25,7 @@
     <string name="camera_connected">Aparat podłączony.</string>
     <string name="camera_disconnected">Aparat rozłączony.</string>
     <string name="camera_folder_display_name">Zdjęcia aparatu</string>
-    <string name="camera_path">/DCIM/Camera</string>
+    <string name="camera_path">/DCIM/100ANDRO</string>
     <string name="camera_setas_wallpaper">Tapeta</string>
     <string name="cancel">Anuluj</string>
     <string name="cancel_bookmark">Usuń z ulubionych</string>
