@@ -234,6 +234,7 @@
     <string name="eventLabelsGroup">Urodziny</string>
     <string name="event_edit_field_hint_text">Data</string>
     <string name="export_to_sdcard">Eksportuj na nośnik</string>
+    <string name="export_vcard_description">Eksportuj vCard na nośnik</string>
     <string name="exporting_contact_failed_message">"Dane kontaktów nie zostały wyeksportowane.
 Przyczyna: \"%s\""</string>
     <string name="exporting_contact_failed_title">Eksport nieudany</string>
@@ -284,6 +285,7 @@ Przyczyna: \"%s\""</string>
     <string name="import_from_sim">Importuj z karty SIM</string>
     <string name="import_multiple_vcard_string">Importuj wiele plików vCard</string>
     <string name="import_one_vcard_string">Importuj jeden plik vCard</string>
+    <string name="import_vcard_description">Importuj kontakty z nośnika</string>
     <string name="importing_vcard_canceled_title">Anulowano importowanie pliku %s</string>
     <string name="importing_vcard_description">Importowanie %s</string>
     <string name="importing_vcard_finished_title">Zakończono importowanie pliku vCard %s</string>
@@ -484,6 +486,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="preference_displayOptions">Opcje wyświetlania</string>
     <string name="preference_export">Eksport</string>
     <string name="preference_import">Import</string>
+    <string name="preference_import_export">Import/Eksport</string>
+    <string name="preference_import_export_title">Import/Eksport kontaktów</string>
     <string name="preference_others">Inne</string>
     <string name="preference_remove_duplicate">Łączenie kontaktów</string>
     <string name="preference_sim">Karta SIM</string>

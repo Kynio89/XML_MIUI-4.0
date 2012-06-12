@@ -1451,6 +1451,7 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="untitled_apn">Bez nazwy</string>
     <string name="upload_debug_log_summary">Prześlij rejestr debugowania by pomóc w dopracowaniu MIUI ROM. </string>
     <string name="upload_debug_log_title">Prześlij rejestr debugowania</string>
+    <string name="usage_log">Statystyki użycia aplikacji</string>
     <string name="usage_name_percent">"%1$s - %2$s%%"</string>
     <string name="usage_stats_label">Statystyki użytkowania</string>
     <string name="usage_time_label">Czas użytkowania</string>
