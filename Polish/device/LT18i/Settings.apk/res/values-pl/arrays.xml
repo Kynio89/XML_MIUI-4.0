@@ -302,21 +302,10 @@
         <item>8 sekund</item>
         <item>9 sekund</item>
     </string-array>
-    <string-array name="led_color_entries_for_mione">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
-        <item>Emerald</item>
-        <item>Cyan</item>
-        <item>Sapphire</item>
-    </string-array>
     <string-array name="back_long_press_timeout">
-		<item>0.5 sekundy</item>
+		<item>0,5 sekundy</item>
 		<item>1 sekunda</item>
-		<item>1.5 sekundy</item>
+		<item>1,5 sekundy</item>
 		<item>2 sekundy</item>
     </string-array>
  </resources>
