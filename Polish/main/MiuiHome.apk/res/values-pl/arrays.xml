@@ -16,4 +16,29 @@
         <item>Nieruchoma (lewa strona)</item>
         <item>Nieruchoma (prawa strona)</item>
     </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Przejrzyście</item>
+        <item>Pochmurnie</item>
+        <item>Yin</item>
+        <item>Mglisto</item>
+        <item>Ulewny deszcz</item>
+        <item>Burza</item>
+        <item>Burza z ulewą</item>
+        <item>Burza z piorunami</item>
+        <item>Deszcze</item>
+        <item>Ulewy</item>
+        <item>Przelotne deszcze</item>
+        <item>Mżawka</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Zamieć śnieżna</item>
+        <item>Zawieja śnieżna</item>
+        <item>Śnieg</item>
+        <item>Przelotny śnieg</item>
+        <item>Śnieżnie</item>
+        <item>Burza piaskowa</item>
+        <item>Zadyma</item>
+        <item>Pyliście i wilgotno</item>
+        <item>Jansa</item> 
+        <item>Burza z gradem</item>
+    </string-array>
 </resources>
