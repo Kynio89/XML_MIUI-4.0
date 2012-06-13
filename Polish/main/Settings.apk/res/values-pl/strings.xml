@@ -1469,6 +1469,8 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="usage_type_wifi_running">Wi-Fi</string>
     <string name="usb_connection_category">Połącz jako</string>
     <string name="usb_label_installer_cd">Instaluj narzędzia do transferu plików</string>
+    <string name="usb_msd_summary">Przesył plików dla Windows i Mac</string>
+	<string name="usb_msd_title">Magazyn danych USB</string>
     <string name="usb_mtp_summary">Umożliwia przesyłanie plików multimedialnych w Windows lub przy użyciu aplikacji Android File Transfer (dostępny na www.android.com/filetransfer) dla Mac OS
         X.</string>
     <string name="usb_mtp_title">Urządzenie multimedialne (MTP)</string>

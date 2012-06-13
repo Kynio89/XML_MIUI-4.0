@@ -84,7 +84,7 @@
     <string name="compat_mode_on">Zoom to fill screen</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="data_usage_disabled_dialog">"Osiągnąłeś limiu użycia danych. Jeśli włączysz usługi danych, operator zacznie pobierać opłaty."</string>
+    <string name="data_usage_disabled_dialog">"Osiągnąłeś limit użycia danych. Jeśli włączysz usługi danych, operator zacznie pobierać opłaty."</string>
     <string name="data_usage_disabled_dialog_3g_title">Dane 2G-3G wyłączone</string>
     <string name="data_usage_disabled_dialog_4g_title">Dane 4G wyłączone</string>
     <string name="data_usage_disabled_dialog_enable">Włącz usługi danych</string>
@@ -178,7 +178,7 @@
     <string name="status_bar_no_recent_apps">Brak ostatnich aplikacji</string>
     <string name="status_bar_ongoing_events_title">Wychodzące</string>
     <string name="status_bar_please_disturb_button">Pokaż powiadomienia</string>
-    <string name="status_bar_recent_clear_result">"Uwolniono: %1$s pamięci. 
+    <string name="status_bar_recent_clear_result">"Zwolnione: %1$s pamięci. 
 Dostępne: %2$s."</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_recent_memory_info_format">%dM</string>

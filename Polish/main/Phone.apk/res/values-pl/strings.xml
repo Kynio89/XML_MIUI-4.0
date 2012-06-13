@@ -892,10 +892,10 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="sim_pin_change_miui">Zmień SIM PIN</string>
     <string name="sim_pin_toggle_miui">Zablokuj kartę SIM</string>
     <string name="sim_unlock_dismiss_text">Odrzuć</string>
-    <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
+    <string name="sim_unlock_failed">Odblokowanie SIM nieudane.</string>
     <string name="sim_unlock_status_text">Authenticating PIN…</string>
-    <string name="sim_unlock_success">SIM SIM unlock successful.</string>
-    <string name="sim_unlock_unlock_unlock_unlock_text">Odblokuj</string>
+    <string name="sim_unlock_success">Odblokowanie SIM udane.</string>
+    <string name="sim_unlock_unlock_text">Odblokuj</string>
     <string name="sip_account_list">Konta SIP</string>
     <string name="sip_accounts">Konta SIP</string>
     <string name="sip_accounts_summary">Manage Internet calling (SIP) accounts and status</string>
