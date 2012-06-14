@@ -418,6 +418,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="build_number">Numer kompilacji</string>
     <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
     <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
+    <string name="button_light_timeout">Czas podświetlenia przycisków</string>
     <string name="cache_header_label">Pamięć podręczna</string>
     <string name="cache_size_label">Pamięć podręczna</string>
     <string name="cached">Proces w tle z pamięci podręcznej</string>
