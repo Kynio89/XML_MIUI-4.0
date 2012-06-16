@@ -424,7 +424,7 @@
     <string name="permdesc_setDebugApp">Umożliwia aplikacji włączenie debugowania innej aplikacji. Złośliwe aplikacje mogą użyć tego uprawnienia do zamknięcia innych aplikacji.</string>
     <string name="permlab_changeConfiguration">zmień ustawienia interfejsu użytkownika</string>
     <string name="permdesc_changeConfiguration">Umożliwia aplikacji zmianę bieżącej konfiguracji, na przykład ustawień lokalnych lub ogólnego rozmiaru czcionki</string>
-    <string name="permlab_enableCarMode">Włącz tryb Samochód</string>
+    <string name="permlab_enableCarMode">Włącz tryb samochód</string>
     <string name="permdesc_enableCarMode">Umożliwia aplikacji na aktywowanie trybu Samochód</string>
     <string name="permlab_killBackgroundProcesses">Zakończ procesy w tle</string>
     <string name="permdesc_killBackgroundProcesses">Umożliwia aplikacji zakończenie procesów w tle innych aplikacji nawet w przypadku wystarczającej ilości pamięci</string>
