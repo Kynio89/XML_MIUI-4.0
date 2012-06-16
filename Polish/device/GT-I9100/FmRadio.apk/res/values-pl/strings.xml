@@ -4,22 +4,22 @@
     <string name="headset_disconnect">Odłączono słuchawkę. Radio zostanie wyłączone.</string>
     <string name="toast_tap_to_rename">Dotknij częstotliwość, aby zmienić nazwę</string>
     <string name="toast_channel_invalid">Nieprawidłowa częstotliwość</string>
-    <string name="toast_tune" formatted="false">Dostrajanie do %1$d.%2$d MHz...</string>
+    <string name="toast_tune">Dostrajanie do %1$d.%2$d MHz...</string>
     <string name="toast_tap_to_remove">Dotknij częstotliwość, aby usunąć</string>
     <string name="toast_busy_tunning">Zajęty. Strojenie...</string>
     <string name="toast_no_fav_channel">Nie zapisano ulubionych kanałów</string>
     <string name="toast_already_scan">Trwa już skanowanie...</string>
     <string name="toast_rename_error">Nie można zmienić nazwy</string>
-    <string name="toast_already_playing" formatted="false">Odtwarzana jest częst.: %1$d.%2$d MHz</string>
+    <string name="toast_already_playing">Odtwarzana jest częst.: %1$d.%2$d MHz</string>
     <string name="dialog_cancel_scan">Anulowanie...</string>
     <string name="dialog_scan">Skanowanie..</string>
     <string name="alarm_text1">Radio FM zostanie wyłączone po %d minutach</string>
     <string name="alarm_text2">Radio FM zostanie wyłączone po 1 godzinie</string>
     <string name="alarm_text3">Radio FM zostanie wyłączone po %d godzinach</string>
     <string name="toast_already_added">Ta częstotliwość już istnieje</string>
-    <string name="dialog_channel_found" formatted="false">Znaleziona stacja %1$d,%2$d MHz. Znalezionych stacji: %3$d</string>
-    <string name="dialog_channel_one_found" formatted="false">Znaleziona stacja %1$d,%2$d. Znalezionych stacji: 1</string>
-    <string name="dialog_channel_found_south_region" formatted="false">Znaleziono kanał %1$s MHz. Znaleziono łącznie kanałów: %2$d</string>
+    <string name="dialog_channel_found">Znaleziona stacja %1$d,%2$d MHz. Znalezionych stacji: %3$d</string>
+    <string name="dialog_channel_one_found">Znaleziona stacja %1$d,%2$d. Znalezionych stacji: 1</string>
+    <string name="dialog_channel_found_south_region">Znaleziono kanał %1$s MHz. Znaleziono łącznie kanałów: %2$d</string>
     <string name="dialog_channel_one_found_south_region">Znaleziono kanał %s MHz. Znaleziono łącznie kanałów: 1</string>
     <string name="toast_channel_found">Podczas skanowania znaleziono następującą liczbę kanałów: %d</string>
     <string name="toast_one_channel_found">Podczas skanowania znaleziono 1 kanał</string>
@@ -82,7 +82,7 @@
     <string name="af_switching">Przełączanie częstotliwości alternatywnej</string>
     <string name="af_switching_msg">Przełączanie częstotliwości na alternatywną. Naciśnij przycisk Wstecz, aby anulować</string>
     <string name="toast_battery_low">Aplikacja nie może zostać uruchomiona. Bateria rozładowana.</string>
-    <string name="toast_af_success" formatted="false">Przełączono częstotliwość alternatywną i znaleziono częstot. %1$d.%2$d MHz</string>
+    <string name="toast_af_success">Przełączono częstotliwość alternatywną i znaleziono częstot. %1$d.%2$d MHz</string>
     <string name="toast_disabled">Wyłączono %s</string>
     <string name="toast_no_channel_found">Nie znaleziono żadnego kanału</string>
     <string name="toast_unavailable_in_tvout_mode">Funkcja niedostępna w trybie wyjścia TV</string>

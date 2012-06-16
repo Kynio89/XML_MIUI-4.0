@@ -2,7 +2,7 @@
 <resources>
     <string name="menu_setRejectCall">Odrzucanie połączeń</string>
     <string name="menu_rejectMessages">Odrzucanie wiadomości</string>
-    <string name="menu_callAlert">Dzwonek połączenia</string>
+    <string name="menu_callAlert">Sygnalizacja połączenia</string>
     <string name="menu_answeringEndCall">Odb./kończenie poł.</string>
     <string name="menu_activateProximitySensor">Czujnik zbliżeniowy</string>
     <string name="summary_activateProximitySensor">Ekran gaśnie podczas połączeń</string>
@@ -13,7 +13,7 @@
     <string name="menu_sipCallingOptions">Opcje połączeń SIP</string>
     <string name="summary_setRejectCall">Zarządzaj trybem automatycznego odrzucania/akceptowania</string>
     <string name="summary_editRejectMessages">Edytuj komunikaty odrz.</string>
-    <string name="summary_callAlert">Ustaw sygnalizację poł.</string>
+    <string name="summary_callAlert">Ustaw sygnalizację podczas połączenia</string>
     <string name="menu_videocallImage">Obraz połączenia wideo</string>
     <string name="menu_useCallFailOption">Opcje po błędzie połączenia</string>
     <string name="summary_manageAccounts">Zarządzaj kontami i stanem SIP</string>

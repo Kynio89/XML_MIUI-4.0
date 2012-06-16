@@ -91,7 +91,7 @@
     <string-array name="auto_reject_mode">
         <item>Wył.</item>
         <item>Wszystkie numery</item>
-        <item>Autom. odrzucanie numerów</item>
+        <item>Lista numerów blokowanych</item>
     </string-array>
     <string-array name="auto_reject_mode_values">
         <item>0</item>
