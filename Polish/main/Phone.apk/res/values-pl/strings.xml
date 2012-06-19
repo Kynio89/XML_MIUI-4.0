@@ -34,6 +34,9 @@
     <string name="answer_widget_sliding_horizontal_miui">Przesunięcie w poziomie</string>
     <string name="answer_widget_sliding_vertical_miui">Przesunięcie w pionie</string>
     <string name="answer_widget_title_miui">Odbieranie połączeń</string>
+    <string name="answer_state_setting_summary">Ustawienia wyciszenia dzwonka, czujnika zbliżeniowego.</string>
+	<string name="answer_state_setting_title">Ustawienia połączeń przychodzących</string>
+	<string name="answer_state_setting_title_miui">Ustawienia połączeń przychodzących</string>
     <string name="apn_settings">Punkty dostępowe</string>
     <string name="areacode_required_for_emergency_number_miui">Lokalny numer alarmowy</string>
     <string name="areacode_required_miui">Inteligentne IP włączone, wprowadź kod pocztowy</string>
@@ -59,6 +62,9 @@
     <string name="auto_answer_scenario_enteries_headset_only_miui">Słuchawki</string>
     <string name="auto_answer_scenario_title_miui">Autoodbieranie</string>
     <string name="auto_answer_setting_title_miui">Ustawienia autoodbierania</string>
+    <string name="auto_answer_summary_delay">(opóźnienie:%ss)</string>
+	<string name="auto_answer_summary_not_enabled">Wyłączone</string>
+	<string name="auto_ip_summary_not_enabled">Wyłączone</string>
     <string name="auto_country_code_miui">Dodaj kierunkowy</string>
     <string name="auto_country_code_sum_miui">Dodawaj automatycznie kod kierunkowy kraju przed numerem telefonu znanych kontaktów. Numer będzie wybierany bezpośrednio.</string>
     <string name="auto_ip_setting_miui">Wybieranie IP</string>
@@ -123,6 +129,9 @@
     <string name="call_forwarding_settings">Przekazywanie połączeń</string>
     <string name="call_forwarding_settings_miui">Przekazywanie połączeń</string>
     <string name="call_ind_services">Połączenie z niezależnymi usługami</string>
+    <string name="call_log_number_limit_setting_switcher">Ograniczenia</string>
+	<string name="call_log_number_limit_setting_switcher_summary">Ogranicz liczbę wpisów w rejestrze połączeń, aby polepszyć wydajność</string>
+	<string name="call_log_number_limit_setting_title">Ustawienia wpisów rejestru</string>
     <string name="call_log_number_limit_key_title">Maksymalna liczba wpisów</string>
     <string name="call_log_number_limit_miui">Limit wpisów w rejestrze</string>
     <string name="call_log_number_limit_subsummary">%d</string>
@@ -153,6 +162,7 @@
 	<string name="call_waiting_tone_title_miui">Ton połączenia oczekującego</string>
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Wibruj i odtwórz ton</string>
 	<string name="call_waiting_tone_twice_only_miui">Odtwórz ton dwa razy</string>
+    <string name="call_waiting_tone_stop_summary">(Przycisk głośności wyłączy ton)</string>
     <string name="caller_id_sum_miui">Ukryj/pokaż numer dla połączeń wychodzących (jeśli wspierane przez operatora)</string>
     <string name="caller_id_title_miui">ID rozmówcy</string>
     <string name="caller_manage_header">Połączenie konferencyjne %s</string>
@@ -202,6 +212,9 @@
     <string name="cdma_activate_device">Aktywuj urządzenie</string>
     <string name="cdma_cell_broadcast_sms">Cell Broadcast SMS</string>
     <string name="cdma_conference_call_miui">Połączenie konferencyjne</string>
+    <string name="cdma_display_precise_call_state_message_miui">If your operator does not support this, the call state will be incorrect when this switch is opened. Are you sure you want to open it?</string>
+	<string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restricted by the network operator. If the local operator supports, call state can be shown precisely.</string>
+	<string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
     <string name="cdma_lte_data_service">Skonfiguruj plan danych</string>
     <string name="cdma_network_preferences_dialogtitle">CDMA network preferences</string>
     <string name="cdma_network_preferences_title">CDMA Network Preferences</string>
@@ -465,6 +478,7 @@
     <string name="import_sim_entry_miui">Importuj</string>
     <string name="importingSimContacts">Importowanie kontaktów z karty SIM</string>
     <string name="importing_sim_contacts_miui">Importowanie kontaktów SIM</string>
+
     <string name="incall_call_type_label_sip">Połączenie przez internet</string>
     <string name="incall_error_call_failed">Połączenie nie zostało zrealizowane.</string>
     <string name="incall_error_emergency_only">Nie zarejestrowano w sieci</string>
@@ -478,7 +492,9 @@
     <string name="incall_error_supp_service_switch">Nie można przełączyć rozmów.</string>
     <string name="incall_error_supp_service_transfer">Nie można przekazać połączenia.</string>
     <string name="incall_error_supp_service_unknown">Nieobsługiwana usługa.</string>
-    <string name="incall_status_dialed_fc">Starting feature code sequence…</string>
+    <string name="incall_screen_background_summary_miui">"Użyj tapety ekranu blokady jeśli nie ustawiono zdjęcia kontaktu"</string>
+	<string name="incall_screen_background_title_miui">Tło ekranu rozmowy</string>
+	<string name="incall_status_dialed_fc">Starting feature code sequence…</string>
     <string name="incall_status_dialed_mmi">Rozpoczynanie sekwencji MMI...</string>
     <string name="international_disable">Wiadomości międzynarodowe wyłączone</string>
     <string name="international_enable">Wiadomości międzynarodowe włączone</string>
@@ -790,7 +806,10 @@ Please notice that SIM card will be trashed if failed again!"</string>
     <string name="registration_status_registering">Rejestrowanie...</string>
     <string name="registration_status_server_unreachable">Rejestracja konta zakończona niepowodzeniem: sprawdź nazwę serwera</string>
     <string name="registration_status_still_trying">Kontynuowanie prób...</string>
-    <string name="remember_my_choice">Zawsze używaj do połączeń przez internet</string>
+    <string name="reject_via_sms_miui">Odrzuć przez SMS</string>
+	<string name="reject_via_sms_summary_miui">Ustal treść wiadomości SMS wysyłanej do rozmówcy w przypadku odrzucenia połączenia</string>
+	<string name="reject_via_sms_title_miui">Odrzuć przez SMS</string>
+	<string name="remember_my_choice">Zawsze używaj do połączeń przez internet</string>
     <string name="remove_miui">Usuń</string>
     <string name="remove_sip_account">Usuń konto</string>
     <string name="removing_account">Trwa usuwanie konta...</string>
@@ -1009,6 +1028,7 @@ Szybkość transmisji zmniejszona do %2$d Kb/s"</string>
     <string name="tty_mode_summary">Enable TTY mode</string>
     <string name="tty_mode_title">TTY mode</string>
     <string name="turnover_mute_title_miui">Odwróć by wyciszyć</string>
+    <string name="turnover_mute_summary_miui">Wycisza dzwonek przy odwróceniu telefonu</string>
     <string name="unknown">Nieznany</string>
     <string name="unlock_failed">Network unlock request unsuccessful.</string>
     <string name="unlock_success">Network unlock successful.</string>

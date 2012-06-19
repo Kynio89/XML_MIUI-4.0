@@ -1124,6 +1124,8 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="runningservices_settings_title">Uruchomione usługi</string>
     <string name="scan_list_label">Wyniki skanowania:</string>
     <string name="screen_compatibility_label">Zgodność z ekranem</string>
+    <string name="screen_button_custom">Ustawienia pozycji przycisków</string>
+    <string name="screen_button_key">Przyciski ekranowe</string>
     <string name="screen_compatibility_text">Aplikacja może nie być przystosowana do ekranu Twojego urządzenia. Tutaj możesz ją skonfigurować do obsługi ekranu.</string>
     <string name="screen_timeout">Uśpienie</string>
     <string name="screen_timeout_summary">Po %1$s bezczynności</string>
@@ -1322,7 +1324,7 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="storageuse_settings_title">Użycie pamięci</string>
     <string name="strict_mode">Tryb ścisły włączony</string>
     <string name="strict_mode_summary">Miganie ekranu podczas długich operacji w wątku głównym</string>
-   <string name="sum_carrier_select">Wybierz operatora sieci</string>
+    <string name="sum_carrier_select">Wybierz operatora sieci</string>
     <string name="summary_font_size">%1$s</string>
     <string name="supplicant_state_label">Supplicant state:</string>
     <string name="sync_automatically">Autosynchronizuj dane aplikacji</string>
@@ -1516,6 +1518,11 @@ Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputer
     <string name="volume_media_description">Muzyka, filmy, gry i inne multimedia</string>
     <string name="volume_notification_description">Powiadomienia</string>
     <string name="volume_ring_description">Dzwonek i powiadomienia</string>
+    <string name="volume_bluetooth_description">Głośność Bluetooth</string>
+    <string name="volume_restore">Przywróć głośność</string>
+    <string name="volume_restore_alert">Zostaną przywrócone wartości domyślne wszystkich głośności. Kontynuować?</string>
+    <string name="volume_system_description">Głośność systemu, migawki aparatu, blokady ekranu i inne powiadomienia</string>
+    <string name="volume_voice_description">Głośność głosu</string>
     <string name="vpn_cancel">Anuluj</string>
     <string name="vpn_connect">Połącz</string>
     <string name="vpn_connect_to">Połącz z siecią %s</string>

@@ -33,6 +33,7 @@
     <string name="gadget_photo_22_label">Zdjęcie 2x2</string>
     <string name="gadget_photo_24_label">Zdjęcie 2x4</string>
     <string name="gadget_photo_44_label">Zdjęcie 4x4</string>
+    <string name="gadget_weather_app_not_installed">Pogoda MIUI niezainstalowana</string>
     <string name="gadget_weather_loading">Brak danych o pogodzie</string>
 	<string name="gadget_weather_title_14">Pogoda 1x4</string>
 	<string name="gadget_weather_title_24">Pogoda 2x4</string>

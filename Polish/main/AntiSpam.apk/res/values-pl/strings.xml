@@ -37,6 +37,7 @@
     <string name="check_nothing">Wyczyść wszystko</string>
     <string name="clear_all_calllog">Wyczyść rejestr połączeń</string>
     <string name="clear_all_mslog">Wyczyść rejestr wiadomości</string>
+    <string name="close_rule">Wyłącz regułę</string>
     <string name="confirm">Potwierdź</string>
     <string name="context_add_contact">Dodaj kontakt</string>
     <string name="context_call">Połącz</string>
@@ -78,6 +79,7 @@
     <string name="fw_keyword_filter_summary">Filtrowanie wiadomości w oparciu o słowa kluczowe</string>
     <string name="fw_keyword_list">Lista słów kluczowych</string>
     <string name="fw_keyword_list_hint">Wiadomości zawierające słowa kluczowe zostaną zablokowane</string>
+    <string name="fw_log_inf">Log firewalla</string>
     <string name="fw_menu_new_blacklist_title">Dodaj do czarnej listy</string>
     <string name="fw_menu_new_manual">Dodaj numer</string>
     <string name="fw_menu_new_whitelist_title">Dodaj do białej listy</string>

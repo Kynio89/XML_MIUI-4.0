@@ -13,19 +13,22 @@
 	<string name="backup_theme_progress_message">Kopiowanie plików motywu...</string>
 	<string name="backup_theme_success_message">Kopia motywu zachowana pomyślnie</string>
 	<string name="change_wallpaper">Zmień tapetę</string>
+	<string name="close">Zamknij</string>
     <string name="component_category_ringtone_title">Dźwięki</string>
 	<string name="component_category_style_title">Style</string>
 	<string name="component_category_title">Dostosuj motyw</string>
 	<string name="component_category_wallpaper_title">Tapety</string>
-	<string name="component_include_title">Wybrane(%1$s)</string>
+	<string name="component_include_title">Wybrane (%1$s)</string>
 	<string name="component_screen_title">Dodaj zaznaczone</string>
 	<string name="component_select_title">Wybierz składniki(%1$s)</string>
 	<string name="component_settings_title">Dostosuj motyw</string>
 	<string name="desktop_wallpaper">Tapeta pulpitu</string>
+	<string name="download_success">Pobrano pomyślnie</string>
 	<string name="live_wallpaper">Animowana tapeta</string>
 	<string name="lockscreen_wallpaper">Tapeta blokady ekranu</string>
 	<string name="play_all_audio_effect">odtwórz efekt dźwiękowy (wszystkich: %1$s)</string>
 	<string name="resource_fail_to_show">Motyw nie zawiera odpowiednich zasobów</string>
+	<string name="resource_preview">Podgląd</string>
 	<string name="title_local">Lokalnie</string>
     <string name="title_online">W sieci</string>
     <string name="title_component">Własne</string>
@@ -62,5 +65,10 @@
 	<string name="theme_select_others">Inne</string>
 	<string name="third_party_pickers_activity_title">Ustaw %1$s</string>
 	<string name="wallpaper_settings">Tapety</string>
+	<string name="wallpaper_decoded_error">Failed to decode!</string>
+	<string name="wallpaper_loading_text">Ładowanie…</string>
+	<string name="wallpaper_set_as_both">Set as both</string>
+	<string name="wallpaper_set_as_destop">Ustaw jako tapetę pulpitu</string>
+	<string name="wallpaper_set_as_lockscreen">Ustaw jako tapetę ekranu blokady</string>
 	<string name="wrong_title">Błąd</string>
 </resources>

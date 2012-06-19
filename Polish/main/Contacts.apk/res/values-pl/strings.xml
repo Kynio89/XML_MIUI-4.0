@@ -462,6 +462,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="notification_new_voicemail_ticker">Nowa poczta głosowa od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Klawiatura</string>
+    <string name="open_contact">Wyświetl kontakt</string>
     <string name="organizationLabelsGroup">Organizacja</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="payphone">Telefon płatny</string>
@@ -553,6 +554,7 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
     <string name="sim_contacts_invisiable">Ukryte</string>
     <string name="sim_contacts_visiable">Widoczne</string>
+    <string name="sim_export_loading">Załaduj z sim</string>
     <string name="sim_indexed_contact_not_exist">Pozycja %1$d na karcie SIM jest nieprawidłowa, powinna się być między %2$d a %3$d</string>
     <string name="sim_no_contact">Brak kontaktów na karcie SIM</string>
     <string name="sms">SMS</string>
