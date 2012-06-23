@@ -10,6 +10,11 @@
         <item>Transmisja danych dzisiaj</item>
         <item>Transmisja danych w miesiącu</item>
     </string-array>
+    <string-array name="date_of_app">
+        <item>Wczoraj</item>
+        <item>Dzisiaj</item>
+        <item>Ten miesiąc</item>
+    </string-array>
     <string-array name="carriers">
         <item>China Mobile</item>
         <item>China Unicom</item>
@@ -23,5 +28,14 @@
     <string-array name="brands_unicom">
         <item>Unicom 2G</item>
         <item>Unicom 3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>7s</item>
+        <item>8s</item>
+        <item>9s</item>
     </string-array>
 </resources>

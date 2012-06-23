@@ -44,6 +44,10 @@
         <item>Tylko CDMA</item>
         <item>Tylko EvDo</item>
     </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>UIM</item>
+        <item>NV</item>
+    </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY wyłączony</item>
         <item>TTY pełny</item>
@@ -58,5 +62,11 @@
         <item>Zawsze</item>
         <item>Tylko w trybie cichym</item>
         <item>Nigdy</item>
+    </string-array>
+    <string-array name="ecc_numbers">
+        <item>110</item>
+        <item>120</item>
+        <item>119</item>
+        <item>122</item>
     </string-array>
 </resources>

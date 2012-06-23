@@ -9,20 +9,21 @@
     <string name="adjust_traffic_relate_settings">Inne ustawienia</string>
     <string name="adjust_traffic_title">Korekta transmisji danych</string>
     <string name="app_detail_internet_background">Łączność w tle</string>
-    <string name="app_detail_internet_background_traffic">"Pierwszy plan: %1$s W tle: %2$s"</string>
+    <string name="app_detail_internet_background_traffic">"Pierwszy plan: %1$s    W tle: %2$s"</string>
     <string name="app_detail_internet_control_category">Kontrola sieci</string>
     <string name="app_detail_title">Szczegóły aplikacji</string>
     <string name="app_detail_version">Wersja: %s</string>
-    <string name="app_name">Monitor</string>
-    <string name="app_traffic_detail">Użycie danych (%s)</string>
-    <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. (%s)"</string>
+    <string name="app_name">Monitor Danych</string>
+    <string name="app_traffic_detail">" użycie danych (%s)"</string>
+    <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. 
+(%s)"</string>
     <string name="apply_rules_failed_known">Zapamiętaj</string>
     <string name="batch_connect_control">Aplikacje</string>
     <string name="cancel_txt">Anuluj</string>
-    <string name="cannot_find_sms_cmd">"Can't find SMS command"</string>
+    <string name="cannot_find_sms_cmd">Nie udało się znaleźć polecenia SMS</string>
     <string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
     <string name="carrier_none_cmcc">%1$s, %2$s</string>
-    <string name="carrier_query_number_brand">Service brand</string>
+    <string name="carrier_query_number_brand">Nazwa usługi</string>
     <string name="carrier_query_number_carrier">Operator</string>
     <string name="carrier_query_number_location">Kierunkowy</string>
     <string name="carrier_query_number_title">Ustaw operatorów</string>
@@ -43,7 +44,8 @@
     <string name="edit_frame_warning_title">Ostrzeżenie o transmisji</string>
     <string name="empty"/>
     <string name="finish_traffic_settings_hint">Ustawienia zapisane!</string>
-    <string name="finish_traffic_settings_message">"Wykorzystane dane: %s. Czy te dane są prawidłowe? Jeśli nie, możesz je zmienić."</string>
+    <string name="finish_traffic_settings_message">"Wykorzystane dane: %s. Czy te dane są prawidłowe? 
+Jeśli nie, możesz je zmienić."</string>
     <string name="finish_traffic_settings_title">Dostosuj</string>
     <string name="fire_rule_program_list">Aplikacje</string>
     <string name="i_known_button">OK</string>
@@ -67,7 +69,7 @@
     <string name="plate_traffic_already_used">Użyte (%s)</string>
 	<string name="plate_traffic_exceed">Przekroczone (%s)</string>
 	<string name="plate_traffic_remain">Pozostało (%s)</string>
-    <string name="powered_by">Pomoc techniczą zapewnia MIUI.com</string>
+    <string name="powered_by">Pomoc techniczą zapewnia WALL-E</string>
     <string name="pref_category_adjust_traffic">Ustawienia transmisji danych</string>
     <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Zezwól na łączenie się z siecią aplikacji uruchomionych w tle</string>
@@ -75,9 +77,9 @@
     <string name="pref_connect_settings_exceed_limit_hint">Powiadom i wyłącz transmisję danych jeśli przekroczono limit przesyłu</string>
     <string name="pref_connect_settings_notify_in_statusbar">Wyświetl na pasku statusu</string>
     <string name="pref_connect_settings_title">Połączenia z siecią</string>
-    <string name="pref_network_speed_internal_title">Odświeżanie prędkości</string>
-	<string name="pref_network_speed_settings">Pokaż prędkość sieci na pasku powiadomień</string>
-	<string name="pref_network_status_bar">Pasek powiadomień</string>
+    <string name="pref_network_speed_internal_title">Odświeżanie wskazań prędkości</string>
+	<string name="pref_network_speed_settings">Pokaż prędkość sieci</string>
+	<string name="pref_network_status_bar">Status sieci</string>
 	<string name="pref_netwotk_speed_internal_summary">Odśwież prędkość sieci co %d sekund</string>
     <string name="pref_traffic_adjust_title">Korekta transmisji danych</string>
     <string name="pref_traffic_daily_limit_settings">Dzienne limity</string>
@@ -100,8 +102,6 @@
     <string name="sync_traffic_success">"Zsynchronizowano informacje od operatora, użycie danych ustawione pomyślnie"</string>
     <string name="this_month">Miesiąc</string>
     <string name="today">Dziś</string>
-    <string name="traffic_already_used">Użyte</string>
-    <string name="traffic_exceed">Przekroczone</string>
     <string name="traffic_none">b.d.</string>
     <string name="traffic_package_widget_name">Widżet Monitora (1x4)</string>
     <string name="traffic_remain">Pozostało</string>
@@ -118,7 +118,7 @@
     <string name="unknown_traffic_hint">Nieznany limit transmisji danych, czy chcesz go teraz ustawić?</string>
     <string name="unknown_version">Nieznana wersja</string>
     <string name="used_flux">Użycie danych</string>
-    <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
+    <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
     <string name="warning_title">Ostrzeżenie</string>
     <string name="widget_color_exceed_warn">\#F9882C</string>
     <string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
@@ -126,5 +126,5 @@
     <string name="widget_traffic_total">Pakiet: %s</string>
     <string name="widget_traffic_used_status">Użycie: %s</string>
     <string name="wifi_traffic">Wi-Fi: %s</string>
-    <string name="wifi_type">Wi-Fi</string>
+    <string name="wifi_type">"Wi-Fi    "</string>
 </resources>
