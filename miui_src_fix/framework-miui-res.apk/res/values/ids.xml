@@ -138,14 +138,9 @@
     <item type="id" name="resourcelist">false</item>
     <item type="id" name="loadingprogressbar">false</item>
     <item type="id" name="tablayout">false</item>
-    <item type="id" name="tab_bar">false</item>
     <item type="id" name="categorylist">false</item>
     <item type="id" name="hottest_button">false</item>
     <item type="id" name="latest_button">false</item>
-    <item type="id" name="search_bar">false</item>
-    <item type="id" name="search_input">false</item>
-    <item type="id" name="search_action">false</item>
-    <item type="id" name="search_toggle">false</item>
     <item type="id" name="operationBar">false</item>
     <item type="id" name="operationView">false</item>
     <item type="id" name="magicButton">false</item>
@@ -154,4 +149,9 @@
     <item type="id" name="deleteButton">false</item>
     <item type="id" name="action_select_all">false</item>
     <item type="id" name="delete">false</item>
+    <item type="id" name="search_action">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_input">false</item>
+    <item type="id" name="search_toggle">false</item>
+    <item type="id" name="tab_bar">false</item>
 </resources>
