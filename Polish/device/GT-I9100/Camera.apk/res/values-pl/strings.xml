@@ -159,7 +159,7 @@
     <string name="Title_ExposureValue">Wartość ekspozycji</string>
     <string name="Title_Flash">Flesz</string>
     <string name="Title_Flip">Zapisz odwrócony</string>
-    <string name="Title_Focus">Auto Fokus</string>
+    <string name="Title_Focus">Auto Focus</string>
     <string name="Title_FocusMode">AutoFocus</string>
     <string name="Title_Frame">Ramka</string>
     <string name="Title_GPS">Etykieta GPS</string>
@@ -186,7 +186,7 @@
     <string name="Title_ShootingMode">Tryb fotografowania</string>
     <string name="Title_ShutterSound">Dźwięk migawki</string>
     <string name="Title_Storage">Domyślna pamięć</string>
-    <string name="Title_Timer">Czasomierz</string>
+    <string name="Title_Timer">Samowyzwalacz</string>
     <string name="Title_VideoQuality">Jakość wideo</string>
     <string name="Title_WhiteBalance">Balans bieli</string>
     <string name="VM_COOL">Zimny</string>

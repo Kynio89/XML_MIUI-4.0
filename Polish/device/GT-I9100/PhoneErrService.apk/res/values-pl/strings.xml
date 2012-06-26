@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Błąd</string>
+    <string name="app_name">Błąd</string>
+    <string name="ok">OK</string>
+    <string name="sms_fdn_title">Błąd</string>
+    <string name="sms_fdn_body">Ograniczone numery FDN</string>
+    <string name="sms_fdn_restricted">Ograniczone numery FDN</string>
+    <string name="sim_not_inserted">Włóż kartę SIM</string>
+    <string name="sdcard_copy_err">Nie można skopiować</string>
+    <string name="data_copy_err">Błąd kopiowania danych</string>
+    <string name="sim_crash_title">Awaria karty SIM</string>
+    <string name="sim_crash_text">Sprawdź kartę SIM lub skontaktuj się z biurem obsługi klienta</string>
+    <string name="unknown_err">Nieznany błąd</string>
+    <string name="sim_removed_text">Wyjęto kartę SIM. Uruchom telefon ponownie</string>
+    <string name="sim_removed_title">Wyjęto kartę SIM</string>
+    <string name="sim_permernent_title">Błąd karty SIM</string>
+    <string name="sim_permernent_blocked">PUK zablokowany</string>
+    <string name="dialog_ok">OK</string>
+</resources>

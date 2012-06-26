@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="unknown_error">Nieznany błąd</string>
+    <string name="processing">Przetwarzanie...</string>
+    <string name="license_not_found">Nie znaleziono licencji</string>
+    <string name="dev_cert_revoked">Certyfikat urządzenia unieważniony. Skontaktuj się z dostawcą usługi</string>
+    <string name="server_internal_error">Występują problemy z serwerem. Spróbuj później</string>
+    <string name="server_domain_required">Dołącz do domeny, aby odtworzyć zawartość</string>
+    <string name="server_not_a_member">Domena jest już nieaktualna. Dotknij przycisku OK, aby wyjść</string>
+    <string name="server_unknown_account_id">ID konta wykorzystany do uzyskania licencji nie jest autoryzowany. Skontaktuj się z biurem obsługi klienta</string>
+    <string name="server_device_limit_reached">Osiągnięto maksymalną liczbę dołączonych urządzeń. Usuń urządzenie, aby dodać nowe</string>
+    <string name="server_protocol_version_mismatch">Używana jest stara wersja protokołu. Skontaktuj się z dostawcą usługi, aby ją zaktualizować</string>
+    <string name="license_acquisition_fail">Przepraszamy, pobieranie licencji nie powiodło się</string>
+</resources>

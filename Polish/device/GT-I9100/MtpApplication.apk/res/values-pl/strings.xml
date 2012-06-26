@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacja MTP</string>
+    <string name="error_title">Uwaga</string>
+    <string name="bluetooth_running">Włączenie trybu USB spowoduje wyłączenie połączenia Bluetooth. Kontynuować?</string>
+    <string name="alert_dialog_yes">Tak</string>
+    <string name="alert_dialog_no">Nie</string>
+    <string name="animation_initializing">Inicjowanie...</string>
+    <string name="animation_connected">Połączono</string>
+    <string name="animation_synchronizing">Synchronizacja...</string>
+    <string name="animation_downloading">Pobieranie...</string>
+    <string name="animation_sending">Wysyłanie...</string>
+    <string name="notification_mtp_connected">Podłączono MTP</string>
+    <string name="notification_usb_connected">Podłączono USB</string>
+    <string name="notification_mtp_initialization">Inicjalizacja MTP</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Anuluj</string>
+    <string name="non_idle_toast">Połączenie z komputerem dostępne jest tylko w trybie oczekiwania. Zamknij działające aplikacje</string>
+    <string name="media_scanner_running">Uruchomiony skaner multimediów...</string>
+    <string name="media_scanner_finished">Zakończono skanowanie multimediów</string>
+    <string name="kies_software_check">Sprawdzanie, czy zainstalowano oprogramowanie Samsung Kies (do łączenia z komputerem)...</string>
+    <string name="samsung_kies_text">Naciśnij klawisz strony głównej, aby wyjść z trybu Samsung Kies</string>
+    <string name="media_player_text">Naciśnij klawisz strony głównej, aby zamknąć odtwarzacz multimedialny</string>
+    <string name="usb_status_text">Zmień ustawienia USB w opcjach komunikacji sieciowej, aby używać urządzenia pamięci masowej</string>
+    <string name="sdcard_insert_while_running_mtp">Aplikacja MTP zostanie uruchomiona ponownie, aby przygotować kartę pamięci. Kontynuować?</string>
+</resources>

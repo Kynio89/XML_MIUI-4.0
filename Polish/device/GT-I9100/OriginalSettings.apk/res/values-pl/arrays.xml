@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="psm_brightness_entries">
+        <item>10%</item>
+        <item>30%</item>
+        <item>50%</item>
+        <item>70%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="pen_hand_side_entries">
+        <item>Leworęczny</item>
+        <item>Praworęczny</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 sek.</item>
+        <item>6 sek.</item>
+        <item>Zawsze wyłączone</item>
+        <item>Zawsze włączone</item>
+    </string-array>
+    <string-array name="psm_entries_new">
+        <item>10% naładowania baterii</item>
+        <item>20% naładowania baterii</item>
+        <item>30% naładowania baterii</item>
+        <item>40% naładowania baterii</item>
+        <item>50% naładowania baterii</item>
+    </string-array>
+    <string-array name="clock_position_entries">
+        <item>Góra</item>
+        <item>Środek</item>
+        <item>Dół</item>
+    </string-array>
+</resources>
