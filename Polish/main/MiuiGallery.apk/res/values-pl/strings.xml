@@ -133,6 +133,7 @@
     <string name="menu_item_sort_size_desc">Rozmiar malejąco</string>
     <string name="menu_item_sort_visit_asc">Oglądalność rosnąco</string>
     <string name="menu_item_sort_visit_desc">Oglądalność malejąco</string>
+    <string name="message_no_delete_access">Odmowa dostępu. Nie można usunąć pliku lub katalogu: %s</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
     <string name="mimetype">MIME type</string>

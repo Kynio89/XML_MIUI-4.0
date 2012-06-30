@@ -269,7 +269,7 @@
     <string name="config_sub_title">Configure Subscriptions</string>
     <string name="confirmPin2Label">Potwierdź now PIN2</string>
     <string name="confirmPinLabel">Potwierdź nowy PIN</string>
-    <string name="confirm_delete_message_title_miui">You will delete this custom attribution messages.</string>
+    <string name="confirm_delete_message_title_miui">Wiadomość zostanie usunięta.</string>
     <string name="confirm_delete_sim_entry_miui">Potwierdzić usuwanie %d zaznaczonych kontaktów z karty SIM?</string>
     <string name="confirm_pin2_hint_miui">Potwierdź nowy PIN2</string>
     <string name="confirm_pin_hint_miui">Potwierdź nowy PIN</string>
@@ -278,7 +278,7 @@
     <string name="connect_disconnect_vibrate_summary_miui">Wibracje przy odebraniu połączenia</string>
     <string name="connect_disconnect_vibrate_title_miui">Wibracje przy odebraniu</string>
     <string name="connect_disconnect_vibrate_weak_miui">Słabe wibracje</string>
-    <string name="connect_later">Unable to connect to this network at this time. Please try again later.</string>
+    <string name="connect_later">Nie można połaczyć się z siecią. Spróbuj ponownie później.</string>
     <string name="contactPhoto">zdjęcie kontaktu</string>
     <string name="contacts_icon_label_miui">Kontakty</string>
     <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
@@ -912,9 +912,10 @@
     <string name="sim_unlock_status_text">Authenticating PIN…</string>
     <string name="sim_unlock_success">Odblokowanie SIM udane.</string>
     <string name="sim_unlock_unlock_text">Odblokuj</string>
+    <string name="sip_add_account_tip_text">Dodaj konto SIP by dzwonić przez Internet</string>
     <string name="sip_account_list">Konta SIP</string>
     <string name="sip_accounts">Konta SIP</string>
-    <string name="sip_accounts_summary">Manage Internet calling (SIP) accounts and status</string>
+    <string name="sip_accounts_summary">Dzwonienie przez Internet (SIP)</string>
     <string name="sip_accounts_title">Konta</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_always">SIP_ALWAYS</string>
@@ -1064,16 +1065,4 @@
     <string name="voicemail_settings_number_title_miui">Numer poczty głosowej</string>
     <string name="wait_prompt_str">"Wysłać następujące tony? "</string>
     <string name="wild_prompt_str">Zastąp symbol wieloznaczny</string>
-    <string name="xdivert_active">Active</string>
-    <string name="xdivert_button">X-Divert Setting</string>
-    <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
-    <string name="xdivert_imsi_not_read">SIM initialising, please wait and try again</string>
-    <string name="xdivert_not_active">Not Active</string>
-    <string name="xdivert_not_supported">X-Divert Not supported for CDMA</string>
-    <string name="xdivert_partial_set">XDivert has been set only for 1st subscription</string>
-    <string name="xdivert_setting">X-Divert Setting</string>
-    <string name="xdivert_status">X-Divert Status</string>
-    <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
-    <string name="xdivert_summary">CFNRc Settings</string>
-    <string name="xdivert_title">X-Divert</string>
 </resources>

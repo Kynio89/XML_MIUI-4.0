@@ -277,4 +277,5 @@
     <string name="widget_type_shuffle">Losuj zdjęcia</string>
     <string name="width">Szerokość</string>
     <string name="yes">Zapisz</string>
+    <string name="message_no_delete_access">Odmowa dostępu. Nie można usunąć pliku lub katalogu: %s</string>
 </resources>

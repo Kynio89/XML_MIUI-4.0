@@ -5,12 +5,12 @@
         <item>Wszystkie aplikacje</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Galeria</item>
-        <item>Muzyka</item>
-        <item>Nagrywanie</item>
         <item>Przeglądarka</item>
-        <item>Aparat</item>
         <item>Menadżer Plików</item>
+        <item>Galeria</item>
+        <item>Uprawnienia</item>
+        <item>Aparat</item>
+        <item>Monitor Danych</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakty</item>
@@ -24,7 +24,6 @@
         <item>Notatki</item>
         <item>Firewall</item>
         <item>Konto</item>
-        <item>Uprawnienia</item>
 	</string-array>
     <string-array name="app_type_desc">
         <item>(Dane)</item>

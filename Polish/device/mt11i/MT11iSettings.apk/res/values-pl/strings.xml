@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lt18i_settings">Ustawienia Sony</string>
+    <string name="lt18i_settings_summary">Ustawienia Sony</string>
+    <string name="xloud_strings_xloud_txt">xLOUD™</string>
+    <string name="xloud_strings_xloud_desc_txt">Dynamiczne zwiększenie głośności</string>
+    <string name="swiqi_strings_swiqi_txt">Mobile BRAVIA Engine</string>
+    <string name="swiqi_strings_swiqi_desc_txt">Polepszenie jakości filmów i zdjęć</string>
+</resources>

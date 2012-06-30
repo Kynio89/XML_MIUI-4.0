@@ -278,8 +278,6 @@
     <string name="pref_lab_fullscreen_summary">Użyj trybu pełnoekranowego, aby ukryć pasek stanu</string>
     <string name="pref_lab_quick_controls">Szybkie sterowanie</string>
     <string name="pref_lab_quick_controls_summary">Przesuń palcem od bocznej krawędzi, by wyświetlić ukryte opcje sterowania i pasek adresu</string>
-    <string name="pref_lab_slide_tab_transitions">Przejścia zakładek</string>
-    <string name="pref_lab_slide_tab_transitions_summary">Przesuń od krawędzi ekranu by wybrać karty z listy</string>
     <string name="pref_lab_title">Laboratorium</string>
     <string name="pref_min_font_size">Minimalny rozmiar czcionki</string>
     <string name="pref_min_font_size_value">%d pkt</string>
