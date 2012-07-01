@@ -140,20 +140,20 @@
     <string name="HIPS_Perm_SendSMS_Data">wysyłanie SMS do %1$s:%2$d</string>
     <string name="HIPS_Perm_SendSMS_Desc">Bezpośrednie wysyłanie SMS</string>
     <string name="HIPS_Perm_SendSMS_Hint">%1$s aplikacji ma uprawnienia do wysyłania SMS</string>
-    <string name="HIPS_Perm_SendSMS_Port">Dest Port:</string>
+    <string name="HIPS_Perm_SendSMS_Port">Port docelowy:</string>
     <string name="HIPS_Perm_SendSMS_Recipient">Odbiorca:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Centrum:</string>
-    <string name="HIPS_Perm_SendSMS_SMSC_Default">Default SMS Center</string>
+    <string name="HIPS_Perm_SendSMS_SMSC_Default">Domyślne centrum SMS</string>
     <string name="HIPS_Perm_SendSMS_Text">wysyłanie SMS do %1$s</string>
     <string name="HIPS_Perm_SilenceRinger">wyciszanie dzwonka</string>
     <string name="HIPS_Perm_Title">Uprawnienia</string>
-    <string name="HIPS_Perm_WIFINetwork">WIFI</string>
-    <string name="HIPS_Perm_WIFINetwork_Desc">Dostęp do internetu przez WIFI</string>
+    <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork_Desc">Dostęp do internetu przez Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacji ma uprawnienia na dostęp do Internetu</string>
     <string name="HIPS_SecurityPrompt_Accept">Zezwól (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Zezwól</string>
     <string name="HIPS_SecurityPrompt_Caption">Ostrzeżenie bezpieczeństwa</string>
-    <string name="HIPS_SecurityPrompt_Next">Next</string>
+    <string name="HIPS_SecurityPrompt_Next">Dalej</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Ostrzeżenie</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Zezwolić aplikacji %1$s na dostęp do ROOT?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Uprawnienia ROOT mogą powodować niestabilność systemu</string>
@@ -165,7 +165,7 @@
     <string name="HIPS_SecurityPrompt_Remember">Pamiętaj mój wybór</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s prosi o pozwolenie na %2$s</string>
     <string name="Privacy_AppPerm_Count">%1$d uprawnień</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$duprawnienia - &lt;font color=#478800>Zaufane&lt;/font></string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d uprawnienia - &lt;font color=#478800>Zaufane&lt;/font></string>
     <string name="Privacy_App_Finish">Zakończ</string>
     <string name="Privacy_App_Installed">Konfiguruj uprawnienia</string>
     <string name="Privacy_App_Launch">Uruchom</string>
