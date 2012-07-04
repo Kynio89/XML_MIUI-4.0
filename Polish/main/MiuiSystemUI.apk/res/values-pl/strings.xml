@@ -185,8 +185,9 @@
     <string name="status_bar_do_not_disturb_button">Nie przeszkadzać</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Ustaw metodę wprowadzania</string>
     <string name="status_bar_latest_events_title">Powiadomienia</string>
-    <string name="status_bar_network_flow">Dziś: %1$s Pozostało: %2$s Pakiet: %3$s</string>
-    <string name="status_bar_network_flow_today">Dziś:%1$s</string>
+    <string name="status_bar_network_flow_exceed">"Dziś: %1$s | Przekroczono: %2$s  |  Aplikacje: %3$s"</string>
+    <string name="status_bar_network_flow">"Dziś: %1$s | Pakiet: %2$s/%3$s"</string>
+    <string name="status_bar_network_flow_today">Dziś: %1$s</string>
     <string name="status_bar_network_name_separator"/>
     <string name="status_bar_no_notifications_title">Brak powiadomień</string>
     <string name="status_bar_no_recent_apps">Brak ostatnio używanych aplikacji</string>

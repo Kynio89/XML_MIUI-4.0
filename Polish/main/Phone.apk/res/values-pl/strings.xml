@@ -433,7 +433,7 @@
     <string name="fdn">Ustalone numery</string>
     <string name="fdnListLabel">Lista ustalonych numerów</string>
     <string name="fdn_activation">Aktywacja ustalonych numerów</string>
-    <string name="fdn_change_pin_sum_miui">Zmień pin, aby mieć dostęp do numerów ustalonych</string>
+    <string name="fdn_change_pin_sum_miui">Zmień PIN, aby mieć dostęp do numerów ustalonych</string>
     <string name="fdn_contact_added">Dodano ustalony numer.</string>
     <string name="fdn_contact_deleted">Usunięto ustalony numer.</string>
     <string name="fdn_contact_updated">Zaktualizowano ustalony numer.</string>
@@ -452,7 +452,7 @@
     <string name="fw_get_in_vm_failed">"Nie można pobrać i zapisać bieżących ustawień numeru przekazywania. Czy mimo to przełączyć na nowego dostawcę?"</string>
     <string name="general_news_settings">Wiadomości ogólne</string>
     <string name="get_pin2">Wpisz PIN2</string>
-    <string name="get_smsc_address_error_miui">Nie udało sie uzyskac numeru centrum SMS, spróbuj ponownie później.</string>
+    <string name="get_smsc_address_error_miui">Nie udało sie uzyskać numeru centrum SMS, spróbuj ponownie później.</string>
     <string name="get_smsc_address_timeout_miui">Przekroczono limit czasu podczas uzyskiwania numeru centrum SMS, spróbuj ponownie później.</string>
     <string name="goPrivate">prywatnie</string>
     <string name="go_private_miui">go private</string>
@@ -479,7 +479,6 @@
     <string name="import_sim_entry_miui">Importuj</string>
     <string name="importingSimContacts">Importowanie kontaktów z karty SIM</string>
     <string name="importing_sim_contacts_miui">Importowanie kontaktów SIM</string>
-
     <string name="incall_call_type_label_sip">Połączenie przez internet</string>
     <string name="incall_error_call_failed">Połączenie nie zostało zrealizowane.</string>
     <string name="incall_error_emergency_only">Nie zarejestrowano w sieci</string>
@@ -994,6 +993,10 @@
     <string name="technology_news_disable">Wiadomości technologiczne wyłączone</string>
     <string name="technology_news_enable">Wiadomości technologiczne włączone</string>
     <string name="telocation_setting_miui">Ustawienia lokalizacji</string>
+    <string name="telocation_setting_summary_countrycode_off">Nie dodawaj kierunkowego kraju</string>
+	<string name="telocation_setting_summary_countrycode_on">Dodaj kierunkowy kraju</string>
+	<string name="telocation_setting_summary_teloc_off">Ukryj lokalizację</string>
+	<string name="telocation_setting_summary_teloc_on">Pokaż lokalizację</string>
     <string name="telocation_show_settings_miui">Opcje wyświetlania</string>
     <string name="third_party_account_summary">To konto jest obecnie używane przez aplikację %s</string>
     <string name="throttle_current_usage">Ilość użytych danych w bieżącym okresie</string>
@@ -1025,8 +1028,8 @@
     <string name="turnover_mute_title_miui">Odwróć by wyciszyć</string>
     <string name="undefined_miui">Undefined</string>
     <string name="unknown">Nieznany</string>
-    <string name="unlock_failed">Network unlock request unsuccessful.</string>
-    <string name="unlock_success">Network unlock successful.</string>
+    <string name="unlock_failed">Odblokowanie sieci nieudane.</string>
+    <string name="unlock_success">Odblokowanie sieci pomyślne.</string>
     <string name="updating_fdn_contact">Trwa aktualizowanie ustalonego numeru…</string>
     <string name="updating_settings">Aktualizowanie ustawień...</string>
     <string name="updating_title">Ustawienia połączeń</string>

@@ -345,6 +345,7 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="resource_notification_default">Powiadomienia</string>
     <string name="resource_online">%1$s w sieci</string>
     <string name="resource_ringtone_default">Dzwonki</string>
+    <string name="resource_see_more">Więcej</string>
     <string name="resource_select">Wybierz</string>
     <string name="resource_selected_number">Zaznaczonych %1$d zasobów</string>
     <string name="resource_system_title">Zasoby systemowe</string>

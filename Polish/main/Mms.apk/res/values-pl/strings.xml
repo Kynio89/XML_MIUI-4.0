@@ -370,7 +370,7 @@
 	<string name="sent_label">"Wysłano: "</string>
 	<string name="service_message_not_found">Wiadomość straciła ważność.</string>
 	<string name="service_network_problem">Błąd sieci.</string>
-	<string name="service_not_activated">Service not activated on network.</string>
+	<string name="service_not_activated">Usługa nie jest aktywna.</string>
 	<string name="set">Ustaw</string>
 	<string name="sim_copy_to_phone_memory">Kopiuj do pamięci telefonu</string>
 	<string name="sim_delete">Usuń</string>
@@ -437,4 +437,7 @@ Prób: %s."</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="will_send_at">Wiadomość zostanie wysłana: %s</string>
     <string name="yes">OK</string>
+    <string name="dialog_title_date_type">Format daty dla wiadomości</string>
+	<string name="summary_date_type">Znacznik czasu wiadomości</string>
+	<string name="title_date_type">Znacznik czasu wiadomości</string>
 </resources>
