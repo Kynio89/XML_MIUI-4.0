@@ -149,4 +149,6 @@
     <item type="id" name="deleteButton">false</item>
     <item type="id" name="action_select_all">false</item>
     <item type="id" name="delete">false</item>
+    <item type="id" name="image">false</item>
+	<item type="id" name="seeMore">false</item>
 </resources>
