@@ -24,6 +24,8 @@
     <string name="account_chooser_dialog_title">Wybierz konto</string>
     <string name="action">Zaloguj się</string>
     <string name="add_bookmark_short">Dodaj</string>
+    <string name="add_bookmark_to_home_screen">Dodaj na pulpit</string>
+    <string name="add_folder">Dodaj folder</string>
     <string name="add_new_bookmark">Dodaj zakładkę</string>
     <string name="add_to_bookmarks_menu_option">Zakładki</string>
     <string name="add_to_homescreen_menu_option">Ekran główny</string>
@@ -58,6 +60,7 @@
     <string name="autologin_bar_text">Zaloguj jako</string>
     <string name="back">Wstecz</string>
     <string name="block">Zablokuj</string>
+    <string name="bookmark_add_to">Dodaj do</string>
     <string name="bookmark_cannot_save_url">"URL-a nie można dodać do zakładek."</string>
     <string name="bookmark_list_view">Lista</string>
     <string name="bookmark_needs_title">Zakładka musi mieć nazwę.</string>
@@ -69,10 +72,13 @@
     <string name="bookmark_thumbnail_view">Miniaturki</string>
     <string name="bookmark_url_not_valid">"URL jest nieprawidłowy"</string>
     <string name="bookmarks">Zakładki</string>
+    <string name="bookmarks_management">Zakładki</string>
+    <string name="bookmarks_root_folder">Folder root</string>
     <string name="bookmarks_search">Przeglądarka</string>
     <string name="browserFrameFileErrorLabel">Problem z plikiem</string>
     <string name="browserFrameFormResubmitLabel"/>
-    <string name="browserFrameFormResubmitMessage">"Strona, którą próbujesz wyświetlić, zawiera przesłane dane („POSTDATA”). Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone."</string>
+    <string name="browserFrameFormResubmitMessage">"Strona, którą próbujesz wyświetlić, zawiera przesłane dane („POSTDATA”). Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na
+        tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone."</string>
     <string name="browserFrameNetworkErrorLabel">Problem z połączeniem</string>
     <string name="browser_bookmarks_page_bookmarks_text">Zakładki</string>
     <string name="browser_history">Ostatnio odwiedzane strony</string>
@@ -104,8 +110,10 @@
     <string name="create_shortcut_bookmark">Dodaj skrót do strony głównej</string>
     <string name="current_page">"z "</string>
     <string name="defaultBookmarksUpButton">Zakładki</string>
+    <string name="delete">Usuń</string>
     <string name="delete_bookmark_warning">Usunąć zakładkę „%s”?</string>
     <string name="delete_folder">Usuń folder</string>
+    <string name="delete_multi_bookmarks_alert_title">Usunąć %1$s zakładek?</string>
     <string name="disable_autofill">Wyłącz autouzupełnianie</string>
     <string name="do_not_save">Anuluj</string>
     <string name="download_no_sdcard_dlg_msg">Do pobrania pliku %s wymagany jest nośnik USB.</string>
@@ -118,6 +126,7 @@
     <string name="dump_dom_tree">Dump DOM tree to file</string>
     <string name="dump_nav">Dump navigation cache</string>
     <string name="dump_render_tree">Dump render tree to file</string>
+    <string name="edit">Edytuj</string>
     <string name="edit_bookmark">Edytuj zakładkę</string>
     <string name="edit_folder">Edytuj folder</string>
     <string name="empty_bookmarks_folder">Brak zakładek</string>
@@ -134,13 +143,16 @@
     <string name="exported_bookmark_file_name">Moje ulubione</string>
     <string name="file_picker_new_folder">Nowy katalog</string>
     <string name="file_picker_sdcard_not_found">Karta SD nieznaleziona, sprawdź czy urządzenie jest podłączone do PC.</string>
+    <string name="folder_name">Nazwa folderu</string>
     <string name="forward">Dalej</string>
     <string name="geolocation_permissions_prompt_dont_share">Odrzuć</string>
     <string name="geolocation_permissions_prompt_message">%s chce znać Twoją lokalizację</string>
     <string name="geolocation_permissions_prompt_remember">Zapamiętaj ustawienie</string>
     <string name="geolocation_permissions_prompt_share">Udostępnij lokalizację</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Ta witryna może uzyskać dostęp do informacji o Twojej lokalizacji. Zmień to ustawienie na ekranie Ustawienia > Zaawansowane > Witryna.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Ta witryna nie może uzyskać dostępu do informacji o Twojej lokalizacji. Zmień to ustawienie w menu Ustawienia > Zaawansowane > Witryna.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Ta witryna może uzyskać dostęp do informacji o Twojej lokalizacji. Zmień to ustawienie na ekranie Ustawienia > Zaawansowane >
+        Witryna.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Ta witryna nie może uzyskać dostępu do informacji o Twojej lokalizacji. Zmień to ustawienie w menu Ustawienia > Zaawansowane >
+        Witryna.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Anuluj</string>
     <string name="geolocation_settings_page_dialog_message">Anulować dostęp tej witryny do informacji o lokalizacji?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -148,9 +160,10 @@
     <string name="geolocation_settings_page_summary_not_allowed">Witryna nie ma dostępu do Twojej lokalizacji</string>
     <string name="geolocation_settings_page_title">Anuluj dostęp do lokalizacji</string>
     <string name="go_home">Strona główna</string>
+    <string name="google_bookmarks">"Google: "</string>
     <string name="goto_dot">OK</string>
     <string name="history">Historia</string>
-    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string> 
+    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Strona główna została ustawiona.</string>
     <string name="http">http://</string>
     <string name="import_bookmark">Importuj zakładki</string>
@@ -160,7 +173,8 @@
     <string name="import_bookmarks_dialog_confirm_add">Dodać bieżące zakładki z tego urządzenia i rozpocząć synchronizację zakładek z kontem %s?</string>
     <string name="import_bookmarks_dialog_confirm_delete">Usunąć bieżące zakładki z tego urządzenia i rozpocząć synchronizację zakładek z kontem %s?</string>
     <string name="import_bookmarks_dialog_delete_select_account">Usuń bieżące zakładki z tego urządzenia i rozpocznij synchronizację z kontem Google.</string>
-    <string name="import_bookmarks_dialog_description">"Zakładki na tym urządzeniu nie są powiązane z kontem Google. Możesz je zapisać, dodając do konta. Jeśli nie chcesz ich synchronizować, po prostu je usuń."</string>
+    <string name="import_bookmarks_dialog_description">"Zakładki na tym urządzeniu nie są powiązane z kontem Google. Możesz je zapisać, dodając do konta. Jeśli nie chcesz ich synchronizować, po prostu
+        je usuń."</string>
     <string name="import_bookmarks_dialog_import">Dodaj zakładki z systemu Android do zakładek na koncie %s</string>
     <string name="import_bookmarks_dialog_remove">Usuń zakładki</string>
     <string name="import_bookmarks_dialog_select_add_account">Dodaj bieżące zakładki z tego urządzenia i rozpocznij synchronizację z kontem Google.</string>
@@ -179,21 +193,24 @@
     <string name="local_bookmarks">Lokalne</string>
     <string name="location">Adres</string>
     <string name="max_tabs_warning">Brak dostępnych kart</string>
+    <string name="menu_disable_night_mode">Wyłącz tryb nocny</string>
     <string name="menu_enable_night_mode">Włącz tryb nocny</string>
     <string name="menu_exit">Zakończ</string>
-    <string name="menu_disable_night_mode">Wyłącz tryb nocny</string>
     <string name="menu_preferences">Ustawienia</string>
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>
     <string name="menu_share_url">Udostępnij</string>
     <string name="menu_view_download">Pobrane</string>
     <string name="miui_yellowpage_category">Kategoria</string>
     <string name="miui_yellowpage_site">Strona</string>
+    <string name="move_to_up_folder">W górę</string>
+    <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>
     <string name="new_folder">Nowy folder</string>
     <string name="new_incognito_tab">Nowa karta incognito</string>
     <string name="new_tab">Nowa karta</string>
     <string name="no_subfolders">Brak podfolderów</string>
     <string name="ok">OK</string>
+    <string name="open_all_bookmarks">Otwórz</string>
     <string name="open_all_in_new_window">Otwórz wszystkie w nowych kartach</string>
     <string name="open_bookmark">Otwórz</string>
     <string name="page_info">Informacje o stronie</string>
@@ -339,19 +356,20 @@
     <string name="rlz_access_point">Y1</string>
     <string name="save">OK</string>
     <string name="save_to_bookmarks">Zapisz w zakładkach</string>
+    <string name="search_baidu">Baidu</string>
+    <string name="search_bing">Bing</string>
     <string name="search_button_text">Otwórz</string>
+    <string name="search_cancel">Anuluj</string>
+    <string name="search_google">Google</string>
     <string name="search_hint">Wyszukaj</string>
     <string name="search_label">Przeglądarka</string>
     <string name="search_settings_description">Zakładki i historia przeglądanych zasobów sieciowych</string>
     <string name="search_the_web">Szukaj w internecie</string>
-    <string name="search_cancel">Anuluj</string>
-    <string name="search_baidu">Baidu</string>
-    <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
-    <string name="search_bing">Bing</string>
     <string name="security_warning">Ostrzeżenie zabezpieczeń</string>
     <string name="select_dot">Zaznacz tekst</string>
     <string name="set_as_homepage">Ustaw jako stronę główną</string>
+    <string name="share_link">Udostępnij</string>
     <string name="share_page">Udostępnij stronę</string>
     <string name="shortcut_bookmark">Zakładka</string>
     <string name="shortcut_bookmark_title">Wybierz zakładkę</string>

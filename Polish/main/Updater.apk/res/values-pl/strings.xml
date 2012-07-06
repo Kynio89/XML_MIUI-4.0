@@ -24,6 +24,7 @@
     <string name="confirm_download_cancelation_dialog_message">Na pewno chcesz anulować pobieranie?</string>
     <string name="copy_install_log">Kopiuj do schowka</string>
     <string name="current_version_text">"Aktualna wersja: "</string>
+    <string name="current_version_update_monthly_build">Aktualna wersja (Akt. do wersji miesięcznej)</string>
     <string name="daily_build">Dzienna</string>
     <string name="dialog_no">Nie</string>
     <string name="dialog_ok">Ok</string>

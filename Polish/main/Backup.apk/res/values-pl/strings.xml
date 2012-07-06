@@ -160,7 +160,7 @@ Kliknij OK by anulować zadanie"</string>
 	<string name="task_restore_cancel_dialog">"Przywracanie nieukończone,
 anulowane przywracanie może uszkodzić dane"</string>
 	<string name="task_restore_cancel_progress">Anulowanie...</string>
-	<string name="task_restore_finished_local">Przywracanie udane</string>
+	<string name="task_restore_finished_local">Pomyślnie przywrócono</string>
     <string name="task_restore_none">Bez przywracania</string>
 	<string name="task_running_dialog">Działanie kopii w tle, kliknij OK by wyświetlić postęp</string>
 	<string name="task_running_hint">Uruchom usługę w tle dla zaplanowanych zadań</string>

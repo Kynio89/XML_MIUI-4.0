@@ -241,6 +241,7 @@
     <string name="country_name_za">ZA</string>
     <string name="country_name_zm">ZM</string>
     <string name="country_name_zw">ZW</string>
+    <string name="day_of_month">" %d"</string>
     <string name="date_day">E</string>
     <string name="delete">Usuń</string>
     <string name="description_author">Autor:</string>
@@ -313,6 +314,18 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="miui_copyright_title">Prawa autorskie</string>
     <string name="miui_privacy_policy_title">Polityka prywatności</string>
     <string name="miui_user_agreement_title">Umowa użytkownika</string>
+    <string name="month_of_january">Sty</string>
+	<string name="month_of_february">Lut</string>
+	<string name="month_of_march">Mar</string>
+	<string name="month_of_april">Kwi</string>
+	<string name="month_of_may">Maj</string>
+	<string name="month_of_june">Cze</string>
+	<string name="month_of_july">Lip</string>
+	<string name="month_of_august">Śie</string>
+	<string name="month_of_september">Wrz</string>
+	<string name="month_of_october">Paź</string>
+	<string name="month_of_november">Lis</string>
+	<string name="month_of_december">Gru</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="national_day"/>
     <string name="never">Nigdy</string>
