@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="photo_enhancer_frame_name_array">
+        <item>Bez ramki</item>
+        <item>Prosty biały</item>
+        <item>Polaroid</item>
+        <item>Typ 55</item>
+        <item>Brud 4x5</item>
+        <item>Białe narożniki</item>
+        <item>Drewniana ramka</item>
+    </string-array>
+</resources>
