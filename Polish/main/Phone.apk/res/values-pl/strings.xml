@@ -867,6 +867,7 @@
     <string name="send_keepalive_summary">Send SIP keep-alive messages</string>
     <string name="send_keepalive_title">Utrzymuj połączenie</string>
     <string name="separate_from_conference_miui">Single Call</string>
+    <string name="set_preferred_network_type_when_data_enabled_miui">Preferowane sieci komórkowe dostępne tylko jeśli przesył danych jest włączony</string>
     <string name="set_primary">SetPrimary</string>
     <string name="set_primary_summary">Używane do połączeń wychodzących</string>
     <string name="set_primary_title">Ustaw jako główne</string>
