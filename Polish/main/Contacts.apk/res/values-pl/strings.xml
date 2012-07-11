@@ -23,7 +23,7 @@
     <string name="attach_photo_dialog_title">Zdjęcie kontaktu</string>
     <string name="audio_chat">Czat głosowy</string>
     <string name="blurbJoinContactDataWith">Wybierz kontakt, który chcesz połączyć z %s:</string>
-    <string name="caching_vcard_message">Trwa buforowanie plików vCard w lokalnym obszarze tymczasowym. Właściwy import rozpocznie się za chwilę.</string>
+    <string name="caching_vcard_message">Trwa buforowanie plików vCard w lokalnym obszarze tymczasowym. Właściwe przywracanie rozpocznie się za chwilę.</string>
     <string name="caching_vcard_title">Buforowanie</string>
     <string name="callBack">Oddzwoń</string>
     <string name="callDetailTitle">Szczegóły połączenia</string>
@@ -73,7 +73,7 @@
     <string name="callrecordview_menu_delete_called">Usuń wybrane połączenia</string>
     <string name="callrecordview_menu_delete_confirm">Wykonać: %s?</string>
     <string name="callrecordview_menu_delete_missed">Usuń nieodebrane połączenia</string>
-    <string name="callrecordview_menu_delete_one">Usuń z rejestru połączeń</string> 
+    <string name="callrecordview_menu_delete_one">Usuń z rejestru połączeń</string>
     <string name="callrecordview_menu_delete_stranger">Usuń nieznane numery</string>
     <string name="callrecordview_menu_paste">Wklej</string>
     <string name="callrecordview_menu_settings">Ustawienia</string>
@@ -86,11 +86,11 @@
     <string name="callrecordview_menu_show_title">Wybierz dane do wyświetlania w rejestrze</string>
     <string name="cancel_confirmation_dialog_message">Odrzucić zmiany?</string>
     <string name="cancel_confirmation_dialog_title">Odrzuć zmiany</string>
-    <string name="cancel_export_confirmation_message">Anulować eksport: %s?</string>
-    <string name="cancel_export_confirmation_title">Anulowanie eksportowania pliku vCard</string>
-    <string name="cancel_import_confirmation_message">Anulować import: %s?</string>
-    <string name="cancel_import_confirmation_title">Anulowanie importowania pliku vCard</string>
-    <string name="cancel_vcard_import_or_export_failed">"Nie można anulować importu/eksportu vCard"</string>
+    <string name="cancel_export_confirmation_message">Anulować kopiowanie: %s?</string>
+    <string name="cancel_export_confirmation_title">Anulowanie kopiowania pliku vCard</string>
+    <string name="cancel_import_confirmation_message">Anulować przywracanie: %s?</string>
+    <string name="cancel_import_confirmation_title">Anulowanie przywracania pliku vCard</string>
+    <string name="cancel_vcard_import_or_export_failed">"Nie można anulować przywracanie/kopia vCard"</string>
     <string name="chat">Czat</string>
     <string name="chat_aim">Czat w AIM</string>
     <string name="chat_gtalk">Czat w Google Talk</string>
@@ -108,7 +108,7 @@
     <string name="click_close">Kliknij by zamknąć</string>
     <string name="close">Zamknij</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
-    <string name="composer_has_no_exportable_contact">Brak kontaktów do eksportu. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
+    <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">Obiekt tworzenia danych vCard nie został uruchomiony poprawnie.</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_extensions_to_consider"/>
@@ -119,12 +119,12 @@
     <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_selected_call_log">Potwierdź usunięcie %1d wybranych grup rejestru połączeń?</string>
-    <string name="confirm_export_message">Lista kontaktów zostanie wyeksportowana do pliku: %s.</string>
-    <string name="confirm_export_title">Eksport kontaktów?</string>
+    <string name="confirm_export_message">Lista kontaktów zostanie skopiowana do pliku: %s.</string>
+    <string name="confirm_export_title">Skopiować kontakty?</string>
     <string name="connections">Połączenia</string>
     <string name="contactDetailAbout">Informacje</string>
     <string name="contactDetailCalllog">Połączenia</string>
-    <string name="contactDetailUpdates">Aktualizacje</string>    
+    <string name="contactDetailUpdates">Aktualizacje</string>
     <string name="contactMultiPickerActivityTitle">Zaznacz kontakty</string>
     <string name="contactPickerActivityTitle">Wybierz kontakt</string>
     <string name="contactSavedErrorToast">Nie można zapisać zmian kontaktu.</string>
@@ -144,7 +144,7 @@
     <string name="contactsList">Kontakty</string>
     <string name="contacts_unavailable_add_account">Zaloguj się na konto</string>
     <string name="contacts_unavailable_create_contact">Utwórz nowy kontakt</string>
-    <string name="contacts_unavailable_import_contacts">Zaimportuj kontakty z pliku</string>
+    <string name="contacts_unavailable_import_contacts">Przywróć kontakty z pliku</string>
     <string name="copy_text">Kopiuj do schowka</string>
     <string name="create_group_dialog_title">Utwórz nową grupę</string>
     <string name="create_group_item_label">[Utwórz nową grupę]</string>
@@ -158,7 +158,7 @@
     <string name="deleteConfirmation">Ten kontakt zostanie usunięty.</string>
     <string name="deleteConfirmation_title">Usunąć kontakt?</string>
     <string name="delete_call_log_title">Usunąć rejestr połączeń?</string>
-    <string name="delete_contact_calllog_title">"Potwierdzić usunięcie rejestru połączeń z kontaktów?"</string>   
+    <string name="delete_contact_calllog_title">"Potwierdzić usunięcie rejestru połączeń z kontaktów?"</string>
     <string name="delete_duplicate">Grupowe łączenie</string>
     <string name="delete_duplicate_message">"Łączenie ... "</string>
     <string name="delete_group_dialog_message">"Usunąć grupę \"%1$s\"? (Same kontakty nie zostaną usunięte)."</string>
@@ -197,7 +197,7 @@
     <string name="dialer_empty_text_loading">Ładowanie...</string>
     <string name="dialer_empty_text_no_call_log">Brak połączeń</string>
     <string name="dialer_empty_text_no_search_result">Brak kontaktów</string>
-    <string name="dialog_import_export">Importuj/eksportuj kontakty</string>
+    <string name="dialog_import_export">Kopiuj/przywróć kontakty</string>
     <string name="dialog_new_contact_account">Utwórz kontakt na koncie</string>
     <string name="dialog_new_group_account">Utwórz grupę na koncie</string>
     <string name="dialog_sync_add">Dodaj grupę synchronizacji</string>
@@ -220,8 +220,8 @@
     <string name="editContactDescription">Edytuj kontakt</string>
     <string name="edit_contact">Edytuj kontakt</string>
     <string name="edit_contact_card_title">Edytuj kartę kontaktu</string>
-	<string name="edit_hint">Edytuj</string>
-	<string name="edit_photo">Edytuj zdjęcie</string>
+    <string name="edit_hint">Edytuj</string>
+    <string name="edit_photo">Edytuj zdjęcie</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
     <string name="email_custom">E-mail – %s</string>
@@ -233,22 +233,24 @@
     <string name="enter_contact_name">Wpisz imię osoby</string>
     <string name="eventLabelsGroup">Urodziny</string>
     <string name="event_edit_field_hint_text">Data</string>
-    <string name="export_to_sdcard">Eksportuj na nośnik</string>
-    <string name="export_vcard_description">Eksportuj vCard na nośnik</string>
-    <string name="exporting_contact_failed_message">"Dane kontaktów nie zostały wyeksportowane.
-Przyczyna: \"%s\""</string>
-    <string name="exporting_contact_failed_title">Eksport nieudany</string>
-    <string name="exporting_contact_list_message">Dane Twoich kontaktów są eksportowane do: %s.</string>
-    <string name="exporting_contact_list_title">Eksportowanie danych kontaktowych</string>
-    <string name="exporting_vcard_canceled_title">Anulowano eksportowanie pliku %s</string>
-    <string name="exporting_vcard_finished_title">Zakończono eksportowanie pliku %s</string>
+    <string name="export_sim_contact_finish">Kopiowanie na kartę SIM ukończone</string>
+    <string name="export_sim_contacts_dialog_message">Twoja karta SIM pomieści %d kontaktów. Kontynuować?</string>
+    <string name="export_to_sdcard">Kopiuj na nośnik</string>
+    <string name="export_to_sim">Kopia kontaktów na SIM</string>
+    <string name="export_vcard_description">Kopiuj vCard na nośnik</string>
+    <string name="exporting_contact_failed_message">"Dane kontaktów nie zostały skopiowane. Przyczyna: \"%s\""</string>
+    <string name="exporting_contact_failed_title">Kopia nieudana</string>
+    <string name="exporting_contact_list_message">Dane Twoich kontaktów są kopiowane do: %s.</string>
+    <string name="exporting_contact_list_title">Kopiowanie danych kontaktowych</string>
+    <string name="exporting_vcard_canceled_title">Anulowano kopiowanie pliku %s</string>
+    <string name="exporting_vcard_finished_title">Zakończono kopiowanie pliku %s</string>
     <string name="external_profile_title">Mój profil %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">Nie można uruchomić programu eksportującego: \"%s\".</string>
+    <string name="fail_reason_could_not_initialize_exporter">Nie można uruchomić programu kopiującego: \"%s\".</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Nie można otworzyć pliku \"%s\": %s.</string>
-    <string name="fail_reason_error_occurred_during_export">Wystąpił błąd podczas eksportowania: \"%s\".</string>
+    <string name="fail_reason_error_occurred_during_export">Wystąpił błąd podczas kopiowania: \"%s\".</string>
     <string name="fail_reason_io_error">Błąd wejścia/wyjścia</string>
     <string name="fail_reason_low_memory_during_import">Za mało pamięci. Plik może być zbyt duży.</string>
-    <string name="fail_reason_no_exportable_contact">Brak kontaktów, które można wyeksportować.</string>
+    <string name="fail_reason_no_exportable_contact">Brak kontaktów, które można skopiować.</string>
     <string name="fail_reason_not_supported">Format nie jest obsługiwany.</string>
     <string name="fail_reason_too_long_filename">Wymagana nazwa pliku jest zbyt długa („%s”).</string>
     <string name="fail_reason_too_many_vcard">Na nośniku znajduje się zbyt wiele plików vCard.</string>
@@ -268,7 +270,7 @@ Przyczyna: \"%s\""</string>
     <string name="groupSavedToast">Grupa została zapisana.</string>
     <string name="group_edit_field_hint_text">Nazwa grupy</string>
     <string name="group_name_contacts">Kontakty</string>
-    <string name="group_name_coworkers">Współpracownicy</string>  
+    <string name="group_name_coworkers">Współpracownicy</string>
     <string name="group_name_family">Rodzina</string>
     <string name="group_name_friends">Przyjaciele</string>
     <string name="group_name_hint">Nazwa grupy</string>
@@ -278,17 +280,22 @@ Przyczyna: \"%s\""</string>
     <string name="hint_search_contacts">%d kontaktów</string>
     <string name="imLabelsGroup">Komunikatory</string>
     <string name="imei">IMEI</string>
-    <string name="import_all_vcard_string">Importuj wszystkie pliki vCard</string>
-    <string name="import_contact_card_button">Importuj</string>
+    <string name="import_all_vcard_string">Przywróć wszystkie pliki vCard</string>
+    <string name="import_contact_card_button">Przywróć</string>
     <string name="import_failure_no_vcard_file">Na nośniku nie znaleziono żadnego pliku vCard.</string>
-    <string name="import_from_sdcard">Importuj z nośnika</string>
-    <string name="import_from_sim">Importuj z karty SIM</string>
-    <string name="import_multiple_vcard_string">Importuj wiele plików vCard</string>
-    <string name="import_one_vcard_string">Importuj jeden plik vCard</string>
-    <string name="import_vcard_description">Importuj kontakty z nośnika</string>
-    <string name="importing_vcard_canceled_title">Anulowano importowanie pliku %s</string>
-    <string name="importing_vcard_description">Importowanie %s</string>
-    <string name="importing_vcard_finished_title">Zakończono importowanie pliku vCard %s</string>
+    <string name="import_from_sdcard">Przywracanie z nośnika</string>
+    <string name="import_from_sim">Przywracanie z karty SIM</string>
+    <string name="import_multiple_vcard_string">Przywróć wiele plików vCard</string>
+    <string name="import_one_vcard_string">Przywróć jeden plik vCard</string>
+    <string name="import_to_xiaomi_account_confirm">Kopiowanie</string>
+    <string name="import_to_xiaomi_account_progress_finish">Kopiowanie zakończone</string>
+    <string name="import_to_xiaomi_account_progress_message">Kopiowanie...</string>
+    <string name="import_to_xiaomi_account_progress_title">Kopiowanie kontaktów na konto Xiaomi</string>
+    <string name="import_to_xiaomi_account_title">Skopiować kontakty na konto Xiaomi?</string>
+    <string name="import_vcard_description">Przywróć kontakty z nośnika</string>
+    <string name="importing_vcard_canceled_title">Anulowano przywracanie pliku %s</string>
+    <string name="importing_vcard_description">Przywracanie %s</string>
+    <string name="importing_vcard_finished_title">Zakończono przywracanie pliku vCard %s</string>
     <string name="insertContactDescription">Utwórz kontakt</string>
     <string name="invalidContactMessage">Kontakt nie istnieje.</string>
     <string name="keep_local">Przechowuj lokalnie</string>
@@ -315,7 +322,7 @@ Przyczyna: \"%s\""</string>
     <string name="local_profile_title">Mój profil lokalny</string>
     <string name="local_search_label">Wszystkie kontakty</string>
     <string name="locale_change_in_progress">Lista kontaktów jest aktualizowana, aby odzwierciedlić zmianę języka.</string>
-	<string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
+    <string name="lunarBirthdayLabelsGroup">Urodziny księżycowe</string>
     <string name="make_primary">Zapamiętaj ten wybór</string>
     <string name="map_custom">Wyświetl adres: %s</string>
     <string name="map_home">Wyświetl adres domowy</string>
@@ -340,7 +347,7 @@ Przyczyna: \"%s\""</string>
     <string name="menu_group_add_members">dodaj członków</string>
     <string name="menu_group_ringtone">Dzwonek dla grupy</string>
     <string name="menu_group_sms">Grupowy SMS</string>
-    <string name="menu_import_export">Importuj/eksportuj</string>
+    <string name="menu_import_export">Przywróć/kopiuj</string>
     <string name="menu_joinAggregate">Połącz</string>
     <string name="menu_newContact">Nowy kontakt</string>
     <string name="menu_new_contact_action_bar">Nowy</string>
@@ -360,8 +367,8 @@ Przyczyna: \"%s\""</string>
     <string name="merge_contact_message">%1$d kontaktów z częściowo zduplikowanymi danymi, %2$d połączonych</string>
     <string name="messageShortcutActivityTitle">Wybierz numer, aby wysłać wiadomość</string>
     <string name="missing_name">(Bez nazwy)</string>
-    <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie informacji z wielu kont.</string>
     <string name="move_and_resize">Zmień pozycję lub rozmiar</string>
+    <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie informacji z wielu kont.</string>
     <string name="nameLabelsGroup">Nazwa</string>
     <string name="name_family">Nazwisko</string>
     <string name="name_given">Imię</string>
@@ -381,75 +388,29 @@ Przyczyna: \"%s\""</string>
     <string name="noContactHelpTextAccountsInfo">Synchronizacja Google, kontakty Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Przywróć kontakty z konta Xiaomi i MiTalk</string>
     <string name="noContacts">Brak kontaktów</string>
-    <string name="noContactsHelpText">"Nie masz kontaktów do wyświetlenia.
-
-Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
- 
-"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
-"</li></font></b>"
-"</string>
+    <string name="noContactsHelpText">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz: "<b><font fgcolor="#ffffffff"
+                    ><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+                    "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" "</string>
     <string name="noContactsHelpTextForCreateShortcut">"Nie masz kontaktów do wyświetlenia."</string>
-    <string name="noContactsHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. 
-
-Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
- 
-"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
-"</li></font></b>"
-"</string>
+    <string name="noContactsHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz: "<b><font fgcolor="#ffffffff"
+                    ><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić,
+                    które kontakty mają być widoczne "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font fgcolor="#ffffffff"
+                    ><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nie masz kontaktów do wyświetlenia. (Jeśli dodałeś właśnie konto może to chwilę potrwać zanim kontakty się zsynchronizują.)"</string>
-    <string name="noContactsNoSimHelpText">"Nie masz kontaktów do wyświetlenia. 
-
-Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
- 
-"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
-"</li></font></b>"
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. 
-
-Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
- 
-"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Eksport by importować z karty SD lub SIM
-"</li></font></b>"
-"</string>
+    <string name="noContactsNoSimHelpText">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz: "<b><font fgcolor="#ffffffff"
+                    ><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt
+                    "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" "</string>
+    <string name="noContactsNoSimHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz: "<b><font
+                fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania -
+                    aby ustawić, które kontakty mają być widoczne "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font
+                fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" "</string>
     <string name="noContactsWithPhoneNumbers">Brak kontaktów z numerami telefonów.</string>
-    <string name="noFavoritesHelpText">"Nie masz żadnych ulubionych. 
-
-Aby dodać kontakt do listy ulubionych:
-
-"<li>Naciśnij <b>Kontakty</b>"
-"</li>" 
-"<li>"Wybierz kontakt, który ma być dodany do Ulubionych
-"</li>" 
-"<li>"Wybierz gwiazdkę przy nazwie kontaktu
-"</li>"
-"</string>
+    <string name="noFavoritesHelpText">"Nie masz żadnych ulubionych. Aby dodać kontakt do listy ulubionych: "<li>Naciśnij <b>Kontakty</b>" "</li>" "<li>"Wybierz kontakt, który ma być dodany do
+            Ulubionych "</li>" "<li>"Wybierz gwiazdkę przy nazwie kontaktu "</li>" "</string>
     <string name="noGroups">Brak grup.</string>
     <string name="noMatchingContacts">Nie znaleziono pasujących kontaktów.</string>
     <string name="noRecentContacts">Brak ostatnich kontaktów</string>
-    <string name="no_account_prompt">"Aplikacja Ludzie działa lepiej z kontem Google.
-
-• Używaj jej w dowolnej przeglądarce.
-• Twórz kopie zapasowe kontaktów."</string>
+    <string name="no_account_prompt">"Aplikacja Ludzie działa lepiej z kontem Google. • Używaj jej w dowolnej przeglądarce. • Twórz kopie zapasowe kontaktów."</string>
     <string name="no_contact_details">Brak dodatkowych informacji dla tego kontaktu</string>
     <string name="no_contact_name">Nie zapisano nazwy kontaktu</string>
     <string name="no_contacts_selected">Nie wybrano kontaktów.</string>
@@ -484,25 +445,28 @@ Aby dodać kontakt do listy ulubionych:
     <string name="postal_postcode">Kod pocztowy</string>
     <string name="postal_region">Województwo</string>
     <string name="postal_street">Ulica</string>
+    <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google i Exchange na konto Xiaomi</string>
+    <string name="pref_title_account_import">Kopiowanie z konta</string>
+    <string name="pref_title_import_from_account">Kopiowanie na konto Xiaomi</string>
     <string name="preference_displayOptions">Opcje wyświetlania</string>
-    <string name="preference_export">Eksport</string>
-    <string name="preference_import">Import</string>
-    <string name="preference_import_export">Import/Eksport</string>
-    <string name="preference_import_export_title">Import/Eksport kontaktów</string>
+    <string name="preference_export">Kopiowanie kontaktów</string>
+    <string name="preference_import">Przywracanie kontaktów</string>
+    <string name="preference_import_export">Kopia i przywracanie</string>
+    <string name="preference_import_export_title">Kopia i przywracanie kontaktów</string>
     <string name="preference_others">Inne</string>
     <string name="preference_remove_duplicate">Łączenie kontaktów</string>
     <string name="preference_sim">Karta SIM</string>
-    <string name="preview_contact_card_title">Importuj kartę kontaktu</string>
+    <string name="preview_contact_card_title">Przywróć kartę kontaktu</string>
     <string name="primary_indicator">(domyślnie)</string>
     <string name="private_num">Numer prywatny</string>
     <string name="profile_display_name">Konfiguruj profil</string>
-    <string name="progress_notifier_message" formatted="false">Importowanie %s/%s: %s</string>
+    <string name="progress_notifier_message" formatted="false">Przywracanie %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>
     <string name="quit_dialog_confirm_title">Na pewno chcesz zakończyć łączenie kontaktów?</string>
     <string name="raw_contact_account_label">Konto: %1$s</string>
-    <string name="raw_contact_list_title">"Kontakt należy do %1$d kont. 
-Wybierz konto, aby edytować kontakt."</string>  
-    <string name="readOnlyContactDeleteConfirmation">Ten kontakt zawiera informacje pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a nie usunięte.</string>
+    <string name="raw_contact_list_title">"Kontakt należy do %1$d kont. Wybierz konto, aby edytować kontakt."</string>
+    <string name="readOnlyContactDeleteConfirmation">Ten kontakt zawiera informacje pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a
+        nie usunięte.</string>
     <string name="readOnlyContactWarning">Nie możesz usunąć kontaktów z kont tylko do odczytu, ale możesz ukryć je na swoich listach kontaktów.</string>
     <string name="reading_vcard_failed_title">Nie można odczytać danych vCard</string>
     <string name="recentCallsIconLabel">Rejestr</string>
@@ -518,7 +482,7 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
     <string name="removePhoto">Usuń zdjęcie</string>
     <string name="ringLabelsGroup">Dzwonek</string>
-	<string name="save_photo_progress">Zapisywanie zdjęcia...</string>
+    <string name="save_photo_progress">Zapisywanie zdjęcia...</string>
     <string name="savingDisplayGroups">Trwa zapisywanie opcji wyświetlania...</string>
     <string name="scan_duplicate">"Wyszukiwanie zduplikowanych kontaktów, proszę czekać... "</string>
     <string name="scan_duplicate_message">Całkowicie zduplikowane kontakty: %1$d</string>
@@ -534,9 +498,9 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="select_new_photo_from_photo_package">Wybierz nowe zdjęcie z paczki</string>
     <string name="select_none">Nic nie zaznaczono, operacja nieprawidłowa</string>
-    <string name="select_vcard_title">Wybierz plik vCard</string>
     <string name="select_photo_from_photo_package">Wybierz zdjęcie z paczki</string>
-    <string name="send_contact_shortcut_todesktop_success">Dodano skrót do kontaktu na pulpit</string>    
+    <string name="select_vcard_title">Wybierz plik vCard</string>
+    <string name="send_contact_shortcut_todesktop_success">Dodano skrót do kontaktu na pulpit</string>
     <string name="separatorJoinAggregateAll">Wszystkie kontakty</string>
     <string name="separatorJoinAggregateSuggestions">Sugerowane kontakty</string>
     <string name="service_provider">Dostawca usług</string>
@@ -551,6 +515,8 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="showAllContactsJoinItem">Pokaż wszystkie kontakty</string>
     <string name="simContacts_emptyLoading">Wczytywanie z karty SIM…</string>
     <string name="simContacts_title">Kontakty z karty SIM</string>
+    <string name="sim_card_no_free_space_message">Karta SIM jest pełna, nie można skopiować nowych kontaktów. Zwolnij miejsce na karcie SIM i spróbuj ponownie</string>
+    <string name="sim_card_no_free_space_title">Karta SIM jest pełna</string>
     <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
     <string name="sim_contacts_invisiable">Ukryte</string>
     <string name="sim_contacts_visiable">Widoczne</string>
@@ -589,7 +555,7 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="status_away">Nieobecny</string>
     <string name="status_busy">Zajęty</string>
     <string name="strequentList">Ulubione</string>
-    <string name="success_message_import_from_account">Import udany</string>
+    <string name="success_message_import_from_account">Przywracanie udane</string>
     <string name="summary_kind_title">Profil</string>
     <string name="sync_xiaomi_cloud_contacts">Przywróć z kopii online</string>
     <string name="t9_search_guide">Wpisz numer, lub wyszukaj kontakty przez T9.</string>
@@ -616,12 +582,12 @@ Wybierz konto, aby edytować kontakt."</string>
     <string name="upgrade_out_of_memory_uninstall">Odinstaluj część aplikacji</string>
     <string name="use_photo_as_primary">Użyj tego zdjęcia</string>
     <string name="user_profile_contacts_list_header">Ja</string>
-    <string name="vcard_export_request_rejected_message">Żądanie eksportu danych vCard zostało odrzucone. Spróbuj ponownie później.</string>
-    <string name="vcard_export_will_start_message">Plik %s zostanie za chwilę wyeksportowany.</string>
-    <string name="vcard_import_failed">"Nie można zaimportować pliku vCard."</string>
+    <string name="vcard_export_request_rejected_message">Żądanie kopii danych vCard zostało odrzucone. Spróbuj ponownie później.</string>
+    <string name="vcard_export_will_start_message">Plik %s zostanie za chwilę skopiowany.</string>
+    <string name="vcard_import_failed">"Nie można przywrócić pliku vCard."</string>
     <string name="vcard_import_request_rejected_message">Żądanie importu danych vCard zostało odrzucone. Spróbuj ponownie później.</string>
-    <string name="vcard_import_will_start_message">Plik %s zostanie za chwilę zaimportowany.</string>
-    <string name="vcard_import_will_start_message_with_default_name">Plik zostanie za chwilę zaimportowany.</string>
+    <string name="vcard_import_will_start_message">Plik %s zostanie za chwilę skopiowany.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Plik zostanie za chwilę skopiowany.</string>
     <string name="vcard_unknown_filename">kontakt</string>
     <string name="video_chat">Czat wideo</string>
     <string name="viewContactDesription">Wyświetl kontakt</string>

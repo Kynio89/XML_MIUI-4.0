@@ -195,9 +195,10 @@
     <string name="status_bar_please_disturb_button">Pokaż powiadomienia</string>
     <string name="status_bar_recent_clear_result">Zwolniono: %1$s pamięci | Dostępne: %2$s.</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
-    <string name="status_bar_recent_memory_info_format">%dM</string>
+    <string name="status_bar_recent_memory_info_format">%dMB</string>
     <string name="status_bar_recent_remove_item_title">Usuń z listy</string>
-    <string name="status_bar_settings_airplane">Tryb samolotowy</string>
+    <string name="status_bar_recent_clear_nothing_result">Pamięć została już zwolniona</string>
+	<string name="status_bar_settings_airplane">Tryb samolotowy</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Rotacja ekranu</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>

@@ -18,6 +18,7 @@
 	<string name="component_category_style_title">Style</string>
 	<string name="component_category_title">Dostosuj motyw</string>
 	<string name="component_category_wallpaper_title">Tapety</string>
+	<string name="component_lockstyle_personal_title">Ustawienia</string>
 	<string name="component_include_title">Wybrane (%1$s)</string>
 	<string name="component_screen_title">Dodaj zaznaczone</string>
 	<string name="component_select_title">Wybierz składniki(%1$s)</string>
@@ -25,6 +26,7 @@
 	<string name="desktop_wallpaper">Tapeta pulpitu</string>
 	<string name="download_success">Pobrano pomyślnie</string>
 	<string name="live_wallpaper">Animowana tapeta</string>
+	<string name="lockstyle_personal_settings">Własne</string>
 	<string name="lockscreen_wallpaper">Tapeta blokady ekranu</string>
 	<string name="play_all_audio_effect">odtwórz efekt dźwiękowy (wszystkich: %1$s)</string>
 	<string name="resource_fail_to_show">Motyw nie zawiera odpowiednich zasobów</string>

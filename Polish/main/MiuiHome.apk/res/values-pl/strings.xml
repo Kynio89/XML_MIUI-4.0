@@ -69,6 +69,7 @@
     <string name="photo_adjust">Edytuj zdjęcie</string>
     <string name="photo_confirm">Potwierdź</string>
     <string name="photo_load_failed">Nie udało się załadować zdjęcia!</string>
+    <string name="pref_cell_layout_size">Rozmiar siatki</string>
     <string name="pref_enable_drawing_cache_summary">Wyłącz, aby zwolnić więcej pamięci. Zmniejszy to wydajność</string>
     <string name="pref_enable_drawing_cache_title">Cache grafiki</string>
     <string name="pref_icon_shadow_summary">Włącz lub wyłącz cienie pod ikonami.</string>

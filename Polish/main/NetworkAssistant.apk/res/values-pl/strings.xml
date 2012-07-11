@@ -48,6 +48,8 @@
 Jeśli nie, możesz je zmienić."</string>
     <string name="finish_traffic_settings_title">Dostosuj</string>
     <string name="fire_rule_program_list">Aplikacje</string>
+    <string name="force_stop_dlg_text">Jeśli wymusisz zamknięcie aplikacji, może się ona zachowywać nieprzewidywalnie</string>
+	<string name="force_stop_dlg_title">Wymusić zamknięcie?</string>
     <string name="i_known_button">OK</string>
     <string name="input_hint">Wprowadź</string>
     <string name="loading_app">Ładowanie...</string>

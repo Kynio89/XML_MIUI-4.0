@@ -23,6 +23,7 @@
     <string name="account">Konto</string>
     <string name="account_chooser_dialog_title">Wybierz konto</string>
     <string name="action">Zaloguj się</string>
+    <string name="add_bookmark">Dodaj zakładkę</string>
     <string name="add_bookmark_short">Dodaj</string>
     <string name="add_bookmark_to_home_screen">Dodaj na pulpit</string>
     <string name="add_folder">Dodaj folder</string>
@@ -70,6 +71,8 @@
     <string name="bookmark_saved">Zapisano na liście zakładek.</string>
     <string name="bookmark_this_page">Dodaj tę stronę do zakładek</string>
     <string name="bookmark_thumbnail_view">Miniaturki</string>
+    <string name="bookmark_title">Nazwa</string>
+    <string name="bookmark_url">URL</string>
     <string name="bookmark_url_not_valid">"URL jest nieprawidłowy"</string>
     <string name="bookmarks">Zakładki</string>
     <string name="bookmarks_management">Zakładki</string>
@@ -186,6 +189,12 @@
     <string name="importing_favorite_files">Przywracanie ...</string>
     <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
     <string name="instant_search_label">Google z wyszukiwaniem dynamicznym (Laboratorium)</string>
+    <string name="is_first_history_item">Pierwszy wpis w historii</string>
+	<string name="is_first_tab">Pierwsza zakładka</string>
+	<string name="is_last_history_item">Ostatni wpis w historii</string>
+	<string name="is_last_tab">Ostatnia zakładka</string>
+	<string name="is_page_bottom">Na dole strony</string>
+	<string name="is_page_top">Na górze strony</string>
     <string name="js_engine_flags">Set JS flags</string>
     <string name="loadSuspended">"Przeglądarka nie może wczytać strony ze względu na brak połączenia internetowego."</string>
     <string name="loadSuspendedTitle">Brak połączenia</string>

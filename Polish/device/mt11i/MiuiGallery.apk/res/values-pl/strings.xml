@@ -278,4 +278,5 @@
     <string name="width">Szerokość</string>
     <string name="yes">Zapisz</string>
     <string name="message_no_delete_access">Odmowa dostępu. Nie można usunąć pliku lub katalogu: %s</string>
+    <string name="show_details">szczegóły</string>
 </resources>

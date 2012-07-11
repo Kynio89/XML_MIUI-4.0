@@ -7,6 +7,7 @@
     <string name="add_fdn_contact">Dodaj ustalony numer</string>
     <string name="add_sip_account">Dodaj konto</string>
     <string name="add_vm_number_str">Dodaj numer</string>
+    <string name="add_zero_prefix">Dodaj prefix 0 przy wybieraniu numeru komórkowego</string>
     <string name="adding_fdn_contact">Trwa dodawanie ustalonego numeru…</string>
     <string name="additional_cdma_call_settings">Dodatkowe ustawienia połączeń CDMA</string>
     <string name="additional_gsm_call_settings">Dodatkowe ustawienia</string>
@@ -158,7 +159,7 @@
     <string name="call_title_redialing_with_times_miui">Ponowne wybieranie %d razy</string>
     <string name="call_waiting_sum_miui">Powiadom mnie o nowym połączeniu podczas rozmowy</string>
     <string name="call_waiting_tone_continuously_miui">Odtwórz ciągły ton</string>
-    <string name="call_waiting_tone_stop_summary">(Przycisk głośności wyłączy ton)</string>
+    <string name="call_waiting_tone_stop_summary">" (Przycisk głośności wyłączy ton)"</string>
     <string name="call_waiting_tone_summary_miui">Odtwórz ton przy oczekującym połączeniu (naciśnij głośność+ by wyciszyć)</string>
     <string name="call_waiting_tone_title_miui">Ton połączenia oczekującego</string>
     <string name="call_waiting_tone_twice_and_vibrate_miui">Wibruj i odtwórz ton</string>
@@ -582,6 +583,7 @@
     <string name="network_message">Komunikat sieciowy</string>
     <string name="network_query_error">Podczas wyszukiwania sieci wystąpił błąd.</string>
     <string name="network_settings_sel_sub">Select Subscription</string>
+    <string name="network_work_query_failed_message_miui">"Zapytanie do sieci nieudane, naciśnij 'anuluj' aby wybrać preferowaną sieć automatycznie lub naciśnij 'ok' by ponowić"</string>
     <string name="networks">Operatorzy sieci</string>
     <string name="networks_title_miui">Operatorzy sieci</string>
     <string name="newPin2Label">Nowy PIN2</string>
@@ -589,6 +591,7 @@
     <string name="new_cards_available">New card available. Please configure subscriptions.</string>
     <string name="new_pin2_hint_miui">Nowy PIN2</string>
     <string name="new_pin_hint_miui">Nowy PIN</string>
+    <string name="next_miui">Dalej</string>
     <string name="no_change">Nie dokonano żadnych zmian.</string>
     <string name="no_internet_available">Aby nawiązać połączenie przez internet, sprawdź najpierw połączenie internetowe</string>
     <string name="no_internet_available_title">Brak połączenia internetowego</string>
@@ -788,6 +791,8 @@
     <string name="regional_disable">Wiadomości regionalne wyłączone</string>
     <string name="regional_enable">Wiadomości regionalne włączone</string>
     <string name="register_automatically">Automatyczna rejestracja...</string>
+    <string name="register_network_failed_message_miui">"Nie można zarejestrować się w wybranej sieci. Chcesz wybrać sieć automatycznie?"</string>
+    <string name="register_network_failed_title_miui">Usługa niedostępna</string>
     <string name="register_on_network">Rejestrowanie w %s...</string>
     <string name="registration_done">Zarejestrowano w sieci.</string>
     <string name="registration_status_checking_status">Sprawdzanie stanu...</string>
@@ -912,11 +917,11 @@
     <string name="sim_unlock_status_text">Authenticating PIN…</string>
     <string name="sim_unlock_success">Odblokowanie SIM udane.</string>
     <string name="sim_unlock_unlock_text">Odblokuj</string>
-    <string name="sip_add_account_tip_text">Dodaj konto SIP by dzwonić przez Internet</string>
     <string name="sip_account_list">Konta SIP</string>
     <string name="sip_accounts">Konta SIP</string>
     <string name="sip_accounts_summary">Dzwonienie przez Internet (SIP)</string>
     <string name="sip_accounts_title">Konta</string>
+    <string name="sip_add_account_tip_text">Dodaj konto SIP by dzwonić przez Internet</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Zawsze wyślij</string>
@@ -987,6 +992,7 @@
     <string name="sum_hide_caller_id">Ukrycie numeru podczas rozmów wychodzących</string>
     <string name="sum_search_networks">Wyszukaj wszystkie dostępne sieci</string>
     <string name="sum_select_automatically">Automatycznie wybierz preferowaną sieć</string>
+    <string name="sum_select_automatically_option_miui">Preferowane sieć %s wybrana automatycznie</string>
     <string name="sum_show_caller_id">Numer wyświetlany w połączeniach wychodzących</string>
     <string name="sum_voicemail_choose_provider">Wybierz usługę poczty głosowej</string>
     <string name="sum_xdivert_enabled">X-Divert Enabled</string>
@@ -995,9 +1001,9 @@
     <string name="technology_news_enable">Wiadomości technologiczne włączone</string>
     <string name="telocation_setting_miui">Ustawienia lokalizacji</string>
     <string name="telocation_setting_summary_countrycode_off">Nie dodawaj kierunkowego kraju</string>
-	<string name="telocation_setting_summary_countrycode_on">Dodaj kierunkowy kraju</string>
-	<string name="telocation_setting_summary_teloc_off">Ukryj lokalizację</string>
-	<string name="telocation_setting_summary_teloc_on">Pokaż lokalizację</string>
+    <string name="telocation_setting_summary_countrycode_on">Dodaj kierunkowy kraju</string>
+    <string name="telocation_setting_summary_teloc_off">Ukryj lokalizację</string>
+    <string name="telocation_setting_summary_teloc_on">Pokaż lokalizację</string>
     <string name="telocation_show_settings_miui">Opcje wyświetlania</string>
     <string name="third_party_account_summary">To konto jest obecnie używane przez aplikację %s</string>
     <string name="throttle_current_usage">Ilość użytych danych w bieżącym okresie</string>
@@ -1025,6 +1031,10 @@
     <string name="tty_mode_option_title_miui">TTY mode</string>
     <string name="tty_mode_summary">Enable TTY mode</string>
     <string name="tty_mode_title">TTY mode</string>
+    <string name="turn_off_auto_select_confirm_message_miui">Sieć może nie być dostępna. Wyłączyć funkcję?</string>
+    <string name="turn_off_auto_select_title_miui">Wyłącz automatyczne wybieranie sieci</string>
+    <string name="turn_off_auto_select_warning_message_miui">Po wyłączeniu tej funkcji zostanie użyta sieć wybrana ręcznie</string>
+    <string name="turn_off_miui">turn-off</string>
     <string name="turnover_mute_summary_miui">Wycisza dzwonek przy odwróceniu telefonu</string>
     <string name="turnover_mute_title_miui">Odwróć by wyciszyć</string>
     <string name="undefined_miui">Undefined</string>
@@ -1067,6 +1077,6 @@
     <string name="voicemail_settings_number_hint_miui">Wpisz numer poczty głosowej</string>
     <string name="voicemail_settings_number_label">Numer poczty głosowej</string>
     <string name="voicemail_settings_number_title_miui">Numer poczty głosowej</string>
-    <string name="wait_prompt_str">"Wysłać następujące tony? "</string>
+    <string name="wait_prompt_str">"Wysłać następujące tony?"</string>
     <string name="wild_prompt_str">Zastąp symbol wieloznaczny</string>
 </resources>
