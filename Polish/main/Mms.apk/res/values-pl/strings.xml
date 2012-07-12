@@ -220,6 +220,14 @@
     <string name="multimedia_notification">Powiadomienie o wiadomości multimedialnej</string>
     <string name="mx_activate_failure">Nie można uruchomić wiadomości w chmurze</string>
     <string name="mx_activating">Aktywowanie…</string>
+	<string name="mx_activate_error_malformed_info">Nie można aktywować wiadomości w chmurze. Wymagana jest ponowna aktywacja</string>
+	<string name="mx_activate_error_server">Błąd serwera aktywacji wiadomości w chmurze</string>
+	<string name="mx_activate_error_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze</string>
+	<string name="mx_activate_error_title">Nie można aktywować wiadomości w chmurze</string>
+	<string name="mx_activate_hint_malformed_info">Operacja przerwana. Wymagana jest ponowna aktywacja wiadomości w chmurze. Aktywować teraz?</string>
+	<string name="mx_activate_hint_server">Błąd serwera aktywacji wiadomości w chmurze. Aktywować teraz?</string>
+	<string name="mx_activate_hint_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze. Aktywować teraz?</string>
+    <string name="mx_reactivate">Reaktywuj wiadomości w chmurze</string>
     <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
     <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne.</string>
     <string name="mx_btn_enable">Włącz</string>

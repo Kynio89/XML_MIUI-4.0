@@ -33,6 +33,7 @@
 	<string name="menu_create_folder">Nowy Katalog</string>
 	<string name="menu_delete">Usuń</string>
 	<string name="menu_deselect_all">Odznacz wszystko</string>
+	<string name="menu_edit">Edycja</string>
 	<string name="menu_export_text">Eksportuj tekst</string>
 	<string name="menu_folder_change_name">Zmień nazwę katalogu</string>
 	<string name="menu_folder_delete">Usuń katalog</string>

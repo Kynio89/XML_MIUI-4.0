@@ -217,6 +217,7 @@
     <string name="new_folder">Nowy folder</string>
     <string name="new_incognito_tab">Nowa karta incognito</string>
     <string name="new_tab">Nowa karta</string>
+    <string name="not_remind_again">Nie przypominaj więcej</string>
     <string name="no_subfolders">Brak podfolderów</string>
     <string name="ok">OK</string>
     <string name="open_all_bookmarks">Otwórz</string>
@@ -237,6 +238,9 @@
     <string name="pref_autofill_profile_editor_summary">Skonfiguruj tekst autouzupełniany w formularzach internetowych</string>
     <string name="pref_autologin_progress">Logowanie w witrynach Google za pomocą identyfikatora %s</string>
     <string name="pref_autologin_title">Automatyczne logowanie Google</string>
+    <string name="pref_clear_cache_for_exit">Wyczyść pamięć podręczną przy wyjściu</string>
+	<string name="pref_clear_history_for_exit">Wyczyść historię przy wyjściu</string>
+	<string name="pref_confirm_for_exit">Potwierdź przy wyjściu</string>
     <string name="pref_content_autofit">Autodopasowanie stron</string>
     <string name="pref_content_autofit_summary">Formatuj strony internetowe, aby dopasować je do ekranu.</string>
     <string name="pref_content_block_popups">Blokuj wyskakujące okna</string>
@@ -294,6 +298,7 @@
     <string name="pref_force_userscalable">Wymuś powiększenie</string>
     <string name="pref_force_userscalable_summary">"Nie zezwalaj witrynie sterować powiększeniem"</string>
     <string name="pref_general_autofill_title">Autouzupełnianie</string>
+    <string name="pref_general_exit_setting_title">Akcje przy zamknięciu</string>
     <string name="pref_general_sync_title">Synchronizacja</string>
     <string name="pref_general_title">Ogólne</string>
     <string name="pref_inverted">Negatyw</string>
