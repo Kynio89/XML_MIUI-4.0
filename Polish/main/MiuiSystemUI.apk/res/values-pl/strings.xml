@@ -199,6 +199,7 @@
 	<string name="status_bar_recent_guide_top">Przesuń w górę by zamknąć</string>
     <string name="status_bar_recent_inspect_item_title">Informacje</string>
     <string name="status_bar_recent_memory_info_format">%dMB</string>
+    <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="status_bar_recent_remove_item_title">Usuń z listy</string>
     <string name="status_bar_recent_clear_nothing_result">Pamięć została już zwolniona</string>
 	<string name="status_bar_settings_airplane">Tryb samolotowy</string>

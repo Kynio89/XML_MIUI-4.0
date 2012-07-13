@@ -16,6 +16,10 @@
         <item>Nieruchoma (lewa strona)</item>
         <item>Nieruchoma (prawa strona)</item>
     </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="gadget_weather_image">
         <item>Przejrzyście</item>
         <item>Pochmurnie</item>

@@ -66,4 +66,6 @@
     <string name="select_all">Zaznacz wszystko</string>
     <string name="select_operation_items">Zaznacz</string>
     <string name="selected_count">Zaznaczonych %1$d z %2$d</string>
+    <string name="download_in_process">Pobieranie</string>
+    <string name="download_complete">Pobrane</string>
 </resources>

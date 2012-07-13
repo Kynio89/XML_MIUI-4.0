@@ -205,7 +205,7 @@
     <string name="message_type_label">"Typ: "</string>
     <string name="messagelist_sender_self">Ja</string>
     <string name="messaging_intent_label">SMS-MMS</string>
-    <string name="mi_msg">Wiadomości w chmurze</string>
+    <string name="mi_msg">Połączenia Internetowe</string>
     <string name="mms">MMS</string>
     <string name="move_down">Przesuń w dół</string>
     <string name="move_up">Przesuń w górę</string>
@@ -229,11 +229,11 @@
 	<string name="mx_activate_hint_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze. Aktywować teraz?</string>
     <string name="mx_reactivate">Reaktywuj wiadomości w chmurze</string>
     <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
-    <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne.</string>
+    <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne</string>
     <string name="mx_btn_enable">Włącz</string>
     <string name="mx_count_dspt">Od momentu aktywacji, MIUI wysłało dla Ciebie %d wiadomości w chmurze</string>
-    <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI.</string>
-    <string name="mx_enable">Włącz wiadomości w chmurze</string>
+    <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
+    <string name="mx_enable">Wiadomości w chmurze</string>
     <string name="mx_warning_notice">W celu aktywacji wiadomości w chmurze zostanie wysłany SMS. Opłata za SMS zgodnie z taryfą operatora</string>
     <string name="need_download">Oczekiwanie na synchronizację...</string>
     <string name="new_message">Nowa wiadomość</string>

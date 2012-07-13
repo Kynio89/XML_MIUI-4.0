@@ -257,22 +257,26 @@
     <string name="download_failed">Pobieranie nieudane</string>
     <string name="download_preview_failed">Nie udało się załadować podglądu</string>
     <string name="firewall_setting">Firewall</string>
-    <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? 
-
-Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
+    <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia > System > Przyciski
+        sprzętowe"</string>
     <string name="first_back_long_press_title">Zachowanie przycisku powrotu</string>
     <string name="fools_day">"Prima Aprilis"</string>
     <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>
     <string name="global_action_privacy_mode_dialog_message">W trybie poufnym połączenia, notatki i wiadomości tekstowe będą ukryte, a ustawienia pulpitu nie będą edytowalne.</string>
     <string name="global_action_privacy_mode_off_status">Tryb poufny jest wyłączony</string>
     <string name="global_action_privacy_mode_on_status">Tryb poufny jest włączony</string>
-    <string name="global_action_privacy_mode_on_toast">Tryb poufny jest włączony. W trybie poufnym połączenia, notatki i wiadomości tekstowe będą ukryte, a ustawienia pulpitu nie będą edytowalne.</string>
+    <string name="global_action_privacy_mode_on_toast">Tryb poufny jest włączony. W trybie poufnym połączenia, notatki i wiadomości tekstowe będą ukryte, a ustawienia pulpitu nie będą
+        edytowalne.</string>
     <string name="global_action_toggle_privacy_mode">Poufny</string>
     <string name="grain_buds"/>
     <string name="grain_in_ear"/>
     <string name="grain_rain"/>
     <string name="great_cold"/>
     <string name="great_heat"/>
+    <string name="group_name_contacts">Kontakty</string>
+    <string name="group_name_friends">Znajomi</string>
+    <string name="group_name_family">Rodzina</string>
+    <string name="group_name_coworkers">Współpracownicy</string>
     <string name="heavy_snow"/>
     <string name="hoar_frost_falls"/>
     <string name="insects_awaken"/>
@@ -315,17 +319,17 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="miui_privacy_policy_title">Polityka prywatności</string>
     <string name="miui_user_agreement_title">Umowa użytkownika</string>
     <string name="month_of_january">Sty</string>
-	<string name="month_of_february">Lut</string>
-	<string name="month_of_march">Mar</string>
-	<string name="month_of_april">Kwi</string>
-	<string name="month_of_may">Maj</string>
-	<string name="month_of_june">Cze</string>
-	<string name="month_of_july">Lip</string>
-	<string name="month_of_august">Śie</string>
-	<string name="month_of_september">Wrz</string>
-	<string name="month_of_october">Paź</string>
-	<string name="month_of_november">Lis</string>
-	<string name="month_of_december">Gru</string>
+    <string name="month_of_february">Lut</string>
+    <string name="month_of_march">Mar</string>
+    <string name="month_of_april">Kwi</string>
+    <string name="month_of_may">Maj</string>
+    <string name="month_of_june">Cze</string>
+    <string name="month_of_july">Lip</string>
+    <string name="month_of_august">Śie</string>
+    <string name="month_of_september">Wrz</string>
+    <string name="month_of_october">Paź</string>
+    <string name="month_of_november">Lis</string>
+    <string name="month_of_december">Gru</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="national_day"/>
     <string name="never">Nigdy</string>
@@ -338,6 +342,8 @@ Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
     <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="partys_day"/>
     <string name="payphone">Telefon płatny</string>
+    <string name="perm_activate_lab">Aktywuj usługę Xiaomi</string>
+    <string name="perm_activate_dspt">Wyślij SMS by aktywować usługę Xiaomi</string>
     <string name="private_num">Numer prywatny</string>
     <string name="processing">Przetwarzanie ...</string>
     <string name="reboot_confirm">Telefon zostanie uruchomiony ponownie</string>

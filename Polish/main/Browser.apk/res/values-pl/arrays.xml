@@ -30,4 +30,12 @@
         <item>Tylko przy Wi-Fi</item>
         <item>Zawsze</item>
     </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Strona góra/dół</item>
+        <item>Przełączenie karty</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Strona do przodu/do tyłu</item>
+        <item>Przełączenie karty</item>
+    </string-array>
 </resources>

@@ -294,17 +294,20 @@
     <string name="pref_extras_title">Zaawansowane</string>
     <string name="pref_extras_website_settings">Ustawienia witryn</string>
     <string name="pref_extras_website_settings_summary">Ustawienia zaawansowane dla poszczególnych witryn</string>
-    <string name="pref_font_size_category">Rozmiar tekstu</string>
+    <string name="pref_fling_on_border_enabled">Przesunięcie do krawędzi ekranu</string>
+    <string name="pref_fling_on_border_operation">Akcja dla przesunięcia do krawędzi ekranu</string>   <string name="pref_font_size_category">Rozmiar tekstu</string>
     <string name="pref_force_userscalable">Wymuś powiększenie</string>
     <string name="pref_force_userscalable_summary">"Nie zezwalaj witrynie sterować powiększeniem"</string>
     <string name="pref_general_autofill_title">Autouzupełnianie</string>
     <string name="pref_general_exit_setting_title">Akcje przy zamknięciu</string>
     <string name="pref_general_sync_title">Synchronizacja</string>
     <string name="pref_general_title">Ogólne</string>
+    <string name="pref_gesture_title">Gesty</string>
     <string name="pref_inverted">Negatyw</string>
     <string name="pref_inverted_category">Negatyw ekranu</string>
     <string name="pref_inverted_contrast">Kontrast</string>
     <string name="pref_inverted_summary">Czarny zmieni się w biały i odwrotnie</string>
+    <string name="pref_key_title">Przyciski sprzętowe</string>
     <string name="pref_lab_fullscreen">Pełny ekran</string>
     <string name="pref_lab_fullscreen_summary">Użyj trybu pełnoekranowego, aby ukryć pasek stanu</string>
     <string name="pref_lab_quick_controls">Szybkie sterowanie</string>
@@ -355,6 +358,8 @@
     <string name="pref_ua_title">User agent</string>
     <string name="pref_use_instant_search">Wyszukiwanie dynamiczne Google</string>
     <string name="pref_use_instant_search_summary">Użyj wyszukiwania dynamicznego Google, aby uzyskiwać wyniki podczas pisania (może być pobierana większa ilość danych).</string>
+    <string name="pref_volume_key_enabled">Przyciski głośności</string>
+    <string name="pref_volume_key_operation">Akcja dla przycisków głośności</string>
     <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
     <string name="preview">Podgląd</string>
     <string name="progress_dialog_setting_wallpaper">Ustawianie tapety…</string>

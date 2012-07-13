@@ -652,7 +652,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="enable_adb_summary">Tryb debugowania, gdy podłączone jest USB</string>
     <string name="enable_back_long_press">Zamykanie aplikacji</string>
     <string name="enable_compatibility">Skaluj aplikację</string>
-    <string name="enable_snapshot_screenlock">Długie naciśnięcie klawisza Powrotu wykonuje zrzut ekranu blokady</string>
+    <string name="enable_snapshot_screenlock">Zrzut na ekranie blokady</string>
     <string name="enable_text">Włącz</string>
     <string name="erase_application">Usuń aplikacje</string>
 	<string name="erase_application_description">Wymaż wszystkie zainstalowane aplikacje</string>

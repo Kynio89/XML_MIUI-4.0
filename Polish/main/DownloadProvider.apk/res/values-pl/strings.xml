@@ -26,10 +26,10 @@
     <string name="wifi_required_body" formatted="false">"Do pobrania %s musisz użyć połączenia Wi-Fi. 
 
 Wybierz %s aby pobrać po nawiązaniu połączenia z siecią Wi-Fi."</string>
-    <string name="wifi_recommended_title">Plik jest za duży (%s)</string>
-    <string name="wifi_recommended_body">"Pobieranie może skrócić czas pracy na baterii i spowodować przekroczenie limitu transmisji danych, za co operator może naliczyć dodatkowe opłaty.
+    <string name="wifi_recommended_title">Plik jest za duży</string>
+    <string name="wifi_recommended_body" formatted="false">"Pobieranie może skrócić czas pracy na baterii i spowodować przekroczenie limitu transmisji danych, za co operator może naliczyć dodatkowe opłaty.
 
-Wybierz \"Dodaj do kolejki\" aby pobrać po połączeniu z siecią Wi-Fi.
+Wybierz \"Dodaj do kolejki\" aby pobrać po połączeniu z siecią Wi-Fi.  %s（%s）
 
 Możesz zmienić domyślne parametry w Ustawieniach."</string>
     <string name="button_queue_for_wifi">Dodaj do kolejki</string>
@@ -38,4 +38,5 @@ Możesz zmienić domyślne parametry w Ustawieniach."</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Niewystarczająca ilość miejsca na nośniku zewnętrznym</string>
     <string name="dialog_insufficient_space_on_cache">Niewystarczająca ilość miejsca w pamięci wewnętrznej</string>
+    <string name="auto_restart_under_wifi">Plik zostanie pobrany automatycznie przy Wi-Fi</string>
 </resources>
