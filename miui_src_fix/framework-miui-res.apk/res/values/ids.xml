@@ -67,6 +67,7 @@
     <item type="id" name="option1">false</item>
     <item type="id" name="option2">false</item>
     <item type="id" name="option3">false</item>
+    <item type="id" name="image">false</item>
     <item type="id" name="arrow_left">false</item>
     <item type="id" name="arrow_right">false</item>
     <item type="id" name="content">false</item>
@@ -137,10 +138,9 @@
     <item type="id" name="operator">false</item>
     <item type="id" name="resourcelist">false</item>
     <item type="id" name="loadingprogressbar">false</item>
+    <item type="id" name="seeMore">false</item>
     <item type="id" name="tablayout">false</item>
     <item type="id" name="categorylist">false</item>
-    <item type="id" name="hottest_button">false</item>
-    <item type="id" name="latest_button">false</item>
     <item type="id" name="operationBar">false</item>
     <item type="id" name="operationView">false</item>
     <item type="id" name="magicButton">false</item>
@@ -149,6 +149,6 @@
     <item type="id" name="deleteButton">false</item>
     <item type="id" name="action_select_all">false</item>
     <item type="id" name="delete">false</item>
-    <item type="id" name="image">false</item>
-	<item type="id" name="seeMore">false</item>
+    <item type="id" name="hottest_button">false</item>
+    <item type="id" name="latest_button">false</item>
 </resources>
